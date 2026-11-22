@@ -16,8 +16,33 @@ export function dayDiff(a,b) { return Math.round((parseDay(b)-parseDay(a))/86400
 export function inWindow(event, start, end) {
   return event.date <= end && (event.endDate || event.date) >= start && !['cancelled','superseded'].includes(event.lifecycle);
 }
+export function windowEnd(today, span='3m') {
+  return span === '7d' ? addDays(today,6) : span === '30d' ? addDays(today,29) : addMonths(today,3);
+}
+export function recentStockNews(items=[], now=new Date()) {
+  const end=now.getTime(), cutoff=end-72*60*60*1000;
+  return items.filter(n=>{const at=Date.parse(n.publishedAt);return at>=cutoff&&at<=end;})
+    .sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt));
+}
+// Include both partial boundary months. Each day counts ongoing events too.
+export function overviewMonths(events, start, end) {
+  const months=[];
+  for (let first=start.slice(0,7)+'-01'; first<=end; first=addMonths(first,1)) {
+    const last=addDays(addMonths(first,1),-1);
+    const from=first<start?start:first, through=last>end?end:last;
+    const monthly=events.filter(e=>inWindow(e,from,through));
+    const days=[];
+    for (let date=first;date<=last;date=addDays(date,1)) {
+      const active=date>=start&&date<=end;
+      const daily=active?monthly.filter(e=>inWindow(e,date,date)):[];
+      days.push({date,active,events:daily,high:daily.some(e=>e.impact==='high'),tentative:daily.some(e=>e.certainty!=='confirmed')});
+    }
+    months.push({first,from,through,events:monthly,days});
+  }
+  return months;
+}
 export function filterEvents(events, {today=todayISO(), span='3m', query='', category='all', highOnly=false, savedOnly=false, saved=[], day=null}={}) {
-  const end = span === '7d' ? addDays(today,6) : span === '30d' ? addDays(today,29) : addMonths(today,3);
+  const end = windowEnd(today,span);
   const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
   return events.filter(e => inWindow(e,today,end))
     .filter(e => category === 'all' || e.category === category)

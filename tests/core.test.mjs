@@ -1,6 +1,34 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {todayISO,addMonths,filterEvents,inWindow,toICS,safeURL} from '../core.js';
+import {todayISO,addMonths,filterEvents,inWindow,toICS,safeURL,overviewMonths,windowEnd,recentStockNews} from '../core.js';
+
+test('stock headlines age out in the browser even when the daily updater is unavailable',()=>{
+  const now=new Date('2026-11-22T04:30:00Z');
+  const news=['2026-11-19T04:30:00Z','2026-11-19T04:29:59Z','2026-11-22T04:30:01Z','invalid'].map(publishedAt=>({publishedAt}));
+  assert.equal(recentStockNews(news,now).length,1);
+  assert.equal(recentStockNews(news,new Date('2026-11-26T04:30:00Z')).length,0);
+});
+
+test('overview keeps both partial months and clips events to the rolling window',()=>{
+  const events=[{id:'cross',date:'2026-11-30',endDate:'2026-12-02',impact:'high',certainty:'tentative'},{id:'boundary',date:'2027-02-21',impact:'medium',certainty:'confirmed'},{id:'outside',date:'2027-02-22'},{id:'cancelled',date:'2026-12-01',lifecycle:'cancelled'}];
+  const months=overviewMonths(events,'2026-11-21','2027-02-21');
+  assert.deepEqual(months.map(m=>m.first),['2026-11-01','2026-12-01','2027-01-01','2027-02-01']);
+  assert.deepEqual(months.map(m=>m.events.length),[1,1,0,1]);
+  assert.equal(months[0].days[19].active,false);
+  assert.equal(months[1].days[0].events[0].id,'cross');
+  assert.equal(months[1].days[0].high,true);
+  assert.equal(months[1].days[0].tentative,true);
+  assert.equal(months[3].days[20].events[0].id,'boundary');
+  assert.equal(months[3].days[21].active,false);
+  assert.equal(months[3].days[21].events.length,0);
+});
+test('short filters retain only their active dates in the overview',()=>{
+  const end=windowEnd('2026-12-29','7d');
+  assert.equal(end,'2027-01-04');
+  const months=overviewMonths([],'2026-12-29',end);
+  assert.equal(months.length,2);
+  assert.equal(months.flatMap(m=>m.days).filter(d=>d.active).length,7);
+});
 
 test('three calendar months clamp the day rather than overflow February',()=>{
   assert.equal(addMonths('2026-11-30',3),'2027-02-28');

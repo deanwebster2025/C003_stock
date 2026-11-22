@@ -377,6 +377,70 @@
       "endDate": "2027-03-18",
       "notes": "Official pages differ on the opening day; treat the start as tentative.",
       "notesZh": "不同官方页面的开始日期不一致，首日按暂定处理。"
+    },
+    {
+      "id": "adsk-q3-fy2027",
+      "title": "Autodesk FY2027 Q3 earnings call",
+      "titleZh": "欧特克财年2027第三季财报电话会",
+      "shortTitle": "ADSK earnings",
+      "shortTitleZh": "ADSK财报",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timezone": "America/New_York",
+      "category": "earnings",
+      "impact": "high",
+      "tickers": [
+        "ADSK"
+      ],
+      "sectors": [],
+      "sectorsZh": [],
+      "summary": "Scheduled results call; watch the outlook, underlying growth and free cash flow.",
+      "summaryZh": "已公布的财报电话会；关注未来指引、基础增长和自由现金流。",
+      "focus": "The company announced the call on November 2 at 2 p.m. Pacific / 5 p.m. Eastern. This is a scheduled call, not a guaranteed market reaction.",
+      "focusZh": "公司11月2日宣布电话会于美西14:00、美东17:00召开。会议时间已定，市场反应未定。",
+      "upside": "Improving forward guidance and credible cash generation could support the stock.",
+      "upsideZh": "更强的未来指引和可信的现金创造能力可能支持股价。",
+      "downside": "Disappointing guidance or weaker margins could pressure the stock.",
+      "downsideZh": "指引不及预期或利润率恶化可能压制股价。",
+      "source": "adsk-q3-fy2027",
+      "sourceUrl": "https://adsknews.autodesk.com/en/pressrelease/autodesk-extends-invitation-to-join-financial-results-conference-call-26/",
+      "certainty": "confirmed",
+      "verification": "verified",
+      "verifiedAt": "2026-11-22T04:31:56Z",
+      "origin": "curated",
+      "lifecycle": "active"
+    },
+    {
+      "id": "aa-citi-2026",
+      "title": "Alcoa at Citi Basic Materials Conference",
+      "titleZh": "美铝参加花旗基础材料会议",
+      "shortTitle": "AA outlook",
+      "shortTitleZh": "AA经营展望",
+      "date": "2026-12-02",
+      "time": "08:40",
+      "timezone": "America/New_York",
+      "category": "earnings",
+      "impact": "medium",
+      "tickers": [
+        "AA"
+      ],
+      "sectors": [],
+      "sectorsZh": [],
+      "summary": "Management will discuss the business and current-quarter outlook in a Q&A session.",
+      "summaryZh": "管理层将通过问答讨论公司业务及本季度经营展望。",
+      "focus": "Watch aluminum/alumina prices, costs and guidance. A presentation does not guarantee new financial guidance. Announced November 18.",
+      "focusZh": "关注铝及氧化铝价格、成本和指引。会议不保证发布新财务指引。公告日期为11月18日。",
+      "upside": "Improving forward guidance and credible cash generation could support the stock.",
+      "upsideZh": "更强的未来指引和可信的现金创造能力可能支持股价。",
+      "downside": "Disappointing guidance or weaker margins could pressure the stock.",
+      "downsideZh": "指引不及预期或利润率恶化可能压制股价。",
+      "source": "aa-citi-2026",
+      "sourceUrl": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx",
+      "certainty": "confirmed",
+      "verification": "verified",
+      "verifiedAt": "2026-11-22T04:31:56Z",
+      "origin": "curated",
+      "lifecycle": "active"
     }
   ],
   "sources": [
@@ -489,6 +553,26 @@
       "datePattern": "March\\s+15.{1,5}18",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。"
+    },
+    {
+      "id": "adsk-q3-fy2027",
+      "name": "Autodesk Investor Relations",
+      "shortName": "Company IR",
+      "url": "https://adsknews.autodesk.com/en/pressrelease/autodesk-extends-invitation-to-join-financial-results-conference-call-26/",
+      "parser": "curated",
+      "datePattern": "November\\s+24,?\\s+2026",
+      "description": "Company announcement confirming the scheduled event; the outcome remains unknown.",
+      "descriptionZh": "公司公告确认的会议日期，会议结果仍未确定。"
+    },
+    {
+      "id": "aa-citi-2026",
+      "name": "Alcoa Investor Relations",
+      "shortName": "Company IR",
+      "url": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx",
+      "parser": "curated",
+      "datePattern": "December\\s+2,?\\s+2026",
+      "description": "Company announcement confirming the scheduled event; the outcome remains unknown.",
+      "descriptionZh": "公司公告确认的会议日期，会议结果仍未确定。"
     }
   ]
 }

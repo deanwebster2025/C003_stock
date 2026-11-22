@@ -4,6 +4,9 @@ A clear, bilingual market-event dashboard with a rolling **three-calendar-month*
 
 ## What is ready
 
+- The default **three-month overview** shows all intersecting months together, including the partial first and last months. Colored dates open that day's events; the timeline remains available.
+- **Watchlist** starts with BA, ADSK, AA and UNH. Company-name RSS searches refresh daily and include only headlines published in the trailing 72 hours. Dated three-month assessments are editorial and do not silently change when headlines refresh.
+
 - An event timeline and monthly calendar, with search, sector categories and high-impact filters.
 - English / 中文. Event explanations and scenario analysis are included in both languages. Publisher headlines retain their original language.
 - Separate scheduled / tentative dates and uncertain watch themes. No made-up probabilities, price targets or consensus estimates.
@@ -57,6 +60,7 @@ Official GitHub references:
 | Curated policy / industry events | Rechecks their cited source for the configured date. Changed or inaccessible pages are flagged for editorial review. |
 | Supported company announcements | Broadcom's official RSS is scanned for explicitly dated future earnings announcements. Additional company feeds can be added to the updater. |
 | Uncertain watch themes | Recent related publisher headlines are discovered through Google News RSS. Headlines are context and never become confirmed future dates automatically. |
+| Watchlist companies | Queries in `data/watchlist.json` discover up to 25 recent headlines per company. Exact normalized titles and repeated links are deduplicated. Both the updater and browser enforce the 72-hour publication cutoff, even after a failed refresh. |
 | Rolling window | The browser uses **America/New_York** and advances from today through the same date three months later, clamping month-end dates correctly. |
 
 ### Important coverage limits
@@ -90,6 +94,10 @@ python scripts/build.py
 
 To add or change a one-off event, edit **data/curated.json**. Include a stable ID, ISO date, English/Chinese explanation, source URL, certainty and source-matching pattern. For an event superseded or cancelled by an official announcement, set `lifecycle` to `superseded` or `cancelled`; it disappears from the forward calendar. To update watch-theme wording or add collectors, edit **scripts/catalog.py** and **scripts/update_events.py**.
 
+To add a stock, append an entry to **data/watchlist.json** with `ticker`, `name`, `nameZh`, company-name `aliases`, a focused `query`, and `research: null`. The next daily run includes it without interface changes. A ticker alone is not a safe news query (for example, AA is ambiguous). Research may be added with its original `asOf`, `reviewBy`, bilingual rationale and linked sources. Never advance `asOf` merely because the daily job ran. UNH initially tracks headlines without an investment assessment. Existing assessments are marked for review after their checkpoint or after seven days.
+
+RSS coverage is not comprehensive; publisher timestamps can describe new coverage of an older event. Different headlines about the same underlying story may remain. A successful empty feed means only that no matching records were retrieved. This app does not fetch full articles, generate automatic recommendations or provide live quotes. Company-specific calendar entries still require source verification; no future earnings date is inferred from a news headline.
+
 Source failures preserve prior records and verification times. Successful changes to a recurring event's date replace its previous date and appear in **Sources & updates**. All data writes are atomic.
 
 ## Project files
@@ -100,6 +108,8 @@ Source failures preserve prior records and verification times. Successful change
 | `core.js` | Timezone, three-month filtering and calendar-export logic |
 | `data/events.json` | Latest published snapshot; updated by the daily job |
 | `data/curated.json` | Editable one-off event and source catalog |
+| `data/watchlist.json` | Extensible stock list and separately dated editorial assessments |
+| `scripts/stock_news.py` | Strict 72-hour company-news filtering and basic deduplication |
 | `scripts/catalog.py` | Bilingual explanations and monitored themes |
 | `scripts/update_events.py` | Primary-source calendar collectors and news refresh |
 | `scripts/build.py` | Allowlisted public output; excludes source scripts and workflows |

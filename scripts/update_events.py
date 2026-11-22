@@ -23,6 +23,7 @@ from xml.etree import ElementTree as ET
 from zoneinfo import ZoneInfo
 
 from catalog import SOURCES, RISKS, template
+from stock_news import parse_stock_news, recent_news
 
 ROOT=Path(__file__).resolve().parents[1]
 MONTHS={m.lower():i for i,m in enumerate(calendar.month_name) if m}
@@ -236,6 +237,12 @@ def update(root=ROOT,include_news=True):
     now=utcnow();today=today_et();path=root/'data/events.json'
     existing=json.loads(path.read_text(encoding='utf-8'));curated=json.loads((root/'data/curated.json').read_text(encoding='utf-8'))
     previous_sources={s['id']:s for s in existing.get('sources',[])}
+    watchlist_path=root/'data/watchlist.json'
+    stocks=json.loads(watchlist_path.read_text(encoding='utf-8'))['stocks'] if watchlist_path.exists() else []
+    previous_stocks={s['ticker']:s for s in existing.get('stocks',[])}
+    for stock in stocks:
+        old=previous_stocks.get(stock['ticker'],{})
+        stock.update(news=recent_news(old.get('news',[]),now),newsCheckedAt=old.get('newsCheckedAt'),newsAttemptedAt=old.get('newsAttemptedAt'),newsStatus=old.get('newsStatus','pending'))
     # Current editorial configuration owns curated text; prior verification timestamps survive failed checks.
     events=merge_curated(existing.get('events',[]),curated['events'])
     old_risks={r['id']:r for r in existing.get('risks',[])};risks=deepcopy(RISKS)
@@ -245,6 +252,8 @@ def update(root=ROOT,include_news=True):
     configs=deepcopy(SOURCES+curated['sources'])
     configs.append(dict(id='broadcom-announcements',name='Broadcom announcements',shortName='Broadcom IR',url='https://investors.broadcom.com/rss/news-releases.xml',parser='earnings',company='Broadcom',companyZh='博通',ticker='AVGO',allowedHost='broadcom.com',description='Discovers explicitly dated future earnings announcements.',descriptionZh='发现公司明确公布日期的未来财报公告。'))
     if include_news:
+        for stock in stocks:
+            configs.append(dict(id='stock-news-'+stock['ticker'],name='72-hour headlines · '+stock['ticker'],shortName='Google News RSS',parser='stock_news',ticker=stock['ticker'],url='https://news.google.com/rss/search?'+urlencode(dict(q=stock['query']+' when:3d',hl='en-US',gl='US',ceid='US:en')),description='Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.',descriptionZh='按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。'))
         for r in risks:
             configs.append(dict(id='news-'+r['id'],name='News context · '+r['title'],shortName='News search',parser='news',riskId=r['id'],url='https://news.google.com/rss/search?'+urlencode(dict(q=r['query']+' when:7d',hl='en-US',gl='US',ceid='US:en')),description='Google News RSS discovery; publisher links are context, never proof of a scheduled event.',descriptionZh='Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。'))
     sources=[];changes=[];success=0;calendar_success=0
@@ -272,6 +281,11 @@ def update(root=ROOT,include_news=True):
                     for r in risks:
                         if r['id']==src['riskId']:r.update(news=news,newsCheckedAt=now,newsStatus='ok')
                     report['recordCount']=len(news)
+                elif parser=='stock_news':
+                    stock=next(s for s in stocks if s['ticker']==src['ticker'])
+                    news=parse_stock_news(raw,stock,now)
+                    stock.update(news=news,newsCheckedAt=now,newsAttemptedAt=now,newsStatus='ok')
+                    report['recordCount']=len(news)
                 report.update(status='ok',lastVerifiedAt=now);success+=1
             except Exception as exc:
                 report['error']=str(exc)[:180]
@@ -280,6 +294,9 @@ def update(root=ROOT,include_news=True):
                 if src['parser']=='news':
                     for r in risks:
                         if r['id']==src['riskId']:r['newsStatus']='failed'
+                if src['parser']=='stock_news':
+                    stock=next(s for s in stocks if s['ticker']==src['ticker'])
+                    stock.update(newsStatus='failed',newsAttemptedAt=now)
                 print(f"Source unavailable: {src['id']} ({type(exc).__name__})",file=sys.stderr)
             sources.append(report)
     cutoff=(today-timedelta(days=30)).isoformat()
@@ -291,6 +308,7 @@ def update(root=ROOT,include_news=True):
     order={s['id']:i for i,s in enumerate(configs)};sources.sort(key=lambda s:order[s['id']])
     in_github=os.environ.get('GITHUB_ACTIONS')=='true'
     payload=dict(schemaVersion=1,updatedAt=now,timezone='America/New_York',windowMonths=3,automation={'active':in_github or existing.get('automation',{}).get('active',False),'provider':'GitHub Actions','scheduleUTC':'17 12 * * *'},refresh={'status':'ok' if success==len(configs) else 'partial' if calendar_success else 'failed','attemptedAt':now,'successCount':success,'sourceCount':len(configs),'calendarSourcesChecked':calendar_success},events=events,risks=risks,sources=sources,changes=(changes+existing.get('changes',[]))[:60])
+    payload['stocks']=stocks
     validate(payload)
     temp=path.with_suffix('.tmp');temp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');temp.replace(path)
     print(f"Updated {len(events)} dated records and {len(risks)} watch themes. {success}/{len(configs)} sources checked; {calendar_success} official calendars parsed.")

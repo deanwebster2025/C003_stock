@@ -1,0 +1,118 @@
+{
+  "stocks": [
+    {
+      "ticker": "BA",
+      "name": "Boeing",
+      "nameZh": "波音",
+      "aliases": [
+        "Boeing"
+      ],
+      "query": "Boeing (stock OR earnings OR production OR FAA OR orders)",
+      "research": {
+        "asOf": "2026-11-22T04:31:56Z",
+        "horizonMonths": 3,
+        "stance": "Wait for execution evidence",
+        "stanceZh": "观察，等待交付改善",
+        "summary": "The November 20 oversight audit and unresolved layoffs add uncertainty. The audit is not itself a new production ban. A three-month turnaround thesis needs delivery and cash-flow evidence.",
+        "summaryZh": "11月20日的新审计和后续裁员不确定性增加了执行风险。审计本身不代表新增停产令。三个月内能否改善，应以交付、产量和现金流证据判断。",
+        "enter": "Consider a small staged entry only after delivery trends improve and management supports its production and cash-flow outlook. Orders alone are insufficient.",
+        "enterZh": "交付趋势改善、管理层能够支持产量和现金流展望后，再考虑小额分批建仓；仅有订单消息不足以支持买入。",
+        "exit": "Reassess if output milestones slip again, new operating restrictions appear, or cash-flow expectations deteriorate.",
+        "exitZh": "若增产节点再推迟、出现新的经营限制或现金流预期恶化，应重新评估并考虑降低敞口。",
+        "sources": [
+          {
+            "title": "New manufacturing oversight audit",
+            "titleZh": "11月20日：制造商监管审计",
+            "url": "https://www1.oig.dot.gov/library-item/47429",
+            "publishedDate": "2026-11-20"
+          },
+          {
+            "title": "Further layoffs remain possible",
+            "titleZh": "11月20日：未排除进一步裁员",
+            "url": "https://www.reuters.com/legal/litigation/boeing-leaves-open-possibility-more-layoffs-amid-stalled-production-plans-2026-11-20/",
+            "publishedDate": "2026-11-20"
+          }
+        ],
+        "reviewBy": "2026-11-28"
+      }
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk",
+      "nameZh": "欧特克",
+      "aliases": [
+        "Autodesk"
+      ],
+      "query": "Autodesk (stock OR earnings OR guidance OR Forma OR Fusion)",
+      "research": {
+        "asOf": "2026-11-22T04:31:56Z",
+        "horizonMonths": 3,
+        "stance": "Priority watch; wait for earnings",
+        "stanceZh": "优先关注，等财报确认",
+        "summary": "The next scheduled catalyst is the November 24 earnings call, announced November 2. This is older information, not a new 72-hour announcement. The August quarter showed 16% revenue growth; the coming outlook matters more than a headline beat.",
+        "summaryZh": "最近的已确认节点是11月24日财报电话会，11月2日已公告，不属于最近72小时的新公告。8月披露的季度收入增长16%；本次更应看后续指引和现金流，而非仅看盈利超预期。",
+        "enter": "If results and forward guidance support growth and cash conversion, consider staged entry after the earnings reaction settles. Check the new valuation before entering.",
+        "enterZh": "若业绩和未来指引支持增长与现金回收，可等财报后价格反应稳定，再结合当时估值分批考虑；不建议仅因财报临近而押注。",
+        "exit": "Reassess on a guidance cut, weaker underlying demand or deterioration in cash-flow expectations.",
+        "exitZh": "若下调指引、基础需求转弱或现金流展望恶化，应撤回偏积极判断。",
+        "sources": [
+          {
+            "title": "November 24 earnings call",
+            "titleZh": "11月24日财报电话会（11月2日公告）",
+            "url": "https://adsknews.autodesk.com/en/pressrelease/autodesk-extends-invitation-to-join-financial-results-conference-call-26/",
+            "publishedDate": "2026-11-02"
+          },
+          {
+            "title": "Fiscal 2027 Q2 results and guidance",
+            "titleZh": "财年2027第二季业绩与指引（较早背景）",
+            "url": "https://adsknews.autodesk.com/en/pressrelease/autodesk-inc-announces-fiscal-2027-second-quarter-results/",
+            "publishedDate": "2026-08-27"
+          }
+        ],
+        "reviewBy": "2026-11-25"
+      }
+    },
+    {
+      "ticker": "AA",
+      "name": "Alcoa",
+      "nameZh": "美铝",
+      "aliases": [
+        "Alcoa"
+      ],
+      "query": "Alcoa (stock OR earnings OR aluminum OR alumina OR acquisition)",
+      "research": {
+        "asOf": "2026-11-22T04:31:56Z",
+        "horizonMonths": 3,
+        "stance": "Wait for a commodity/margin signal",
+        "stanceZh": "谨慎，等待价格与利润信号",
+        "summary": "The next verified company event is the December 2 Citi conference, announced November 18 and outside the 72-hour news window. This review did not establish a new company announcement within the window. A falling share price alone is not a buying thesis.",
+        "summaryZh": "最近已核实的公司节点是12月2日花旗会议，公告于11月18日，已超出72小时窗口。本次研究未核实到窗口内新的重大公司公告。股价下跌本身不能构成买入理由。",
+        "enter": "Consider entry only if aluminum/alumina pricing and cost guidance support improving margins, with the December 2 outlook providing a near-term checkpoint.",
+        "enterZh": "只有铝及氧化铝价格、成本指引共同支持利润改善时，再考虑介入；12月2日的经营展望是近期复核节点。",
+        "exit": "Reassess if realized prices weaken faster than costs, financing pressure increases, or guidance disappoints.",
+        "exitZh": "若实际售价下降快于成本、融资压力增加或指引不及预期，应重新评估并控制敞口。",
+        "sources": [
+          {
+            "title": "December 2 management discussion",
+            "titleZh": "12月2日管理层交流（11月18日公告）",
+            "url": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx",
+            "publishedDate": "2026-11-18"
+          }
+        ],
+        "reviewBy": "2026-12-03"
+      }
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group",
+      "nameZh": "联合健康",
+      "aliases": [
+        "UnitedHealth",
+        "UnitedHealthcare",
+        "Optum"
+      ],
+      "query": "(UnitedHealth OR UnitedHealthcare OR Optum) (stock OR earnings OR Medicare OR medical costs OR DOJ)",
+      "research": null
+    }
+  ]
+}
