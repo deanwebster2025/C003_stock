@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T04:38:35Z",
+  "updatedAt": "2026-11-22T04:55:53Z",
   "timezone": "America/New_York",
   "windowMonths": 3,
   "automation": {
@@ -10,9 +10,9 @@
   },
   "refresh": {
     "status": "partial",
-    "attemptedAt": "2026-11-22T04:38:35Z",
-    "successCount": 31,
-    "sourceCount": 33,
+    "attemptedAt": "2026-11-22T04:55:53Z",
+    "successCount": 34,
+    "sourceCount": 36,
     "calendarSourcesChecked": 7
   },
   "events": [
@@ -52,7 +52,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -94,7 +94,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -134,7 +134,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -179,7 +179,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -215,7 +215,7 @@
       "sourceUrl": "https://adsknews.autodesk.com/en/pressrelease/autodesk-extends-invitation-to-join-financial-results-conference-call-26/",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "lifecycle": "active"
     },
@@ -254,7 +254,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -296,7 +296,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -330,7 +330,7 @@
       "sourceUrl": "https://www.opec.org/pr-detail/620-1-november-2026.html",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "Europe/Vienna",
       "time": null,
@@ -363,7 +363,7 @@
       "sourceUrl": "https://www.nvidia.com/gtc/dc/faq/",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -398,7 +398,7 @@
       "sourceUrl": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "lifecycle": "active"
     },
@@ -437,7 +437,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -472,7 +472,7 @@
       "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -516,7 +516,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -560,7 +560,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -630,7 +630,7 @@
       "sourceUrl": "https://www.g20.utoronto.ca/summits/2026miami.html",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -706,7 +706,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -746,7 +746,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -786,7 +786,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -828,7 +828,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -862,7 +862,7 @@
       "sourceUrl": "https://www.govinfo.gov/content/pkg/HMAN-118/html/HMAN-118-pg113.htm",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -895,7 +895,7 @@
       "sourceUrl": "https://www.ces.tech/about-ces/about-ces/",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/Los_Angeles",
       "time": null,
@@ -937,7 +937,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -973,7 +973,7 @@
       "sourceUrl": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/html/2026-22867.htm",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -1009,7 +1009,7 @@
       "sourceUrl": "https://www.jpmorgan.com/about-us/events-conferences/health-care-conference",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/Los_Angeles",
       "time": null,
@@ -1053,7 +1053,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1096,7 +1096,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1137,7 +1137,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1179,7 +1179,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1221,7 +1221,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1264,7 +1264,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1304,7 +1304,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1349,7 +1349,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1392,7 +1392,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1434,7 +1434,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1476,7 +1476,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1521,7 +1521,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1556,7 +1556,7 @@
       "sourceUrl": "https://www.nvidia.com/gtc/",
       "certainty": "tentative",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "origin": "curated",
       "timezone": "America/Los_Angeles",
       "time": null,
@@ -1601,7 +1601,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1643,7 +1643,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1684,7 +1684,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1724,7 +1724,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1766,7 +1766,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1808,7 +1808,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1853,7 +1853,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1896,7 +1896,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1937,7 +1937,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1980,7 +1980,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2020,7 +2020,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2062,7 +2062,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2104,7 +2104,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2149,7 +2149,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2192,7 +2192,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2234,7 +2234,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2276,7 +2276,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2320,7 +2320,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2363,7 +2363,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2405,7 +2405,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2448,7 +2448,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2488,7 +2488,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2530,7 +2530,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2572,7 +2572,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2617,7 +2617,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2660,7 +2660,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2701,7 +2701,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2742,7 +2742,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2784,7 +2784,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2826,7 +2826,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2868,7 +2868,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2913,7 +2913,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2956,7 +2956,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2998,7 +2998,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3040,7 +3040,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3084,7 +3084,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3126,7 +3126,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3170,7 +3170,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3212,7 +3212,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3254,7 +3254,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3296,7 +3296,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3341,7 +3341,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3385,7 +3385,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3425,7 +3425,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3467,7 +3467,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3509,7 +3509,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3549,7 +3549,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3594,7 +3594,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3638,7 +3638,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3680,7 +3680,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3722,7 +3722,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3764,7 +3764,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3809,7 +3809,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3853,7 +3853,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3893,7 +3893,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3933,7 +3933,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3975,7 +3975,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -4018,7 +4018,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T04:38:35Z",
+      "verifiedAt": "2026-11-22T04:55:53Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -4079,7 +4079,7 @@
           "publishedAt": "2026-11-20T11:39:08+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4113,10 +4113,10 @@
           "publishedAt": "2026-11-22T01:40:51+00:00"
         },
         {
-          "title": "Why the AI bubble will burst – with system-threatening consequences - Struggle-La Lucha",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnpjcXFVQXE3U3pRR25wUXFqYTZKWVY0cDF1RmxpSG03b01ZUDRHdEdKX3g1M3I4OUk0RXZYQVJiUVp6dl9VZFZWRndCbFVYYThDRHFJUGotWkxOZkxoanJGSG1kQ3FXZTJaOW03Mkhody15RWVQSE0wdXcwRGJfR1hHVXU4ZHhyTDZlWUFMeC1WdkN6Q3NpQjZmQnIxc08xOXNIWGp2NHlRTDJjdHRDTg?oc=5",
-          "publisher": "Struggle-La Lucha",
-          "publishedAt": "2026-11-21T15:19:23+00:00"
+          "title": "Anthropic's $2 Trillion IPO Questions AI Returns - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZk5DTlk1MG9TUTMyOThsVVFKNFc3SG56QS1WMm5mdDZJWk1pTWRJWk1sVnlqSzREdDByVFVXd3JDdkxUR3FFWjNFZFMzNGJqZlZ3UlVsZ1JienhzTVdCVVVLZEFTd05hNGxzbGhidHhvLTRDWFFXSGpNUmVHd0tTQV9DUEJ2NFVuNmJ5d3d3?oc=5",
+          "publisher": "조선일보",
+          "publishedAt": "2026-11-22T01:39:45+00:00"
         },
         {
           "title": "Naver Profit Nearly Halves as AI Spending Squeezes Margins - WSJ",
@@ -4137,7 +4137,7 @@
           "publishedAt": "2026-11-21T04:48:06+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4194,7 +4194,7 @@
           "publishedAt": "2026-11-19T12:26:26+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4251,7 +4251,7 @@
           "publishedAt": "2026-11-20T17:23:47+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4284,12 +4284,6 @@
           "publishedAt": "2026-11-21T21:36:19+00:00"
         },
         {
-          "title": "USD/JPY, USD/CAD Outlook: Fed hawks put dollar bulls on alert - StoneX",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEZMVEp4NHR6alg1TnZ0LUMxaGgxUnlvVkhBY2dSb3Rlc0hoYzIzbUJidzVsbzlQeUxSOG9ZZ2NJR05qeWVnWElkZGZON0xmOTluaFpSeVZFSWd4UXk0TmF5VHhSek9fNkpRbWJBTnFTY0pjNHlVWXpwQ1NlU05XOTIyaVluUmZ6aEMtWnZpbnpFemFsSDBRTV8tMUdHUWZpZzVIRTFoU1ZWMlE?oc=5",
-          "publisher": "StoneX",
-          "publishedAt": "2026-11-21T21:35:39+00:00"
-        },
-        {
           "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated - Tekedia",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
           "publisher": "Tekedia",
@@ -4306,9 +4300,15 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VS2NmUGFGTDlSLWpYbS1IcFh5RU1yNlZmSGZEUHZOQW9DbUVJT190aENYcTl5UnRuRjRMTmVnYW9qSjVzdTlodVBGZmFBTXlwNndnLW9ydXJzR3FXcHBubXo4VUp0dnlPRmFmcXh5WE41aHdkTW1aM3VMLVR1TzQ?oc=5",
           "publisher": "Crypto Briefing",
           "publishedAt": "2026-11-20T20:02:46+00:00"
+        },
+        {
+          "title": "Week Ahead: US GDP, PCE Inflation & Fed Rate Outlook - www.equiti.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGJtX1AyM2JjQmtHQlNrdzZ2blI1enNocTE1bXRrelRlR0JMNk9mck9WcnJUSng0SFMxZFNZdk93SHliU1NhZTBQczFEdW9MSEVONm9OaXpQZXUwRFJ2eVpTUzJCZXpicDg4VGdCZkNvY3hZSVdUaWg1aGwtcnY3OWg2bFNJRXBIWjR3YzVtUlFtY1VuR2JHTjA2QWVlQQ?oc=5",
+          "publisher": "www.equiti.com",
+          "publishedAt": "2026-11-20T13:22:38+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4341,31 +4341,31 @@
           "publishedAt": "2026-11-22T00:30:00+00:00"
         },
         {
+          "title": "Credit Market Turbulence Raises Liquidity and Refinancing Risks for Post Holdings Inc. - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkViaHBWSUR6X0RrMWhlNm1PTnZyVVdod09QTkllM19kQXlOT0pza0lZdHJuVWtFZk1rUV9TTEFJb3dHZU9tdVE0c3FFcEdKRlJwR0lTSE1zRTNFM0lrTHFxV2NhbUJwV3JvMVU3QlhpQUNaa3dmaENEOGllRTRNZVNlSExkeHhwRE1la3R4MmZzSFZKeTUwdjNBSXRzeFdPM2l1RzV6OUlEbld2dG5qcHNQYjQ3YTJzYzlwWmFNYVVEZllFd2x1UUpJZEJUbXFIOHlj?oc=5",
+          "publisher": "TipRanks",
+          "publishedAt": "2026-11-21T06:15:24+00:00"
+        },
+        {
+          "title": "Dynex Capital Inc. R (DYT1.HA) Q2 FY2026 earnings call transcript - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUZzOWx2Nkl2NzJfQnBzSDd2R1VQb2wyVmlRRWg1UjBtMTFCX1NUaGJOQzAzMkl5c2M1QUh4R1NLMHBHX3FTemRlNjNTTW9kS0NOVkkzX2hERk1VQkRxcE01Zjd2ZGprQmN1TENHSlU0c2h2OFRtU0tucEJ6SGp4YjhYdzdVNHBHUi1KYlA0a2NOVk14Rmc?oc=5",
+          "publisher": "Yahoo Finance",
+          "publishedAt": "2026-11-19T20:37:30+00:00"
+        },
+        {
           "title": "When will mortgage rates go down? A reverse in a 4-week trend - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1FPbW9lTjl0c2tjSjdyZl9iUGtQdTl5NDB5OW5rOWRheEdkSVVDbGhvLU5ZMUdDN3owYWZEeDZxQU4zYm5Tcm0talRpUk9LV0t1SWlmTkJYdjhYVmJFYTlOZEVkNldvREM0ZGJmZjZWMDJiX21kQ1g0WEpyR05taEFDbnI1LTJzcmtDdU5kUFR1N3dvUVFRR0g0Uldwc3FXSGhGTE5IS3NIT0FSWFZKWGpQNFJFM28tVHhmWERYQS1HR1hkVk1LQUFsV1Z6ajlvbXc?oc=5",
           "publisher": "Yahoo Finance",
           "publishedAt": "2026-11-19T19:13:29+00:00"
         },
         {
-          "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
-          "publisher": "Forbes",
-          "publishedAt": "2026-11-19T13:01:00+00:00"
-        },
-        {
-          "title": "A December rate hike will sting, but corporate borrowers should prefer it to a Fed that waits - CEO경제신문",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05em8zd1M0b1UwOExYLTNrMi1GQ0hCUW1ycmFpSFdOUTl6VmZEVVJlWGF4S2lSOWQ2UjFJYjNyX0IxOHRxbmNNcU1IU29jeHBxSV9wbVdveEx2U09RRTZPcHpBQ0tIamlvU05rQ0phVGIwMUtITG9Z?oc=5",
-          "publisher": "CEO경제신문",
-          "publishedAt": "2026-11-19T13:00:00+00:00"
-        },
-        {
-          "title": "What is the yield curve, and what does a 5% 10-year Treasury mean for borrowers? - CEO경제신문",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmpESHZzQXlrTG5NMzA3cnJoeHJfM1MtSlVSc3hPLVVnR3hpZGptUjRyajlLSzByWXQ4bEttVFk0UjBvTFBGTTUxcTVnUUdJeHYyNFFlYkVFTFVCS2U4UWhLYU84NE9JeWNnelNjWDZBaHpIcDZyMElTejlXUFZpZ203SkVMajRKOGtzTTF4RUJtdWNiUWc?oc=5",
-          "publisher": "CEO경제신문",
-          "publishedAt": "2026-11-19T01:13:00+00:00"
+          "title": "Global Credit Outlook: Is Investment-Grade Credit Becoming More Attractive as Investors Demand Quality? - kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZVdacE1za1Z4c1BjUUZGdmVYajZKX2JNRUhmbTBlT2dSTWo0bXo3UXZEOEN4eEVMWXE1cFVKUGZRWDZpWU1PR3VEdVBKOE5jR25RX1JwcnhvQUlMOGFaSl9xUzBmakJVaE93MXFfU0YteWpaZ1AtNnVtbW9CaGVFR24yX0U0Y3J5T0pSdTJyQzhNazlLQ3NpaHdCX0ZzMWdPUE55RlAxZGtyTGZFMlV3SlhSSFpxLWdITS1iRWI1SzdpQ0kwbmFNVTJBSS1qNXVKeHhQNA?oc=5",
+          "publisher": "kalkine.ca",
+          "publishedAt": "2026-11-19T17:34:00+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4416,13 +4416,13 @@
           "publishedAt": "2026-11-20T18:25:00+00:00"
         },
         {
-          "title": "Merz Says Russia Could See Gradual Sanctions Relief in Exchange for Ukraine Peace Concessions - Kyiv Post",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzUkZZU2VyeWFmZ09sT00tWVEwSlVOaE0zQ2VvT19ZdlRYUmpIRkhUOEdvZEk1T0VPSTYzQjdOWmNPR3ExUWRBd3B2TQ?oc=5",
-          "publisher": "Kyiv Post",
-          "publishedAt": "2026-11-20T10:22:32+00:00"
+          "title": "Trump Administration Aims to Broker Ukraine-Russia Peace Deal Before January as Talks Resume in Abu Dhabi - Inkorr",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnExQlBGdG9ZMDFrVmxJZFBZbTlodnM2eU9tRXFZQVUyX2NpVC1fMUZldUpMYlQzX3lOTWluS29hcEY3b2FFQ2FDOHRCdm9EaldhNTh3a2JGQlBRMm9aRlhVRXkxVTd2SUVyc3Q5YTAteUxRTE1hc08xV3hlWGRjMFNMNUowbmRjaWw4Tk1zVGVnQTRjbHlZZWJiaW52VC01dHpyM3B3ekhjLXoxWXA0ZjhITWlUNjB2MzdHaGphYlBjNDhEZ1VPSWpKRmVsVVU2WU9VRGZJZ2l6OXBGNkHSAd4BQVVfeXFMTW5xMUJQRnRvWTAxa1ZsSWRQWW05aHZzNnlPbUVxWUFVMl9jaVQtXzFGZXVKTGJUM195Tk1pbktvYXBGN29hRUNhQzh0QnZvRGpXYTU4d2tiRkJQUTJvWkZYVUV5MVU3dklFcnN0OWEwLXlMUUxNYXNPMVd4ZVhkYzBTTDVKMG5kY2lsOE5Nc1RlZ0E0Y2x5WWViYmludlQtNXR6cjNwd3pIYy16MVlwNGY4SE1pVDYwdjM3R2hqYWJQYzQ4RGdVT0lqSkZlbFVVNllPVURmSWdpejlwRjZB?oc=5",
+          "publisher": "Inkorr",
+          "publishedAt": "2026-11-20T17:33:15+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -4479,7 +4479,7 @@
           "publishedAt": "2026-11-16T04:42:00+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     }
   ],
@@ -4492,8 +4492,8 @@
       "parser": "fed",
       "description": "Official FOMC meeting calendar.",
       "descriptionZh": "美联储官方议息会议日历。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 23
     },
@@ -4506,8 +4506,8 @@
       "kind": "cpi",
       "description": "Official consumer inflation release schedule.",
       "descriptionZh": "官方CPI发布日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 14
     },
@@ -4520,8 +4520,8 @@
       "kind": "jobs",
       "description": "Official employment report release schedule.",
       "descriptionZh": "官方就业报告发布日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 14
     },
@@ -4533,8 +4533,8 @@
       "parser": "bea",
       "description": "Current-year GDP and PCE release dates.",
       "descriptionZh": "本年度GDP及PCE公布日程。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 4
     },
@@ -4546,8 +4546,8 @@
       "parser": "bea",
       "description": "Next-year GDP and PCE release dates.",
       "descriptionZh": "下一年度GDP及PCE公布日程。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 24
     },
@@ -4559,8 +4559,8 @@
       "parser": "ecb",
       "description": "Policy meeting decision dates, in local European time.",
       "descriptionZh": "欧洲央行决议日期，按当地日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 17
     },
@@ -4572,8 +4572,8 @@
       "parser": "boj",
       "description": "Policy meeting dates, in Japan local time.",
       "descriptionZh": "日本央行会议日程，按日本当地日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 14
     },
@@ -4586,8 +4586,8 @@
       "datePattern": "29\\s+November\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4599,8 +4599,8 @@
       "datePattern": "November\\s+30.{0,30}December\\s+3.{0,8}2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4612,8 +4612,8 @@
       "datePattern": "December\\s+9,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4625,7 +4625,7 @@
       "datePattern": "December\\s+11,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
       "lastVerifiedAt": "2026-11-20",
       "status": "failed",
       "error": "PDF source requires editorial date verification"
@@ -4639,7 +4639,7 @@
       "datePattern": "December\\s+14,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
       "lastVerifiedAt": "2026-11-20",
       "status": "failed",
       "error": "Expected date text not found; editorial review required"
@@ -4653,8 +4653,8 @@
       "datePattern": "December\\s+14.{1,5}15,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4666,8 +4666,8 @@
       "datePattern": "3d\\s+day\\s+of\\s+January",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4679,8 +4679,8 @@
       "datePattern": "CES\\s+2027.{0,25}Jan\\.?\\s+6.{1,5}9",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4692,8 +4692,8 @@
       "datePattern": "January\\s+10,?\\s+2027",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4705,8 +4705,8 @@
       "datePattern": "January\\s+11.{1,5}14,?\\s+2027",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4718,8 +4718,8 @@
       "datePattern": "March\\s+15.{1,5}18",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4731,8 +4731,8 @@
       "datePattern": "November\\s+24,?\\s+2026",
       "description": "Company announcement confirming the scheduled event; the outcome remains unknown.",
       "descriptionZh": "公司公告确认的会议日期，会议结果仍未确定。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
     },
     {
@@ -4744,9 +4744,51 @@
       "datePattern": "December\\s+2,?\\s+2026",
       "description": "Company announcement confirming the scheduled event; the outcome remains unknown.",
       "descriptionZh": "公司公告确认的会议日期，会议结果仍未确定。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok"
+    },
+    {
+      "id": "bond-nominal-2026",
+      "name": "US Treasury · nominal yields · 2026",
+      "shortName": "US Treasury",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+      "parser": "bond_treasury",
+      "bondKind": "nominal",
+      "description": "Daily par yields. Observation dates are separate from retrieval dates.",
+      "descriptionZh": "国债日度收益率；观测日期与抓取日期分别显示。",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
+      "status": "ok",
+      "recordCount": 223
+    },
+    {
+      "id": "bond-real-2026",
+      "name": "US Treasury · real yields · 2026",
+      "shortName": "US Treasury",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value=2026",
+      "parser": "bond_treasury",
+      "bondKind": "real",
+      "description": "Daily par yields. Observation dates are separate from retrieval dates.",
+      "descriptionZh": "国债日度收益率；观测日期与抓取日期分别显示。",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
+      "status": "ok",
+      "recordCount": 223
+    },
+    {
+      "id": "bond-credit",
+      "name": "Federal Reserve · GZ corporate credit spread",
+      "shortName": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/ebp_csv.csv",
+      "parser": "bond_credit",
+      "bondKind": "credit",
+      "description": "Monthly staff research series, subject to revision; not a daily credit quote.",
+      "descriptionZh": "月度研究序列，可能修订，不是每日信用利差报价。",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
+      "status": "ok",
+      "recordCount": 646
     },
     {
       "id": "broadcom-announcements",
@@ -4760,8 +4802,8 @@
       "allowedHost": "broadcom.com",
       "description": "Discovers explicitly dated future earnings announcements.",
       "descriptionZh": "发现公司明确公布日期的未来财报公告。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 1
     },
@@ -4774,8 +4816,8 @@
       "url": "https://news.google.com/rss/search?q=Boeing+%28stock+OR+earnings+OR+production+OR+FAA+OR+orders%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 25
     },
@@ -4788,8 +4830,8 @@
       "url": "https://news.google.com/rss/search?q=Autodesk+%28stock+OR+earnings+OR+guidance+OR+Forma+OR+Fusion%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 25
     },
@@ -4802,8 +4844,8 @@
       "url": "https://news.google.com/rss/search?q=Alcoa+%28stock+OR+earnings+OR+aluminum+OR+alumina+OR+acquisition%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 10
     },
@@ -4816,8 +4858,8 @@
       "url": "https://news.google.com/rss/search?q=%28UnitedHealth+OR+UnitedHealthcare+OR+Optum%29+%28stock+OR+earnings+OR+Medicare+OR+medical+costs+OR+DOJ%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 15
     },
@@ -4830,8 +4872,8 @@
       "url": "https://news.google.com/rss/search?q=US+China+tariffs+export+controls+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4844,8 +4886,8 @@
       "url": "https://news.google.com/rss/search?q=AI+capital+expenditure+earnings+data+centers+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4858,8 +4900,8 @@
       "url": "https://news.google.com/rss/search?q=Middle+East+oil+supply+shipping+ceasefire+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4872,8 +4914,8 @@
       "url": "https://news.google.com/rss/search?q=US+Congress+government+funding+shutdown+budget+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4886,8 +4928,8 @@
       "url": "https://news.google.com/rss/search?q=Federal+Reserve+inflation+interest+rate+outlook+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4900,8 +4942,8 @@
       "url": "https://news.google.com/rss/search?q=Treasury+yields+private+credit+refinancing+risk+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4914,8 +4956,8 @@
       "url": "https://news.google.com/rss/search?q=Ukraine+Russia+peace+negotiations+sanctions+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4928,8 +4970,8 @@
       "url": "https://news.google.com/rss/search?q=China+fiscal+stimulus+consumption+property+policy+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T04:38:35Z",
-      "lastVerifiedAt": "2026-11-22T04:38:35Z",
+      "lastCheckedAt": "2026-11-22T04:55:53Z",
+      "lastVerifiedAt": "2026-11-22T04:55:53Z",
       "status": "ok",
       "recordCount": 5
     }
@@ -5079,6 +5121,15 @@
           }
         ],
         "reviewBy": "2026-11-28"
+      },
+      "bondExposure": {
+        "summary": "Rates and credit spreads matter through new borrowing, refinancing and financing available to airline customers. Evaluate this alongside actual production, deliveries and cash generation.",
+        "summaryZh": "利率和信用利差会通过新融资、再融资，以及航空客户的融资条件传导。需要与实际产量、交付和现金流一起判断。",
+        "watch": "Debt maturities, fixed versus floating rates, liquidity, credit-rating actions and aircraft delivery cash receipts.",
+        "watchZh": "核对债务到期、固定与浮动利率比例、流动性、评级变化，以及交付回款。",
+        "caution": "A Treasury rally does not guarantee lower company borrowing costs if credit spreads widen. Existing fixed-rate coupons do not automatically increase.",
+        "cautionZh": "若信用利差扩大，国债上涨也不保证公司融资成本降低；存量固定利率债务的票息不会自动增加。",
+        "sourceUrl": "https://www.federalreserve.gov/newsevents/speech/jefferson20231009a.htm"
       },
       "news": [
         {
@@ -5232,8 +5283,8 @@
           "publishedAt": "2026-11-20T10:59:15Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
-      "newsAttemptedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
+      "newsAttemptedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -5271,13 +5322,16 @@
         ],
         "reviewBy": "2026-11-25"
       },
+      "bondExposure": {
+        "summary": "Higher real yields can reduce the present value of future growth. Tighter financing for construction and manufacturing customers can also affect demand for design software.",
+        "summaryZh": "实际收益率上升可能降低未来增长的现值；建筑和制造业客户融资收紧，也可能影响设计软件需求。",
+        "watch": "10-year real yields, customer demand, renewals, forward guidance and free cash flow. Separate changes in valuation multiples from changes in the business.",
+        "watchZh": "观察10年期实际收益率、客户需求、续约、未来指引和自由现金流，区分估值倍数变化与业务变化。",
+        "caution": "Lower yields can help valuation, but weakening demand or guidance can outweigh that support.",
+        "cautionZh": "收益率下降可能支持估值，但需求或指引转弱仍可能抵消这一支持。",
+        "sourceUrl": "https://adsknews.autodesk.com/en/pressrelease/autodesk-inc-announces-fiscal-2027-second-quarter-results/"
+      },
       "news": [
-        {
-          "title": "Autodesk and Neilsoft join forces to set up AECO Centre of Excellence in Pune",
-          "publisher": "Indian Chemical News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2kwUkEwTlZBRENsRElUdlR2dFpPRm05ZS1rOGdlRDZsZzE3VDVFYWJtTmVMYlpQYTlRWGlqVXB0RERicjFRRjhqcV9oSWtPVjlVc0k5cGVxalFwZTVlTTRfa0Z2aDZFNFI5NHVLRE1sZ0NIM05VamJoSlA5MUotZS1fN0JpNFc3MW51eTBFaHd1Y29yOXM0TjFBRHhpaTNndW04S3F1ZzBCM013Yl92NDZ5VF9YenVQejRNZ2NUa3FzWlp20gHLAUFVX3lxTE5haXVIdGlfTl9hWXZJR05aX3hKSUtzRDZKUWpZUUFmUHV0cUNfUVBzc005S1ZPY1pJSmxQSlNrdWFIeXBrS0lxNVpMTEg2d2dNNURMVlBIbzlOaUtmQ2hVU205YlVJT3RQOXdlUGZWdDBjc2FfemtmYUtCWDZrQm5FWXl4eVZrd0lmZHQ3WklCQ2dSNUtZSVFEM3NId2JnazFpV1F6ay1KeTFfb09CampyQkpaNTBON3BpZklmR1Noa1hhT0htWEgzRFhr?oc=5",
-          "publishedAt": "2026-11-22T02:40:48Z"
-        },
         {
           "title": "Mastrex and Autodesk integrate software to simp...",
           "publisher": "Pluang",
@@ -5297,10 +5351,10 @@
           "publishedAt": "2026-11-21T23:00:06Z"
         },
         {
-          "title": "Dr. Vibe: How I Learned to Stop Worrying and Start Loving Autodesk Platform Services",
-          "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTU9NWlAyUlVodHVFcDV6M0pwU211d0VsaXNrZ1d2Y19Ua0xMT0VtWWRqVUZrTE12UlFkNGI0UVg4TTZ3dnV5MnJCMnlQN195VVQ0bzBXNzVwMlM4Vkc3YVNWMTZYNk5aVFRjS19IZWVwNVE1MDBGSDJsSzNjMnVLMWNFV3pzVFFYS2lLY0NTVFU5R2hzcjdDSXN1VDQzTjVkQUJ4b0tIVDVWZTdabVRrM1dDS1M2d0M2QjFKa2ZjRHh3ZnV4YWlZN1BzVzRzNXMxUkJCMGIzc3AwZ2VhMGtyeDBzcnE4ZnpGRGVUc2xUaHdGMUY0SjdFVjdwNnBFWFFBOGNWWkFpR01TUkFXVm9fVXR5VVFtbzFiRkR5NmI1MkY5Z1pYQ2RPc3dB?oc=5",
-          "publishedAt": "2026-11-21T11:10:59Z"
+          "title": "Autodesk and Neilsoft join forces to set up AECO Centre of Excellence in Pune",
+          "publisher": "Indian Chemical News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWl1SHRpX05fYVl2SUdOWl94SklLc0Q2SlFqWVFBZlB1dHFDX1FQc3NNOUtWT2NaSUpsUEpTa3VhSHlwa0tJcTVaTExINndnTTVETFZQSG85TmlLZkNoVVNtOWJVSU90UDl3ZVBmVnQwY3NhX3prZmFLQlg2a0JuRVl5eHlWa3dJZmR0N1pJQkNnUjVLWUlRRDNzSHdiZ2sxaVdRemstSnkxX29PQmpqckJKWjUwTjdwaWZJZkdTaGtYYU9IbVhIM0RYa9IBywFBVV95cUxOYWl1SHRpX05fYVl2SUdOWl94SklLc0Q2SlFqWVFBZlB1dHFDX1FQc3NNOUtWT2NaSUpsUEpTa3VhSHlwa0tJcTVaTExINndnTTVETFZQSG85TmlLZkNoVVNtOWJVSU90UDl3ZVBmVnQwY3NhX3prZmFLQlg2a0JuRVl5eHlWa3dJZmR0N1pJQkNnUjVLWUlRRDNzSHdiZ2sxaVdRemstSnkxX29PQmpqckJKWjUwTjdwaWZJZkdTaGtYYU9IbVhIM0RYaw?oc=5",
+          "publishedAt": "2026-11-21T13:00:00Z"
         },
         {
           "title": "Autodesk (ADSK) Brings Cloud Building Code Checks Into Forma Workflows",
@@ -5331,6 +5385,12 @@
           "publisher": "Autodesk",
           "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOcGYwTU13ZDN3X0xUaFBEaWhwaFhpVmJNb0VOQThjWlFwY0hjTXZOczdiU0tmMW5JcFNvS1dHODFCWms3ZWdPd3hSVGlobTBmQTlFQW0yZzdYWjNScGVyc0V6anByN0t5LXdmQXk1SUlES2NnQ1hCVm1aT2RWSDZpclNYYnRNbk1jSFhGaHBWZ3R0R2hRNWxEREVLU1REb0htakhmZnBwZWhhUHRjQXZIY01pX3FGQ1pNbHgtTlBRaHhrSWlZY1BMcm9sdWswUjJOc2d2VUpWaDRtb1ZjTlFhclAyVGhxbUNWZTBSYTFtTGtmZGt5c3ZucnltWGZad2Q1dlBVUGtMeFNZeVhpbmFMN19KNXdBVzFtLWFsdVlGdWlGSG9mMEs2SGZJUF9lSFAzeTMyR1ktRmw0LXVHNFpwc0Q2cEwxaUxSMUJJczNHUG8yVE5FNmVaV3NERkpCQUllNkNXX0paQ3pqdWhxSHZmWERhOTNfd0NBQU14dXZISFdPbTByenFxeGQydlZoaWpEYmk4Qk00c2V4NDJDNUhmQktaNDMyRTZBVHg3dU5tS2MzcVZiNWlJ?oc=5",
           "publishedAt": "2026-11-21T02:26:41Z"
+        },
+        {
+          "title": "Dr. Vibe: How I Learned to Stop Worrying and Start Loving Autodesk Platform Services",
+          "publisher": "Autodesk",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUlAwNzlwRnkzbDlacEYzR3JrR296TWhmNF85dHkwcHhEMnRVc3ViTWY0Qm5PaFhVc1ZiR2JTUXZNQ2tOM0t1eDByTFExWGlZcFVGdmZDajU1OXg2SXh4Sm4tMEpCYnRFVk1WRktFaXFtUHBiWnRTdnI3MUpLV0x2N0tmTFZWekZDNGk4dzkzRFZlSDNzdnRQSjhaSVFlaDhqTGFrTlM2cTN2NEN4U0htRW5tSGI0Rll5TUFyM1ZuR2xReU53VTZoVEhObElYNHI2Qk91OGprRDV5b2JJVjZEQWs1OEpjXy1tR0hoV01McDNGVzBQMjJIa19jdWE4SFhhRzhybGdsMmVyZU1IRml1eVlUUDFBX1owdm4wbUtn?oc=5",
+          "publishedAt": "2026-11-20T21:27:40Z"
         },
         {
           "title": "Autodesk Fusion gives engineering teams four seats for the price of three",
@@ -5393,12 +5453,6 @@
           "publishedAt": "2026-11-19T16:29:44Z"
         },
         {
-          "title": "IFC'd Around and Found Out: Model-Based Quantity Takeoffs for Linear Civil Projects",
-          "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSHZ0RFdRRklidV81ODgtTGtwN1ZDY0I5RHBMcjktWFpucEhYaVFTaGxwZlFxX280dWs5S3N3NnUyUWhtaWZfN2tTZGZ2WjRXd3lweU9Da19HZUVTTGpIWm1CRW5Jak5qQ2loV01DajZiQ2VwYXZaUUVKNWhTREFwNUdSWFlkcF9oY3ByS2RsSGFqbTlOSEh1ZEFSXzlIOC1KZjEwNUFyTlFWMDFvdXk2ZU5aRkItUFZhMVprTldRdmtyaDlQa3MzUnJ4TWZ3bFhDT1ZCdjN6VGRiQlpFTk51SmpsYTFDa3U3YmViQV8xc1BQUDJpRkpMY200TWQxLVJuczZiUm50djlNR2VvY29PYUhTV05CcHoxUFE?oc=5",
-          "publishedAt": "2026-11-19T16:06:01Z"
-        },
-        {
           "title": "Kestrel Labs Announces Integration of Autodesk Forma, Autodesk Revit, Trimble Connect, and Kestrel Portal",
           "publisher": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmlyU3J1dk9tLTlQV0NQU3ZfUWFjZjFRV1BQSVdyNG4yckhYU3lTMGtjTG1sNWhOaUFvNTBZaFV5cVQ4cEhXaklKc09NWUh6U0tjVzg3akNsMnRkaDhaa3Y1eEJfZ3VxLUlmQmxtQVhRU1lKOE5BaERXeTVKZTR6enVKSFllV0dLTUNvTktDLVFFSXBxZXhraThab2dQbG1VNk9BYV9JRzFWTlVnNnhCTHhMV1B6OUVMNDlPbWZOd21TR2M3c2lDQS00NEw1cmg0VHlCbC1GSm56QVY4bjE2NDd3UDg?oc=5",
@@ -5421,10 +5475,16 @@
           "publisher": "Construction World",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUkNwNzNBOFJHa0dpSkF0cDBDNTB0SXh6VVdqRHhXNktjUTRNWWlNVEE1NnhkOXlyUTdOUXZRRjd3R0VqVjEtWVcyNDhFWGZwYThfNmxKUy1iZl82Vkh2NG5yaUI0am40OER0MURwZGllbTJnU1FqaUFFYlJhMVg0UTExYXpGYm1OejFPUjhnbmFDWENGYnNtc1R4LWZHT1JMczhXMTYwNTdlQkdjNHlFUU5XMjZXUzhLNzJIZ2ZkVXU1QzV6dUV6TXhibUVWelhsOTRxZ08zcDRaRF94UTVfSDVWc1AwNXM?oc=5",
           "publishedAt": "2026-11-19T10:46:29Z"
+        },
+        {
+          "title": "30 Autodesk Forma Features You Should Be Using But Probably Aren't",
+          "publisher": "Autodesk",
+          "url": "https://news.google.com/rss/articles/CBMixwVBVV95cUxQSXdpMGZ5QVlieXU5cGVZMk1DQzZhZjNCaVlOa0kyQ3U5Zm9MbGVwaVpwMm01Zk9LQWk1aEt2MkFZS3kzRlowb0FVNmZxam1uQVNfa1Q5Zl9ZTEEwRHFhd2dDQ2EwdnZ2LUZ0TDZ2TGFhRVd1ZVJiV29JaVJTckg2MFNSUjl3TUgxTWtFcE83OGs5TVZ5LUI5VU5PNXpDSXVEVmRfMXFRTnBrdlQ3SFIxSWhZeFdLMkRYLTlGZ0VfVFdzMTNHSnYyWi1qVVdEMVdPWnN4dVV5LUpCS2hzZWVEUjI5RjBoYTZUQzdYQXMzelJKT19YamdmUGFuX3d2RE91ZGIydXVRUVVBQnc5dmJDWEdZdnZXZUlpbnJ5YU9LR1lIaHl1aVdvWFlPUzBrMnlvNmxmMDVEVGthTnV1UTlhX0h4WjZmVWsyMHNCeXNFQ3JyazFLQ3Z5Z2lhaXNEVEJQenRQUEdod1lVbUpKNm5uSUpacnhGVzROUTBMTG1BOVVobHprS1NlanBaZ0hFYTRseVItTV9aWG94VUpsbl8yQXk0TFpxVzE2TE1IdHVrUDNNbXotWFlBRHpnSmxTTDk1M2VJc1FaWWVfZkZSSmZlTHZCdkk2OEVxZXlnbnNGU0lqUlkzbU84MkJoOUIyYksxRDBrU0JMb2dDeWVYMldWeHM2V0NBQzctNDUwV2tydF9LNHVwZlRrbXhsY1NJMzFINTFaOHU3QlRvQXBFeE5TVWxyc3ZJNEpwLUNmM3lKTjctRnB2OXo3WGhXcnVyVmZ5NVczZkZsVFU5TDJlUGNlamp6b2lFd0o3ZDNXbTExN0VqTU1yRU5yVk5PTHR0QS1sM2hpUmNsWjM0Z0ZhX1RuZVdudEFSUkVOQTFfSDdPcE1xWE5qN0ZnLWt3Tm00MU9DbHNDckltV0doZUZ2ODAyLWpfM0puVlU?oc=5",
+          "publishedAt": "2026-11-19T10:12:25Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
-      "newsAttemptedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
+      "newsAttemptedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -5455,6 +5515,15 @@
           }
         ],
         "reviewBy": "2026-12-03"
+      },
+      "bondExposure": {
+        "summary": "Credit conditions can affect financing and the industrial demand behind aluminum. Combine the bond backdrop with aluminum/alumina prices, energy costs and operating margins.",
+        "summaryZh": "信用条件既影响融资，也关联铝需求背后的工业活动。需将债市背景与铝、氧化铝价格、能源成本和经营利润率一起看。",
+        "watch": "Credit-spread direction, borrowing terms, debt maturity profile, realized commodity prices and unit costs.",
+        "watchZh": "观察信用利差方向、融资条款、债务到期结构、实际商品售价和单位成本。",
+        "caution": "Falling Treasury yields caused by recession fears are not necessarily favorable for a cyclical producer. Commodity margins remain essential.",
+        "cautionZh": "衰退担忧引起的国债收益率下降，对周期性生产商未必有利；商品利润仍是关键。",
+        "sourceUrl": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx"
       },
       "news": [
         {
@@ -5518,8 +5587,8 @@
           "publishedAt": "2026-11-19T06:14:00Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
-      "newsAttemptedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
+      "newsAttemptedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     },
     {
@@ -5533,6 +5602,15 @@
       ],
       "query": "(UnitedHealth OR UnitedHealthcare OR Optum) (stock OR earnings OR Medicare OR medical costs OR DOJ)",
       "research": null,
+      "bondExposure": {
+        "summary": "Rates affect both investment income and the fair value of its bond portfolio, as well as debt financing. The net effect depends on maturities, reinvestment, hedges and asset/liability matching.",
+        "summaryZh": "利率既影响投资收益和债券组合公允价值，也影响债务融资。净影响取决于期限、再投资、对冲和资产负债匹配。",
+        "watch": "Investment income, interest expense, unrealized bond gains/losses and rate sensitivity disclosed in filings, alongside medical costs and operating guidance.",
+        "watchZh": "核对报表中的投资收益、利息支出、债券未实现损益和利率敏感性，同时关注医疗成本及经营指引。",
+        "caution": "Higher reinvestment yields may help income while existing fixed-rate bonds lose market value. An insurance company does not automatically benefit from rising rates.",
+        "cautionZh": "更高的再投资收益率可能增加收入，但存量固定利率债券的市值也可能下降，不能简单认为利率上升就利好保险公司。",
+        "sourceUrl": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/UNH_2026.9.30_10-Q.pdf"
+      },
       "news": [
         {
           "title": "TD Cowen Just Upgraded UnitedHealth Stock. Here’s Why.",
@@ -5625,9 +5703,913 @@
           "publishedAt": "2026-11-19T07:03:14Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T04:38:35Z",
-      "newsAttemptedAt": "2026-11-22T04:38:35Z",
+      "newsCheckedAt": "2026-11-22T04:55:53Z",
+      "newsAttemptedAt": "2026-11-22T04:55:53Z",
       "newsStatus": "ok"
     }
-  ]
+  ],
+  "bonds": {
+    "nominal": {
+      "observations": [
+        {
+          "date": "2026-07-20",
+          "yield2": 4.21,
+          "yield10": 4.6
+        },
+        {
+          "date": "2026-07-21",
+          "yield2": 4.26,
+          "yield10": 4.63
+        },
+        {
+          "date": "2026-07-22",
+          "yield2": 4.31,
+          "yield10": 4.67
+        },
+        {
+          "date": "2026-07-23",
+          "yield2": 4.37,
+          "yield10": 4.71
+        },
+        {
+          "date": "2026-07-24",
+          "yield2": 4.33,
+          "yield10": 4.69
+        },
+        {
+          "date": "2026-07-27",
+          "yield2": 4.31,
+          "yield10": 4.65
+        },
+        {
+          "date": "2026-07-28",
+          "yield2": 4.26,
+          "yield10": 4.61
+        },
+        {
+          "date": "2026-07-29",
+          "yield2": 4.22,
+          "yield10": 4.67
+        },
+        {
+          "date": "2026-07-30",
+          "yield2": 4.23,
+          "yield10": 4.68
+        },
+        {
+          "date": "2026-07-31",
+          "yield2": 4.28,
+          "yield10": 4.75
+        },
+        {
+          "date": "2026-08-03",
+          "yield2": 4.25,
+          "yield10": 4.7
+        },
+        {
+          "date": "2026-08-04",
+          "yield2": 4.2,
+          "yield10": 4.63
+        },
+        {
+          "date": "2026-08-05",
+          "yield2": 4.18,
+          "yield10": 4.63
+        },
+        {
+          "date": "2026-08-06",
+          "yield2": 4.25,
+          "yield10": 4.69
+        },
+        {
+          "date": "2026-08-07",
+          "yield2": 4.19,
+          "yield10": 4.65
+        },
+        {
+          "date": "2026-08-10",
+          "yield2": 4.25,
+          "yield10": 4.72
+        },
+        {
+          "date": "2026-08-11",
+          "yield2": 4.22,
+          "yield10": 4.7
+        },
+        {
+          "date": "2026-08-12",
+          "yield2": 4.2,
+          "yield10": 4.68
+        },
+        {
+          "date": "2026-08-13",
+          "yield2": 4.15,
+          "yield10": 4.63
+        },
+        {
+          "date": "2026-08-14",
+          "yield2": 4.17,
+          "yield10": 4.68
+        },
+        {
+          "date": "2026-08-17",
+          "yield2": 4.19,
+          "yield10": 4.72
+        },
+        {
+          "date": "2026-08-18",
+          "yield2": 4.19,
+          "yield10": 4.71
+        },
+        {
+          "date": "2026-08-19",
+          "yield2": 4.19,
+          "yield10": 4.65
+        },
+        {
+          "date": "2026-08-20",
+          "yield2": 4.19,
+          "yield10": 4.69
+        },
+        {
+          "date": "2026-08-21",
+          "yield2": 4.24,
+          "yield10": 4.74
+        },
+        {
+          "date": "2026-08-24",
+          "yield2": 4.24,
+          "yield10": 4.7
+        },
+        {
+          "date": "2026-08-25",
+          "yield2": 4.17,
+          "yield10": 4.64
+        },
+        {
+          "date": "2026-08-26",
+          "yield2": 4.19,
+          "yield10": 4.66
+        },
+        {
+          "date": "2026-08-27",
+          "yield2": 4.2,
+          "yield10": 4.67
+        },
+        {
+          "date": "2026-08-28",
+          "yield2": 4.34,
+          "yield10": 4.73
+        },
+        {
+          "date": "2026-08-31",
+          "yield2": 4.34,
+          "yield10": 4.75
+        },
+        {
+          "date": "2026-09-01",
+          "yield2": 4.39,
+          "yield10": 4.79
+        },
+        {
+          "date": "2026-09-02",
+          "yield2": 4.39,
+          "yield10": 4.79
+        },
+        {
+          "date": "2026-09-03",
+          "yield2": 4.34,
+          "yield10": 4.77
+        },
+        {
+          "date": "2026-09-04",
+          "yield2": 4.37,
+          "yield10": 4.78
+        },
+        {
+          "date": "2026-09-08",
+          "yield2": 4.39,
+          "yield10": 4.8
+        },
+        {
+          "date": "2026-09-09",
+          "yield2": 4.43,
+          "yield10": 4.83
+        },
+        {
+          "date": "2026-09-10",
+          "yield2": 4.56,
+          "yield10": 4.95
+        },
+        {
+          "date": "2026-09-11",
+          "yield2": 4.63,
+          "yield10": 4.96
+        },
+        {
+          "date": "2026-09-14",
+          "yield2": 4.65,
+          "yield10": 4.97
+        },
+        {
+          "date": "2026-09-15",
+          "yield2": 4.67,
+          "yield10": 5.0
+        },
+        {
+          "date": "2026-09-16",
+          "yield2": 4.74,
+          "yield10": 5.01
+        },
+        {
+          "date": "2026-09-17",
+          "yield2": 4.67,
+          "yield10": 4.94
+        },
+        {
+          "date": "2026-09-18",
+          "yield2": 4.76,
+          "yield10": 5.01
+        },
+        {
+          "date": "2026-09-21",
+          "yield2": 4.76,
+          "yield10": 4.96
+        },
+        {
+          "date": "2026-09-22",
+          "yield2": 4.71,
+          "yield10": 4.96
+        },
+        {
+          "date": "2026-09-23",
+          "yield2": 4.85,
+          "yield10": 5.11
+        },
+        {
+          "date": "2026-09-24",
+          "yield2": 4.87,
+          "yield10": 5.18
+        },
+        {
+          "date": "2026-09-25",
+          "yield2": 4.81,
+          "yield10": 5.17
+        },
+        {
+          "date": "2026-09-28",
+          "yield2": 4.92,
+          "yield10": 5.24
+        },
+        {
+          "date": "2026-09-29",
+          "yield2": 4.89,
+          "yield10": 5.26
+        },
+        {
+          "date": "2026-09-30",
+          "yield2": 4.88,
+          "yield10": 5.29
+        },
+        {
+          "date": "2026-10-01",
+          "yield2": 4.78,
+          "yield10": 5.24
+        },
+        {
+          "date": "2026-10-02",
+          "yield2": 4.83,
+          "yield10": 5.28
+        },
+        {
+          "date": "2026-10-05",
+          "yield2": 4.84,
+          "yield10": 5.31
+        },
+        {
+          "date": "2026-10-06",
+          "yield2": 4.79,
+          "yield10": 5.27
+        },
+        {
+          "date": "2026-10-07",
+          "yield2": 4.77,
+          "yield10": 5.28
+        },
+        {
+          "date": "2026-10-08",
+          "yield2": 4.75,
+          "yield10": 5.22
+        },
+        {
+          "date": "2026-10-09",
+          "yield2": 4.8,
+          "yield10": 5.24
+        },
+        {
+          "date": "2026-10-13",
+          "yield2": 4.79,
+          "yield10": 5.21
+        },
+        {
+          "date": "2026-10-14",
+          "yield2": 4.82,
+          "yield10": 5.19
+        },
+        {
+          "date": "2026-10-15",
+          "yield2": 4.77,
+          "yield10": 5.1
+        },
+        {
+          "date": "2026-10-16",
+          "yield2": 4.74,
+          "yield10": 5.09
+        },
+        {
+          "date": "2026-10-19",
+          "yield2": 4.77,
+          "yield10": 5.15
+        },
+        {
+          "date": "2026-10-20",
+          "yield2": 4.79,
+          "yield10": 5.12
+        },
+        {
+          "date": "2026-10-21",
+          "yield2": 4.81,
+          "yield10": 5.13
+        },
+        {
+          "date": "2026-10-22",
+          "yield2": 4.65,
+          "yield10": 4.96
+        },
+        {
+          "date": "2026-10-23",
+          "yield2": 4.69,
+          "yield10": 5.0
+        },
+        {
+          "date": "2026-10-26",
+          "yield2": 4.68,
+          "yield10": 5.0
+        },
+        {
+          "date": "2026-10-27",
+          "yield2": 4.7,
+          "yield10": 4.99
+        },
+        {
+          "date": "2026-10-28",
+          "yield2": 4.67,
+          "yield10": 5.05
+        },
+        {
+          "date": "2026-10-29",
+          "yield2": 4.61,
+          "yield10": 4.98
+        },
+        {
+          "date": "2026-10-30",
+          "yield2": 4.56,
+          "yield10": 4.94
+        },
+        {
+          "date": "2026-11-02",
+          "yield2": 4.59,
+          "yield10": 4.91
+        },
+        {
+          "date": "2026-11-03",
+          "yield2": 4.61,
+          "yield10": 4.95
+        },
+        {
+          "date": "2026-11-04",
+          "yield2": 4.58,
+          "yield10": 4.9
+        },
+        {
+          "date": "2026-11-05",
+          "yield2": 4.46,
+          "yield10": 4.84
+        },
+        {
+          "date": "2026-11-06",
+          "yield2": 4.51,
+          "yield10": 4.86
+        },
+        {
+          "date": "2026-11-09",
+          "yield2": 4.56,
+          "yield10": 4.88
+        },
+        {
+          "date": "2026-11-10",
+          "yield2": 4.73,
+          "yield10": 4.98
+        },
+        {
+          "date": "2026-11-12",
+          "yield2": 4.86,
+          "yield10": 5.1
+        },
+        {
+          "date": "2026-11-13",
+          "yield2": 4.88,
+          "yield10": 5.15
+        },
+        {
+          "date": "2026-11-16",
+          "yield2": 4.83,
+          "yield10": 5.12
+        },
+        {
+          "date": "2026-11-17",
+          "yield2": 4.8,
+          "yield10": 5.1
+        },
+        {
+          "date": "2026-11-18",
+          "yield2": 4.8,
+          "yield10": 5.07
+        },
+        {
+          "date": "2026-11-19",
+          "yield2": 4.76,
+          "yield10": 5.04
+        },
+        {
+          "date": "2026-11-20",
+          "yield2": 4.63,
+          "yield10": 4.92
+        }
+      ],
+      "status": "ok",
+      "attemptedAt": "2026-11-22T04:55:53Z",
+      "lastSuccessAt": "2026-11-22T04:55:53Z",
+      "frequency": "daily",
+      "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+    },
+    "real": {
+      "observations": [
+        {
+          "date": "2026-07-20",
+          "real10": 2.35
+        },
+        {
+          "date": "2026-07-21",
+          "real10": 2.37
+        },
+        {
+          "date": "2026-07-22",
+          "real10": 2.39
+        },
+        {
+          "date": "2026-07-23",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-07-24",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-07-27",
+          "real10": 2.44
+        },
+        {
+          "date": "2026-07-28",
+          "real10": 2.41
+        },
+        {
+          "date": "2026-07-29",
+          "real10": 2.41
+        },
+        {
+          "date": "2026-07-30",
+          "real10": 2.41
+        },
+        {
+          "date": "2026-07-31",
+          "real10": 2.47
+        },
+        {
+          "date": "2026-08-03",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-08-04",
+          "real10": 2.4
+        },
+        {
+          "date": "2026-08-05",
+          "real10": 2.41
+        },
+        {
+          "date": "2026-08-06",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-08-07",
+          "real10": 2.4
+        },
+        {
+          "date": "2026-08-10",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-08-11",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-08-12",
+          "real10": 2.42
+        },
+        {
+          "date": "2026-08-13",
+          "real10": 2.39
+        },
+        {
+          "date": "2026-08-14",
+          "real10": 2.41
+        },
+        {
+          "date": "2026-08-17",
+          "real10": 2.44
+        },
+        {
+          "date": "2026-08-18",
+          "real10": 2.41
+        },
+        {
+          "date": "2026-08-19",
+          "real10": 2.35
+        },
+        {
+          "date": "2026-08-20",
+          "real10": 2.35
+        },
+        {
+          "date": "2026-08-21",
+          "real10": 2.4
+        },
+        {
+          "date": "2026-08-24",
+          "real10": 2.38
+        },
+        {
+          "date": "2026-08-25",
+          "real10": 2.32
+        },
+        {
+          "date": "2026-08-26",
+          "real10": 2.34
+        },
+        {
+          "date": "2026-08-27",
+          "real10": 2.34
+        },
+        {
+          "date": "2026-08-28",
+          "real10": 2.42
+        },
+        {
+          "date": "2026-08-31",
+          "real10": 2.44
+        },
+        {
+          "date": "2026-09-01",
+          "real10": 2.44
+        },
+        {
+          "date": "2026-09-02",
+          "real10": 2.45
+        },
+        {
+          "date": "2026-09-03",
+          "real10": 2.42
+        },
+        {
+          "date": "2026-09-04",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-09-08",
+          "real10": 2.43
+        },
+        {
+          "date": "2026-09-09",
+          "real10": 2.46
+        },
+        {
+          "date": "2026-09-10",
+          "real10": 2.55
+        },
+        {
+          "date": "2026-09-11",
+          "real10": 2.6
+        },
+        {
+          "date": "2026-09-14",
+          "real10": 2.6
+        },
+        {
+          "date": "2026-09-15",
+          "real10": 2.62
+        },
+        {
+          "date": "2026-09-16",
+          "real10": 2.68
+        },
+        {
+          "date": "2026-09-17",
+          "real10": 2.61
+        },
+        {
+          "date": "2026-09-18",
+          "real10": 2.68
+        },
+        {
+          "date": "2026-09-21",
+          "real10": 2.62
+        },
+        {
+          "date": "2026-09-22",
+          "real10": 2.63
+        },
+        {
+          "date": "2026-09-23",
+          "real10": 2.76
+        },
+        {
+          "date": "2026-09-24",
+          "real10": 2.85
+        },
+        {
+          "date": "2026-09-25",
+          "real10": 2.83
+        },
+        {
+          "date": "2026-09-28",
+          "real10": 2.9
+        },
+        {
+          "date": "2026-09-29",
+          "real10": 2.91
+        },
+        {
+          "date": "2026-09-30",
+          "real10": 2.93
+        },
+        {
+          "date": "2026-10-01",
+          "real10": 2.88
+        },
+        {
+          "date": "2026-10-02",
+          "real10": 2.92
+        },
+        {
+          "date": "2026-10-05",
+          "real10": 2.95
+        },
+        {
+          "date": "2026-10-06",
+          "real10": 2.91
+        },
+        {
+          "date": "2026-10-07",
+          "real10": 2.92
+        },
+        {
+          "date": "2026-10-08",
+          "real10": 2.87
+        },
+        {
+          "date": "2026-10-09",
+          "real10": 2.91
+        },
+        {
+          "date": "2026-10-13",
+          "real10": 2.88
+        },
+        {
+          "date": "2026-10-14",
+          "real10": 2.84
+        },
+        {
+          "date": "2026-10-15",
+          "real10": 2.78
+        },
+        {
+          "date": "2026-10-16",
+          "real10": 2.74
+        },
+        {
+          "date": "2026-10-19",
+          "real10": 2.8
+        },
+        {
+          "date": "2026-10-20",
+          "real10": 2.77
+        },
+        {
+          "date": "2026-10-21",
+          "real10": 2.76
+        },
+        {
+          "date": "2026-10-22",
+          "real10": 2.64
+        },
+        {
+          "date": "2026-10-23",
+          "real10": 2.66
+        },
+        {
+          "date": "2026-10-26",
+          "real10": 2.66
+        },
+        {
+          "date": "2026-10-27",
+          "real10": 2.64
+        },
+        {
+          "date": "2026-10-28",
+          "real10": 2.67
+        },
+        {
+          "date": "2026-10-29",
+          "real10": 2.63
+        },
+        {
+          "date": "2026-10-30",
+          "real10": 2.6
+        },
+        {
+          "date": "2026-11-02",
+          "real10": 2.62
+        },
+        {
+          "date": "2026-11-03",
+          "real10": 2.65
+        },
+        {
+          "date": "2026-11-04",
+          "real10": 2.64
+        },
+        {
+          "date": "2026-11-05",
+          "real10": 2.6
+        },
+        {
+          "date": "2026-11-06",
+          "real10": 2.63
+        },
+        {
+          "date": "2026-11-09",
+          "real10": 2.66
+        },
+        {
+          "date": "2026-11-10",
+          "real10": 2.78
+        },
+        {
+          "date": "2026-11-12",
+          "real10": 2.86
+        },
+        {
+          "date": "2026-11-13",
+          "real10": 2.91
+        },
+        {
+          "date": "2026-11-16",
+          "real10": 2.92
+        },
+        {
+          "date": "2026-11-17",
+          "real10": 2.89
+        },
+        {
+          "date": "2026-11-18",
+          "real10": 2.88
+        },
+        {
+          "date": "2026-11-19",
+          "real10": 2.88
+        },
+        {
+          "date": "2026-11-20",
+          "real10": 2.77
+        }
+      ],
+      "status": "ok",
+      "attemptedAt": "2026-11-22T04:55:53Z",
+      "lastSuccessAt": "2026-11-22T04:55:53Z",
+      "frequency": "daily",
+      "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value=2026"
+    },
+    "credit": {
+      "observations": [
+        {
+          "date": "2024-12-01",
+          "spread": 0.9407070547038574
+        },
+        {
+          "date": "2025-01-01",
+          "spread": 0.9022199353222048
+        },
+        {
+          "date": "2025-02-01",
+          "spread": 1.0006802327947328
+        },
+        {
+          "date": "2025-03-01",
+          "spread": 1.1248514878126143
+        },
+        {
+          "date": "2025-04-01",
+          "spread": 1.2689613638918618
+        },
+        {
+          "date": "2025-05-01",
+          "spread": 1.0264757404337828
+        },
+        {
+          "date": "2025-06-01",
+          "spread": 0.9935862428591024
+        },
+        {
+          "date": "2025-07-01",
+          "spread": 0.9273729092274924
+        },
+        {
+          "date": "2025-08-01",
+          "spread": 0.9420306137337358
+        },
+        {
+          "date": "2025-09-01",
+          "spread": 0.8940723125184723
+        },
+        {
+          "date": "2025-10-01",
+          "spread": 0.9393689639462728
+        },
+        {
+          "date": "2025-11-01",
+          "spread": 0.9451678604561116
+        },
+        {
+          "date": "2025-12-01",
+          "spread": 0.9094648244927024
+        },
+        {
+          "date": "2026-01-01",
+          "spread": 0.8557577177156974
+        },
+        {
+          "date": "2026-02-01",
+          "spread": 0.9739560000134596
+        },
+        {
+          "date": "2026-03-01",
+          "spread": 1.032313810947308
+        },
+        {
+          "date": "2026-04-01",
+          "spread": 0.9206239990033273
+        },
+        {
+          "date": "2026-05-01",
+          "spread": 0.8348695931054154
+        },
+        {
+          "date": "2026-06-01",
+          "spread": 0.8620997329855946
+        },
+        {
+          "date": "2026-07-01",
+          "spread": 0.8415122210570518
+        },
+        {
+          "date": "2026-08-01",
+          "spread": 0.8793778071815943
+        },
+        {
+          "date": "2026-09-01",
+          "spread": 0.9268840791980548
+        },
+        {
+          "date": "2026-10-01",
+          "spread": 1.0045612268832755
+        }
+      ],
+      "status": "ok",
+      "attemptedAt": "2026-11-22T04:55:53Z",
+      "lastSuccessAt": "2026-11-22T04:55:53Z",
+      "frequency": "monthly",
+      "sourceUrl": "https://www.federalreserve.gov/econres/notes/feds-notes/updating-the-recession-risk-and-the-excess-bond-premium-20161006.html"
+    }
+  }
 }
