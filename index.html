@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#152c42">
+  <meta name="description" content="C003_stock — a clear, daily-updated view of market-moving events in the next three months.">
+  <title>C003_stock · Market event radar</title>
+  <link rel="icon" type="image/svg+xml" href="./assets/logo.svg">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <aside class="sidebar">
+    <a class="brand" href="./" aria-label="C003_stock home"><img src="./assets/logo.svg" alt="" width="40" height="40"><span>C003<span class="brand-sub">STOCK RADAR</span></span></a>
+    <p class="nav-label" data-i18n="workspace">YOUR WORKSPACE</p>
+    <nav aria-label="Main navigation" id="nav">
+      <button class="nav-item active" data-view="timeline"><span class="nav-icon" data-icon="timeline"></span><span data-i18n="timeline">Event timeline</span></button>
+      <button class="nav-item" data-view="calendar"><span class="nav-icon" data-icon="calendar"></span><span data-i18n="calendar">Calendar</span></button>
+      <button class="nav-item" data-view="risks"><span class="nav-icon" data-icon="radar"></span><span data-i18n="risks">Uncertain events</span></button>
+      <button class="nav-item" data-view="saved"><span class="nav-icon" data-icon="bookmark"></span><span data-i18n="saved">Saved events</span><span class="nav-count" id="saved-count">0</span></button>
+      <button class="nav-item" data-view="sources"><span class="nav-icon" data-icon="source"></span><span data-i18n="sources">Sources & updates</span></button>
+    </nav>
+    <div class="sidebar-note"><span class="eyebrow" data-i18n="perspective">A LITTLE PERSPECTIVE</span><p data-i18n="perspectiveText">The date is known.<br>The outcome isn’t.</p><span data-i18n="perspectiveSub">Watch the difference between expectations and reality.</span></div>
+    <div class="sidebar-footer"><span class="market-dot"></span><span data-i18n="market">US markets · New York time</span></div>
+  </aside>
+  <div class="shell">
+    <header class="topbar"><span class="project-name">C003_stock <span>/</span> <span data-i18n="radarName">Market event radar</span></span><div class="top-actions"><button id="language" class="lang-button" aria-label="Switch language">中文</button><button id="reload" class="icon-button" aria-label="Reload published data" title="Reload latest published data"><span data-icon="refresh"></span></button></div></header>
+    <main id="main" tabindex="-1">
+      <div id="loading" class="loading"><span class="loader"></span><p>Loading your market calendar…</p></div>
+      <div id="app" hidden>
+        <section class="page-heading"><div><div class="eyebrow" data-i18n="eyebrow">A CLEARER VIEW OF WHAT’S AHEAD</div><h1 id="page-title">The next 3 months.</h1><p id="window-label"></p></div><button class="button button-outline" id="export"><span data-icon="download"></span><span data-i18n="export">Export calendar</span></button></section>
+        <div class="freshness-line" id="freshness-line"></div>
+        <section id="overview" class="overview"></section>
+        <section id="filters" class="filters" aria-label="Event filters">
+          <div class="filter-top"><div class="segments" role="group" aria-label="Time window"><button data-span="7d" data-i18n="week">Next 7 days</button><button data-span="30d" data-i18n="month">Next 30 days</button><button class="active" data-span="3m" data-i18n="threeMonths">Full 3 months</button></div><label class="search"><span data-icon="search"></span><input id="search" type="search" placeholder="Search events, sectors, tickers…" aria-label="Search events"></label></div>
+          <div class="filter-bottom"><div class="category-filters" id="categories"></div><label class="toggle-label"><input type="checkbox" id="high-only"><span class="toggle"></span><span data-i18n="highOnly">High impact only</span></label></div>
+        </section>
+        <div class="content-layout" id="content-layout"><section id="primary-content" aria-live="polite"></section><aside id="watch-panel" class="watch-panel"></aside></div>
+        <footer class="page-footer"><span>C003_stock</span><span data-i18n="footer">A research calendar, not a price forecast. Impact labels are editorial judgments.</span><span id="footer-date"></span></footer>
+      </div>
+    </main>
+  </div>
+  <dialog id="details" class="details-dialog" aria-labelledby="detail-title"><div id="detail-content"></div></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

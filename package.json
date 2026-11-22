@@ -1,0 +1,12 @@
+{
+  "name": "c003-stock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A bilingual, source-linked rolling three-month market event calendar.",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "update": "python3 scripts/update_events.py",
+    "test": "node --test tests/*.test.mjs && python3 -m unittest discover -s tests -p 'test_*.py'"
+  }
+}
