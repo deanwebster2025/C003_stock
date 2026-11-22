@@ -6,6 +6,7 @@ A clear, bilingual market-event dashboard with a rolling **three-calendar-month*
 
 - The default **three-month overview** shows all intersecting months together, including the partial first and last months. Colored dates open that day's events; the timeline remains available.
 - **Watchlist** starts with BA, ADSK, AA and UNH. Company-name RSS searches refresh daily and include only headlines published in the trailing 72 hours. Dated three-month assessments are editorial and do not silently change when headlines refresh.
+- **Stocks & bonds** adds daily 2Y/10Y Treasury par yields, the 10Y real yield, the 10Y–2Y curve slope and a three-month historical chart. The Fed's GZ corporate credit spread is explicitly monthly; it is never treated as a daily quote. Each stock includes a separate explanation of how rates and credit can affect its business and valuation.
 
 - An event timeline and monthly calendar, with search, sector categories and high-impact filters.
 - English / 中文. Event explanations and scenario analysis are included in both languages. Publisher headlines retain their original language.
@@ -61,6 +62,7 @@ Official GitHub references:
 | Supported company announcements | Broadcom's official RSS is scanned for explicitly dated future earnings announcements. Additional company feeds can be added to the updater. |
 | Uncertain watch themes | Recent related publisher headlines are discovered through Google News RSS. Headlines are context and never become confirmed future dates automatically. |
 | Watchlist companies | Queries in `data/watchlist.json` discover up to 25 recent headlines per company. Exact normalized titles and repeated links are deduplicated. Both the updater and browser enforce the 72-hour publication cutoff, even after a failed refresh. |
+| Bond backdrop | Reads Treasury nominal/real yield tables daily and checks the Federal Reserve's monthly GZ credit-spread CSV. Displays source observation dates, five-observation changes for daily series and prior-month changes for credit. Fetches both calendar years when needed around New Year. |
 | Rolling window | The browser uses **America/New_York** and advances from today through the same date three months later, clamping month-end dates correctly. |
 
 ### Important coverage limits
@@ -98,6 +100,8 @@ To add a stock, append an entry to **data/watchlist.json** with `ticker`, `name`
 
 RSS coverage is not comprehensive; publisher timestamps can describe new coverage of an older event. Different headlines about the same underlying story may remain. A successful empty feed means only that no matching records were retrieved. This app does not fetch full articles, generate automatic recommendations or provide live quotes. Company-specific calendar entries still require source verification; no future earnings date is inferred from a news headline.
 
+The bond page describes conditional transmission channels; it does not infer a recession or change an investment recommendation from a rate move. It retains original observations on source failure, flags daily data older than seven days and monthly period labels older than 95 days, and applies revisions to matching dates. The GZ field is `gz_spread`, not the CSV's excess-premium or recession-probability fields. Rates are percent per annum; curve/credit values and changes are basis points. ICE daily credit-spread indices are linked at FRED for reference and are not redistributed. Optional `bondExposure` entries in the watchlist hold bilingual company-specific context independently of dated `research`.
+
 Source failures preserve prior records and verification times. Successful changes to a recurring event's date replace its previous date and appear in **Sources & updates**. All data writes are atomic.
 
 ## Project files
@@ -110,6 +114,7 @@ Source failures preserve prior records and verification times. Successful change
 | `data/curated.json` | Editable one-off event and source catalog |
 | `data/watchlist.json` | Extensible stock list and separately dated editorial assessments |
 | `scripts/stock_news.py` | Strict 72-hour company-news filtering and basic deduplication |
+| `bonds.js`, `scripts/bond_market.py` | Bond dashboard, unit conversion, Treasury/GZ collectors and failure handling |
 | `scripts/catalog.py` | Bilingual explanations and monitored themes |
 | `scripts/update_events.py` | Primary-source calendar collectors and news refresh |
 | `scripts/build.py` | Allowlisted public output; excludes source scripts and workflows |

@@ -10,7 +10,7 @@ def build():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    for name in ("index.html", "styles.css", "app.js", "core.js"):
+    for name in ("index.html", "styles.css", "app.js", "core.js", "bonds.js"):
         shutil.copy2(ROOT / name, OUT / name)
     shutil.copytree(ROOT / "assets", OUT / "assets")
     (OUT / "data").mkdir()

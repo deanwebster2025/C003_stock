@@ -34,6 +34,15 @@
           }
         ],
         "reviewBy": "2026-11-28"
+      },
+      "bondExposure": {
+        "summary": "Rates and credit spreads matter through new borrowing, refinancing and financing available to airline customers. Evaluate this alongside actual production, deliveries and cash generation.",
+        "summaryZh": "利率和信用利差会通过新融资、再融资，以及航空客户的融资条件传导。需要与实际产量、交付和现金流一起判断。",
+        "watch": "Debt maturities, fixed versus floating rates, liquidity, credit-rating actions and aircraft delivery cash receipts.",
+        "watchZh": "核对债务到期、固定与浮动利率比例、流动性、评级变化，以及交付回款。",
+        "caution": "A Treasury rally does not guarantee lower company borrowing costs if credit spreads widen. Existing fixed-rate coupons do not automatically increase.",
+        "cautionZh": "若信用利差扩大，国债上涨也不保证公司融资成本降低；存量固定利率债务的票息不会自动增加。",
+        "sourceUrl": "https://www.federalreserve.gov/newsevents/speech/jefferson20231009a.htm"
       }
     },
     {
@@ -70,6 +79,15 @@
           }
         ],
         "reviewBy": "2026-11-25"
+      },
+      "bondExposure": {
+        "summary": "Higher real yields can reduce the present value of future growth. Tighter financing for construction and manufacturing customers can also affect demand for design software.",
+        "summaryZh": "实际收益率上升可能降低未来增长的现值；建筑和制造业客户融资收紧，也可能影响设计软件需求。",
+        "watch": "10-year real yields, customer demand, renewals, forward guidance and free cash flow. Separate changes in valuation multiples from changes in the business.",
+        "watchZh": "观察10年期实际收益率、客户需求、续约、未来指引和自由现金流，区分估值倍数变化与业务变化。",
+        "caution": "Lower yields can help valuation, but weakening demand or guidance can outweigh that support.",
+        "cautionZh": "收益率下降可能支持估值，但需求或指引转弱仍可能抵消这一支持。",
+        "sourceUrl": "https://adsknews.autodesk.com/en/pressrelease/autodesk-inc-announces-fiscal-2027-second-quarter-results/"
       }
     },
     {
@@ -100,6 +118,15 @@
           }
         ],
         "reviewBy": "2026-12-03"
+      },
+      "bondExposure": {
+        "summary": "Credit conditions can affect financing and the industrial demand behind aluminum. Combine the bond backdrop with aluminum/alumina prices, energy costs and operating margins.",
+        "summaryZh": "信用条件既影响融资，也关联铝需求背后的工业活动。需将债市背景与铝、氧化铝价格、能源成本和经营利润率一起看。",
+        "watch": "Credit-spread direction, borrowing terms, debt maturity profile, realized commodity prices and unit costs.",
+        "watchZh": "观察信用利差方向、融资条款、债务到期结构、实际商品售价和单位成本。",
+        "caution": "Falling Treasury yields caused by recession fears are not necessarily favorable for a cyclical producer. Commodity margins remain essential.",
+        "cautionZh": "衰退担忧引起的国债收益率下降，对周期性生产商未必有利；商品利润仍是关键。",
+        "sourceUrl": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx"
       }
     },
     {
@@ -112,7 +139,16 @@
         "Optum"
       ],
       "query": "(UnitedHealth OR UnitedHealthcare OR Optum) (stock OR earnings OR Medicare OR medical costs OR DOJ)",
-      "research": null
+      "research": null,
+      "bondExposure": {
+        "summary": "Rates affect both investment income and the fair value of its bond portfolio, as well as debt financing. The net effect depends on maturities, reinvestment, hedges and asset/liability matching.",
+        "summaryZh": "利率既影响投资收益和债券组合公允价值，也影响债务融资。净影响取决于期限、再投资、对冲和资产负债匹配。",
+        "watch": "Investment income, interest expense, unrealized bond gains/losses and rate sensitivity disclosed in filings, alongside medical costs and operating guidance.",
+        "watchZh": "核对报表中的投资收益、利息支出、债券未实现损益和利率敏感性，同时关注医疗成本及经营指引。",
+        "caution": "Higher reinvestment yields may help income while existing fixed-rate bonds lose market value. An insurance company does not automatically benefit from rising rates.",
+        "cautionZh": "更高的再投资收益率可能增加收入，但存量固定利率债券的市值也可能下降，不能简单认为利率上升就利好保险公司。",
+        "sourceUrl": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/UNH_2026.9.30_10-Q.pdf"
+      }
     }
   ]
 }

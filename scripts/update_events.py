@@ -24,6 +24,7 @@ from zoneinfo import ZoneInfo
 
 from catalog import SOURCES, RISKS, template
 from stock_news import parse_stock_news, recent_news
+from bond_market import bond_sources, parse_treasury, parse_credit, merge_bonds
 
 ROOT=Path(__file__).resolve().parents[1]
 MONTHS={m.lower():i for i,m in enumerate(calendar.month_name) if m}
@@ -249,7 +250,8 @@ def update(root=ROOT,include_news=True):
     for r in risks:
         for k in ('news','newsCheckedAt','newsStatus'):
             if k in old_risks.get(r['id'],{}):r[k]=old_risks[r['id']][k]
-    configs=deepcopy(SOURCES+curated['sources'])
+    configs=deepcopy(SOURCES+curated['sources'])+bond_sources(today)
+    bond_rows={kind:[] for kind in ('nominal','real','credit')}
     configs.append(dict(id='broadcom-announcements',name='Broadcom announcements',shortName='Broadcom IR',url='https://investors.broadcom.com/rss/news-releases.xml',parser='earnings',company='Broadcom',companyZh='博通',ticker='AVGO',allowedHost='broadcom.com',description='Discovers explicitly dated future earnings announcements.',descriptionZh='发现公司明确公布日期的未来财报公告。'))
     if include_news:
         for stock in stocks:
@@ -263,7 +265,13 @@ def update(root=ROOT,include_news=True):
             src=tasks[future];report={**src,'lastCheckedAt':now,'lastVerifiedAt':previous_sources.get(src['id'],{}).get('lastVerifiedAt'),'status':'failed'}
             try:
                 raw=future.result();parser=src['parser']
-                if parser in COLLECTORS:
+                if parser in ('bond_treasury','bond_credit'):
+                    rows=parse_credit(raw) if parser=='bond_credit' else parse_treasury(page(raw).rows,src['bondKind'])
+                    rows=[row for row in rows if row['date']<=today.isoformat()]
+                    if not rows:raise ValueError('No non-future bond observations')
+                    bond_rows[src['bondKind']].extend(rows)
+                    report['recordCount']=len(rows)
+                elif parser in COLLECTORS:
                     incoming=COLLECTORS[parser](raw,src,now,today)
                     if not incoming:raise ValueError('No valid dated records parsed; source needs review')
                     events,delta=merge_calendar(events,incoming,src['id'],now,today);changes+=delta;calendar_success+=1;report['recordCount']=len(incoming)
@@ -309,6 +317,7 @@ def update(root=ROOT,include_news=True):
     in_github=os.environ.get('GITHUB_ACTIONS')=='true'
     payload=dict(schemaVersion=1,updatedAt=now,timezone='America/New_York',windowMonths=3,automation={'active':in_github or existing.get('automation',{}).get('active',False),'provider':'GitHub Actions','scheduleUTC':'17 12 * * *'},refresh={'status':'ok' if success==len(configs) else 'partial' if calendar_success else 'failed','attemptedAt':now,'successCount':success,'sourceCount':len(configs),'calendarSourcesChecked':calendar_success},events=events,risks=risks,sources=sources,changes=(changes+existing.get('changes',[]))[:60])
     payload['stocks']=stocks
+    payload['bonds']=merge_bonds(existing.get('bonds',{}),bond_rows,sources,now,today)
     validate(payload)
     temp=path.with_suffix('.tmp');temp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');temp.replace(path)
     print(f"Updated {len(events)} dated records and {len(risks)} watch themes. {success}/{len(configs)} sources checked; {calendar_success} official calendars parsed.")
