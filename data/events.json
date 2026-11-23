@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T19:33:34Z",
+  "updatedAt": "2026-11-23T23:50:44Z",
   "timezone": "America/New_York",
   "windowMonths": 3,
   "automation": {
@@ -10,7 +10,7 @@
   },
   "refresh": {
     "status": "partial",
-    "attemptedAt": "2026-11-22T19:33:34Z",
+    "attemptedAt": "2026-11-23T23:50:44Z",
     "successCount": 34,
     "sourceCount": 36,
     "calendarSourcesChecked": 7
@@ -52,7 +52,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -94,7 +94,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -134,7 +134,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -179,7 +179,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -215,7 +215,7 @@
       "sourceUrl": "https://adsknews.autodesk.com/en/pressrelease/autodesk-extends-invitation-to-join-financial-results-conference-call-26/",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "lifecycle": "active"
     },
@@ -254,7 +254,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -296,7 +296,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -330,7 +330,7 @@
       "sourceUrl": "https://www.opec.org/pr-detail/620-1-november-2026.html",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "Europe/Vienna",
       "time": null,
@@ -363,7 +363,7 @@
       "sourceUrl": "https://www.nvidia.com/gtc/dc/faq/",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -398,7 +398,7 @@
       "sourceUrl": "https://news.alcoa.com/press-releases/press-release-details/2026/Alcoa-to-Participate-in-Citi-Basic-Materials-Conference/default.aspx",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "lifecycle": "active"
     },
@@ -437,7 +437,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -472,7 +472,7 @@
       "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -516,7 +516,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -560,7 +560,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -630,7 +630,7 @@
       "sourceUrl": "https://www.g20.utoronto.ca/summits/2026miami.html",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -706,7 +706,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -746,7 +746,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -786,7 +786,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -828,7 +828,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -862,7 +862,7 @@
       "sourceUrl": "https://www.govinfo.gov/content/pkg/HMAN-118/html/HMAN-118-pg113.htm",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -895,7 +895,7 @@
       "sourceUrl": "https://www.ces.tech/about-ces/about-ces/",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/Los_Angeles",
       "time": null,
@@ -937,7 +937,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -973,7 +973,7 @@
       "sourceUrl": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/html/2026-22867.htm",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/New_York",
       "time": null,
@@ -1009,7 +1009,7 @@
       "sourceUrl": "https://www.jpmorgan.com/about-us/events-conferences/health-care-conference",
       "certainty": "confirmed",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/Los_Angeles",
       "time": null,
@@ -1053,7 +1053,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1096,7 +1096,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1137,7 +1137,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1179,7 +1179,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1221,7 +1221,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1264,7 +1264,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1304,7 +1304,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1349,7 +1349,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1392,7 +1392,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1434,7 +1434,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1476,7 +1476,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1521,7 +1521,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1556,7 +1556,7 @@
       "sourceUrl": "https://www.nvidia.com/gtc/",
       "certainty": "tentative",
       "verification": "verified",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "origin": "curated",
       "timezone": "America/Los_Angeles",
       "time": null,
@@ -1601,7 +1601,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1643,7 +1643,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1684,7 +1684,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1724,7 +1724,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1766,7 +1766,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1808,7 +1808,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1853,7 +1853,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1896,7 +1896,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -1937,7 +1937,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -1980,7 +1980,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2020,7 +2020,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2062,7 +2062,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2104,7 +2104,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2149,7 +2149,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2192,7 +2192,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2234,7 +2234,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2276,7 +2276,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2320,7 +2320,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2363,7 +2363,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2405,7 +2405,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2448,7 +2448,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2488,7 +2488,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2530,7 +2530,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2572,7 +2572,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2617,7 +2617,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2660,7 +2660,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2701,7 +2701,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -2742,7 +2742,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2784,7 +2784,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2826,7 +2826,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2868,7 +2868,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2913,7 +2913,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2956,7 +2956,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -2998,7 +2998,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3040,7 +3040,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3084,7 +3084,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3126,7 +3126,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3170,7 +3170,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3212,7 +3212,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3254,7 +3254,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3296,7 +3296,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3341,7 +3341,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3385,7 +3385,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3425,7 +3425,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3467,7 +3467,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3509,7 +3509,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3549,7 +3549,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3594,7 +3594,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3638,7 +3638,7 @@
       "certainty": "tentative",
       "time": null,
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3680,7 +3680,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3722,7 +3722,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3764,7 +3764,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3809,7 +3809,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3853,7 +3853,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3893,7 +3893,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Asia/Tokyo",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -3933,7 +3933,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -3975,7 +3975,7 @@
       "certainty": "confirmed",
       "time": "08:30",
       "timezone": "America/New_York",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active",
@@ -4018,7 +4018,7 @@
       "certainty": "confirmed",
       "time": null,
       "timezone": "Europe/Berlin",
-      "verifiedAt": "2026-11-22T19:33:34Z",
+      "verifiedAt": "2026-11-23T23:50:44Z",
       "verification": "verified",
       "origin": "automatic",
       "lifecycle": "active"
@@ -4049,37 +4049,37 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Taiwan Raised at Trump-Xi APEC Meeting - Wisevoter",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tZHlUcXc4U1hfNTVOYWZpczhDR2xPVGlOaDd3NzBac3pwNG5ZVjIzVE1BU21Wd0JCOXZZVEl1bE1vV2U5T1JUVGhXeEdsZFJLSkJhZHlOcnlLSG1QWlVyZjlhRlo3YW1wcTlDaDFrekJXOF9CX2lMRi1JaGlabm8?oc=5",
-          "publisher": "Wisevoter",
-          "publishedAt": "2026-11-22T11:29:16+00:00"
+          "title": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know - The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBOMWxTaURmQWVsZ213WnA4d0RJSHZianJ3TTg1cVRYU1RvcGM1clpwcFU0eC1hWTRsV2EwMEVSRFE2cjdxSWl3WENuYWd2SnRVU0F0MWZDM3BLYkJZb0FYQzFlWFFnYmFiTWlkc3E1YW9FcTluYk5uNzRiTFdNU0h2ampMTVdHcW9saFh6cHBBQXdkazFqMG1nUTVZUVBqSmJR0gGoAUFVX3lxTE5jRFdESlU0bjg5amtGUEZhcEVKbjlkWnJZSkRJUG9BdWNCTmxjVjBGZk5pWGFlSlRKLWhZbUYtY0dsdncybjI4Zno1Yk5IMURmWFBrdjlId2VFNHpmeGVtM0dGRU1TdkZ4TVlJTG51cEZzOXllb0NDcU53Rzd0WElJQnR2NXlMUF9ucVRYNEF4cGFyTFg3UzY5MUZrUVFHM3hTTVdpOEs4OQ?oc=5",
+          "publisher": "The National Law Review",
+          "publishedAt": "2026-11-23T21:07:07+00:00"
         },
         {
-          "title": "USTR's Greer says the Section 301 overcapacity probe covering South Korea will finish by year-end - MLQ.ai",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDd2RHhJTFR4Y1pueGZtVklKaFd1WFNQRlBEaXppSnc3cUdJVHdqcVVHOXJvNkZZNEdGVlRxcXRjNUpQM2F4c3Y5WkQweEVkU1F4ZGhyeThCMXVGcjhoNlBNc0xXRzhLc3oySS1ZamlyMDlTdXFEUHBlZmRLYk5DVzFpVldFVmlLNWY3QzRCOGtNV0NFeXZYSTBJWGIzR1NlVl9OMndnMFFBQ0hFS1FfY2RVcDZ5dThv?oc=5",
-          "publisher": "MLQ.ai",
-          "publishedAt": "2026-11-21T19:06:07+00:00"
+          "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+          "publisher": "Thomson Reuters tax",
+          "publishedAt": "2026-11-23T18:29:17+00:00"
         },
         {
-          "title": "The Asean paradox - Free Malaysia Today",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnY3QzhPQTNhVHYzY2xSXzlJUGd6bzNObGRHVUhMUlhCaHY4OHdiVVhIa1JqaUlJRkRlQlR5aThJSGFUWHBCNDVGZmh3WlphSmJCZ2FIeWh2dkZxcWpIYXZZMFQ0RWFKaGZVTHBCWmZhTTE4bmV3S28tcW1kYUFkVTh2N2hyZw?oc=5",
-          "publisher": "Free Malaysia Today",
-          "publishedAt": "2026-11-20T23:30:00+00:00"
-        },
-        {
-          "title": "The Push and Pull of U.S.-China Trade Policy - Sandler, Travis & Rosenberg, P.A.",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFJjNE1Jd2FmNi1ydTdwOHBsNm9GS3lvVDE2Tnd6cFZvN1ZlNUxYbWktM21MellsN0xBRS00LWpiTWF5a2hhNEhzbXAzT01oSDVFU2xFS0tMUlEtMkljTlVXS1EtOVFJWkdJdE1LUm5UMTRtczhMT2tNLXc0TlZXbUNBdW9Fbk9kZ0ItTURMUEd2V2N1SWtHNUt4VFBoRS15X2JXWnVNYi1NMVpwa3YzWFVJOUg4dw?oc=5",
+          "title": "Legislative Update: China, Clothing, Enforcement, Semiconductors, Exports, Product Safety - Sandler, Travis & Rosenberg, P.A.",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXFKcHM1MzBmczFMcVdMaXhFc2w2UHJHOXF5cTMzM0RBMElvdWtFVW5rR1JlUE1PVDlraEsxMXlwNHBBcmF5b3Q3ZHF5R0ZEQmFSbW84c2J4RU9xX0lFR0QwQUVRd2ZGbTJXQnQyWmpGd1BtdVh1ZEZUaWhNeFVNY0I4cjVoS2xfZ1VHM1FzYVg1OFJJcldvd0dwVVE0alNKTGlmUFhndG80Z293NnJhbmQ3MUJsNGFwQ2hDNEY5dUZuQno0RWtmZWlzOGt1aTdEdDZQNEFxUFZhSnpzcURZcHYtMWlxZmhzcEtj?oc=5",
           "publisher": "Sandler, Travis & Rosenberg, P.A.",
-          "publishedAt": "2026-11-20T18:52:08+00:00"
+          "publishedAt": "2026-11-23T18:04:16+00:00"
         },
         {
-          "title": "APEC 2026 in Shenzhen: What the Leaders’ Meeting and Trump-Xi Talks Mean for Business - China Briefing",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamxlU19pODktRktfNmluMUlTazBkS1B6RjlPRVZwUXZrbDVZOHJKUjlsMTlnOWVhbzFDenJqNHZ3dV9ULVBaSXlDSHhIZjdjMHNYaHNNWUhWcnBrbEo2LWxqVzBfYkxIWElKRHdHcndWMDNyWVVJdkQ5a0ZuVUh1dVdsTTNZNzYtQlpONDUtN096VVphamlJZGZ0ckZKal9xUXBuaFlpYnR4RThVYmlxSjluM3hzeVkwSmRtdg?oc=5",
-          "publisher": "China Briefing",
-          "publishedAt": "2026-11-20T10:18:58+00:00"
+          "title": "The AI Slump Is Exposing the Economic Costs of Economic Statecraft - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVFEVlpJVHR2cHRneEFrMmxWUW9UeHlLRlJaMjZYYTFPTVZhbE9RSmtGSUFtbWhpRDNCa3YzRkJudjhSR0VjbVRYV3FXbGFLYVoxekp6UFQ4UThNYkRuS3N4dS1tMmpHeE1qMThsUEdEWVN0cldrbndXMTdJelpfaFdBS2pVMzJYaG1IY1I1cG4ySVRMb1V0RXdGb0JWQVlCZ2c?oc=5",
+          "publisher": "Bloomberg.com",
+          "publishedAt": "2026-11-23T12:00:01+00:00"
+        },
+        {
+          "title": "US needs allies, not just tariffs, to counter China, Emanuel says - TOKENPOST",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkeE5UT3lJR2tVNzM1ckNlaFpGY09VaDBMaXRFR0tYVWtCcHQzR3B3RVlUMlRnOVd0eU0zVm8tWDF4ZEt4VldLU0pkWUtxVWxOSHpxOEtyaGc?oc=5",
+          "publisher": "TOKENPOST",
+          "publishedAt": "2026-11-22T20:00:19+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4107,37 +4107,37 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Musk Warns AI Sector Faces Hundreds of Billions in Cash Shortfall as Data Center Buildout Lags - BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5haHo2M2twVUxoeEtJbWl4TENLZ2xMVFBoYjBoa1pMalBSNS1uTVBtMWpET1BvWHV2dVpZc3dUR1ZSVlVFLVBZWm1WYl9tMXBlZmhyVFpnOFAwSmpuTDM4Y3JNMk0zUnJjWXRvTVlUU0FVTEdSSlE?oc=5",
-          "publisher": "BigGo Finance",
-          "publishedAt": "2026-11-22T18:25:00+00:00"
+          "title": "AI Boom at Risk as Trump Threatens “Tremendous Tax” on Overseas Data Centers While Restrictions Mount at Home - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUhJeEZydjBJNFd2dkpkME9BaG9icGdJaEFsWGI4Y1d5RzJOSHlwQ3ZkSXQ0Ty0zX2ZMc0VNU2ZTQUdIWXlHTE14MWVBckVKSHR0cDZZcWxBMld4OTdYSGpfUzBDZmdmeU1BbzRNR0JfLTNCTzZLcFZENlB3Z1p6TTIzSHA3ajY2VFlkV3BWd3pBTU1aUE1CLWE2MzAyOHlRLUFESzFablp3NnpZSGpwTXRVR0QyQ0JoZS1WUzZQUFd0THdkUnNhcTJvQXpTaHlmc19IMDl0ekpXTWNYcVh5Y0FheUdkQQ?oc=5",
+          "publisher": "24/7 Wall St.",
+          "publishedAt": "2026-11-23T17:19:00+00:00"
         },
         {
-          "title": "Apple (NASDAQ: AAPL) Beats Big Tech's AI Spending Race With $109.4B Revenue And A $5 Trillion Valuation - Foreign Policy Journal",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZFctSnd3bHlQUjVhTW5VZV9hYkxocDhzUXF3RnQ5Um1wcTVFdDhYU0dYRkhsYXljcFVUTzh2ZXk3V1N0aFNZZWx0WFBZTHA3MEp5R3ctZHpPWkQwQnREelJBVDN4YzhMNUtUc3dOV0tBYVdialRxUVhCQ1FxelNJT3hDRDE5WlVTLWZRSHdxclRoQXU0TEg3SVhiS1FLMnFfaFR4SFFWclYyZmQzMzM4M3U4U0h5YWgzMEtQVWZSamJvdHlfWDRhNEplVnhIRUJIQlNrRmNnOGM5WWJRc25r?oc=5",
-          "publisher": "Foreign Policy Journal",
-          "publishedAt": "2026-11-22T18:14:00+00:00"
+          "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym5PVmtVcmozcmwzTDBvSVZuSUVuanV6R3FNY0lrQm5GZ3pYZk1TQThWd2xERm9xUWs0NEdpTnpmSEFsOG9NT1hxdHVOb2xUSVNjeWhCckR3eGxoLTlSN2VyTV9EQXJ5VDJsM3Vxalp2NF9oTFE?oc=5",
+          "publisher": "The New York Times",
+          "publishedAt": "2026-11-23T16:58:00+00:00"
         },
         {
-          "title": "META vs GOOGL: $127.6B Quarter vs $3.83 EPS - shattered.io",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNek4xcXA2VGU3Z3B0LWpHUE4wVE1ta0VyZzVtUFF0RVhDbXV1RVdYcTE5eWo0cWYzQk5ONE5XTWVac3JZSDBhZ0M2M0RtYnRSZDZZN013V3JPR29NazBKMGpDTXcxRlIzV1dZSXRabzdIbnl5Y2FzZ2QyWHZuMGI5bzY2NzBNWnRSa2c?oc=5",
-          "publisher": "shattered.io",
-          "publishedAt": "2026-11-22T16:42:54+00:00"
+          "title": "VNET cuts its 2026 capex plan to 8-10 billion yuan and keeps its revenue outlook - MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0tqZlFnaWZKV0tGOUtObldWU0JQS01MYnNFMndlVXpmSGFMWFJjLUw5RlVyVDdrMHBpa3g4TFhVOWJRbXFZNFRVcGFIVjBRNWdXTUNablpsRnYxUm1xczFHMTIzTkpjeEtpUXgzaHdxRUtWbXJQdmxzSXBRNGh3YWVJc0xmWDI4ZDNRTV9OejhVQlRkOWxuckxtS1ZyXzE0ZzJV?oc=5",
+          "publisher": "MLQ.ai",
+          "publishedAt": "2026-11-23T16:55:28+00:00"
         },
         {
-          "title": "The NVIDIA Shock: How Concentrated Control Threatens the Global AI Economy - https://debuglies.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWUV5czI3cWN0RWVOVE1sdVBkRllEODNLU015amQ4RFkwOGd6U3hrQllrWEllY0lVenY5YlRSWnlVS1dmR1ViUUZhWkUxUXNPZ3NHdG10V09VMlBZRTRUeXFyTjZkM1FGM05WbU8zRWhzRUZ5N1haN2piNWJsWlpUZlZxajE3RVNvUExoczR5WDhzdHJNNmhiTjh3bjlqYld0c2lwOGpDNkdoSU0?oc=5",
-          "publisher": "https://debuglies.com",
-          "publishedAt": "2026-11-22T11:48:18+00:00"
+          "title": "AI Valuation Questions Intensify as Investors Examine Data-Centre Returns - kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlFVQkxyUGl2Tm9KcDlKRkdwWlNMYzg4a2Y1M2pkcXFyaGlfY2gzRHo2SElqdGh6NWQzUWxSYzZjZW14Q2kzcUZ3NThsX2x0dnhCaWpRbVNsc1ZBN010TktiUkNYOUxqQ2xrT0hBb0dYTGJScHk0SHpSelJKN0VDcXJSVXdkNDc2b2xsQy02S2xGN2F4cVA5MEhnN2VScFh2cElwNTRoR21VWE1Zd0lN?oc=5",
+          "publisher": "kalkine.ca",
+          "publishedAt": "2026-11-23T16:00:00+00:00"
         },
         {
-          "title": "Nebius Stock: A $27 Billion Capex Bill, a 571% Quarter, and the Capacity Bottleneck That Won't Budge - ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQb1RhLVZpVE5lMTR0UmpGa3NNT3cwVmFUWVZJTFlPNWlKX3JIVmQ4MmxsUzFIUVZOWGl4ZFlWejlkV1J5UU93V25TSUJYZWM5X2NKNkl0NWdLRGQtSTU1YW1JdUlaVkRTY1RCQ1FaYVJ3SWV1NzdNZFRaMW5rRmdDRUxjc2NvUkx5azB2MXp1NmszWDBfQ2xkZnVuZF9JMXl2SnZ5c2J6dnZtZ3J5Q3VqcXVwYzZTR00xbnIyWWhlVERYa1J3eXJ0NW03NzNrTjhGMmtRRWNYOGpTRUE1V2ZUY3RKSHhnQ1pPWWFFWWJLRERvWDYwT0FNYVBJRQ?oc=5",
-          "publisher": "ad-hoc-news.de",
-          "publishedAt": "2026-11-22T07:51:17+00:00"
+          "title": "Boom or Bubble? Understanding AI and the U.S. Economy - Council on Foreign Relations",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHdwemMwTHVoTXF6OGM3d21tZ0Yzc1g3dXl6VkcwN2kyeHNsMWxKVXFaTUpfQ1k1QTNfMkhhRVhxVkNTMi1tTVpZS1ZNTjJUZHpZUjU1bzJjSzY0UGFjd1F6dVNTdThCcHBZS0dQNGcwSk1vcVk3Q1hnVmtsLUlIc2tDZXR6ejQ?oc=5",
+          "publisher": "Council on Foreign Relations",
+          "publishedAt": "2026-11-23T15:00:00+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4164,37 +4164,37 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Are oil companies profiting from the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUV9YajZLcHUxLVFKVzBCLW41WS1vUGNuankwUmtqMWhRVEFLY3pxZmVCN3dMNUpIZlViQnR1dDVRazdxdExGelJnbjZfWFNVVEM4Q01KZjV3ZEM3UElMd3Z3bm52Nl9yck9FNWhBWXBLMGJMZ3ZhR1dNMmpyUFZqQWhHaDduNk9hWGxmaDY5ZlJiYzVQcnlRNEhXbjXSAaIBQVVfeXFMTjR2MEhxN0ROWG5zR0FWbGdCMHptdG5UVG10dmZwVE94S2xEdzdJeVJEeDBTaXNGbk4yWEF3bnIzUENPSzZJcnZoRzhJQUFRMk45VTB2aWVhMEdoa0ZlWExDcklnU0hpdkgya0hCLXczOU01aTEzci1Qb1pFY0hMMTJ4cVhabDRSM3dPU0xkc3RKV3B5RG9ZYl8wbkEyQVVYaDJB?oc=5",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "publishedAt": "2026-11-22T09:32:58+00:00"
-        },
-        {
-          "title": "Tanker catches fire near Hormuz as Iran blames naval mine, UK reports projectile strike - Business Upturn",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTENUNTdIUWdOX2RTQXVPcGJmWU1ha09MdGhLNmdNeVE4RXNWb1pJTG1JZDNSeXI0TmJuUjdyT0FHNU5iZkNrLWEzR1B0YWFIN1ctQmlCb3R1cmxqTlFkYTZzN2FmaHNpU012bU5KLXloVTFicTNmVHpmRk43eUltR193cmZ2cDlmYU00dkRVNURpU3BDT3dkTGpIeVp2R3BsaWhqT1VFQ1dUYUJfMFVvclpVQmdveGFmdzJ1Nk8wRnRwTE9hT1U2aHJ4bDZLcW5BWTNiOWRvcGc?oc=5",
-          "publisher": "Business Upturn",
-          "publishedAt": "2026-11-21T11:58:27+00:00"
-        },
-        {
-          "title": "Two tanker attacks reported near Hormuz in fresh blow to vital oil route - Business Upturn",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYlo5eDZYSjdUNGJJbm5VMi15ZTlORDc1RTJNQk5xYVNMMlZhSS1LUEwwQTVGQzR5LTVOenU2U1JMSWdKeGNHU01Xa0EyTlMyRjJlV0gzVnBWY1M5d1RFYVRqb0RlOVJKMWhGZXdiVmdQUXRKcVdBMFIzNXJyOUQtQWlvVU9RRnNld1pIR185SkowT0RKZ0xRNmtxRVAxZlZ0UkhwWUJ1cWozZVJGRzdpOVVpUUtkOFdwWHQ0WA?oc=5",
-          "publisher": "Business Upturn",
-          "publishedAt": "2026-11-21T09:53:21+00:00"
-        },
-        {
-          "title": "Brent Logs Third Weekly Fall as Tanker Strike Near Oman Remains Unattributed - https://streamlinefeed.co.ke/",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2tCQU5PaXdxa2dYeUVVUHdER1FxQWM1amJ1Nlo1VnNReXA2SmZlWWZwbTROajB3MTdyRl9IRml2cHdwNWZwUjVFV2c4TVJwLV9aZ0Foc2FqcnFUNTBkaU0wSTNZbXdHZmlScVBvaHZUci1pTW5vZlROclZnRnF0dHU2RW81Q2NHdXQ0RkkxTGlQUQ?oc=5",
-          "publisher": "https://streamlinefeed.co.ke/",
-          "publishedAt": "2026-11-21T08:36:00+00:00"
-        },
-        {
-          "title": "Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal - EnergyNow.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2EzT2V0SWZFdVQ5QlZsMWtnNjhxMjF5RTFJNmNmZkZ5d2VFcFBjX21mQ1lDRG5XYk5XUHVTZWo1RlhYcThmOWZjU2k4WXZNVXBNTFoxeGdWRVQ2YndtS2tqdHNJcGlzdjIwMjctdG0tMGFBQkpVQkxXQ3pJUWVOV29qaUdMLXNGZGctOU0zNDB6bkliTGI3dHNoUGJwaEFvRGxV?oc=5",
+          "title": "Oil Prices Rise After Ship Attacks, US-Iran Talks Deadlock - EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXFwRjliNjJSakhhNDA1YlQ3S20zRG82UUhOMnhxanFONHdpT09sWlVGb3Q4RmRqbTBzSWg4RVVKb3piREVQUjI1cFphaVpiQi03Y1IyMFRWMmkwOEc2RVN0bF9jajNiYWdHWU84SGcycGwzY2N2czV0NHJhOHlrc3JfSXMtYTQzS3dBLTZhN3FHdw?oc=5",
           "publisher": "EnergyNow.com",
-          "publishedAt": "2026-11-20T23:42:37+00:00"
+          "publishedAt": "2026-11-23T15:09:34+00:00"
+        },
+        {
+          "title": "Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYThiVERSbWtEOC05djduOWlQZlpRMVAxWXJHS1lORWhFN01MTXVpWF9MOHlvcG5Rblp1ZG9NRF9zdGJKT1JHVGlkQXBTOTBsYThrVkQxLWhRSG11a09FRkMyTVJnYmIyOWVZREluTDlVeVlMUTVCLVV0d0tHQktlZnJFQVZSOHEtZk5pQUozSS00SExWcnhOMTN3Y2RabDJoblRWM2lvMA?oc=5",
+          "publisher": "EnergyNow.com",
+          "publishedAt": "2026-11-23T12:59:36+00:00"
+        },
+        {
+          "title": "Three Middle East Conflict Scenarios Put Indonesia’s Energy Security at Risk - Jakarta Globe",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazZ2M3BIUVNwYjNiWlZJdWpiQVBMNTE1ZFMxSkpoZkJpdWNOeHk4X0VZdzFoWEpqWVphdjdtWFUtVEFRUjJSTUZYSHcxbFZHV0xOc3M5R2JsT3ZZWjY1Z2ZDNEowanZGeTBqZjJaejRqZDg0YUhEelNYUS1kSGVJUmg2Tm5Ta2RlWGVYdTlFbVlQczA4Nl9sUHpQSzNmc2NsMzZxaTFuc01nb08z?oc=5",
+          "publisher": "Jakarta Globe",
+          "publishedAt": "2026-11-23T04:56:00+00:00"
+        },
+        {
+          "title": "Iran war live: Oil prices fall despite attacks in Strait of Hormuz - Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+          "publisher": "Arabian Business",
+          "publishedAt": "2026-11-23T04:13:07+00:00"
+        },
+        {
+          "title": "Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two - EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW9oTV9lT0MtTjVpc1Z0TTBBam9sSDZ1eThMeVBkNkNjM0N1NUt6bjBocFJMRmwxWDVsTHBPUXh4WWkwWGpBN1BmV19PLTRaWXVSbU1pZVpWWThjUHFRalRkeVF6VHhCc01adzZFcjMxTDV6ODZsNGNmdmFhVElNUmdoa3IxSkRfNC1LYVJ0TE5XS05hd3pvRC1Nb1VWdXozU0d1M2F0ZEZHcnlvY0FkQUpB?oc=5",
+          "publisher": "EnergyNow.com",
+          "publishedAt": "2026-11-22T16:50:12+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4221,37 +4221,37 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Trump urging Congress to come back from recess to fund DHS as shutdown drags on, White House says - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2V3clB1Q1JGbEp1MUtaSkNveWRRSUhRTnc2ZTFCZXBUZGVlcUNRNWQ2VUFraWFLLXhWNU11RE1ZMkU0TG9NSnN1c0ktVEg4alpScEpvNWJ1NTVYSmJ2aFV5cFRWZllYQ19UWWtSdlRZZ0VlQmI1NEtNYk85WW5fYVNyVWtPLU9xRFBNVE9xN2JsclpaVDF6Umg4UG9uVmRQ0gGmAUFVX3lxTFByWmFBOG01ejRJWHg5VG9iWmJGYVRlRmxsMHBfVHFGLWRVQVByLTFMWGRoODg4OXNlLUJCb2dNQ3hkWnR3S3owMGw4NjhtaUdkR3NMbXVHT2tXTWpIYjZmNmU5eThsYjE2VmN3NTZENnZoUmhIaUtNSzdBcmZqZk1oNGdQYll5NFRoWXlQcWc4cjdtU3BaSUtQT1owaTVfSUlUR3FRMUE?oc=5",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "publishedAt": "2026-11-22T10:48:38+00:00"
+          "title": "United States: Planning for a Possible Federal Shutdown After December 11 - Fragomen",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOend4Ym45ZzM2T0tYZG5HR1dmVTd1ZnpHak84ZGhhQ1VnUlRPak8tUUE2am9iN3RkUDFGTHdXRmpBa1p5bjlSSTQwVHk1S01iNHdpWjRidUJXejFZUEhMb3lpejRlNWZOWHJMOGU0YmtHVzJDVjVncFJXRzAtbkFQYm83MG9sc2c1QV9YcDFzZTN1aDBRME9aQWlKVWduUVJKdUhXTkZmemNBNGNzbDgyMw?oc=5",
+          "publisher": "Fragomen",
+          "publishedAt": "2026-11-23T22:02:54+00:00"
         },
         {
-          "title": "Why funding for the war in Iran could trigger another US government shutdown - Atalayar",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGl0SXNNYmZFLVRpQ2lCWDAtc0RvRl81UTF0S2FWeURwcTFGdUJmd1ZIX2pvZ2xidkNHNkc3blZyRW1QazJ2dE9pQUJyaWZJYmZ5T0R1ckpkV200NDlXYXdaZUlNbWJMRENWa08tU2lFTS1QRjkxdU1xVERiekllSTdKRjVmZjh6WEtyZVBSZkJZcEN1bmlpY1JtWHJTUTQyZHBFcUxpTnVjSWRkWXI4R0swV0I0NUNaNU5UM2VTcnZWeXlRa0trRmZOWXplNVZnaVZSWGxB?oc=5",
-          "publisher": "Atalayar",
-          "publishedAt": "2026-11-22T08:30:00+00:00"
+          "title": "Senate Republicans Considers Cutting Off Trump’s Iran War Funding in Shutdown Deal — New Proposal Would Protect U.S. Troops While Blocking Offensive Operations - NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxONkprUi1uUmVGOXpTRzZtejFaQ0hGQUhsaUtkcWdaOGVCZlZERDFEMUVRRkFCVmwwNDFuak1JN2RsWm9KdnRyekNPNFlBazd3NDNUUXA1bThEUDFKY3NVUG5xODFjRE15TzBNeHNDV044MFdrSEhuZ3FwaHFlc05GNHoxRFJuVmRkS3pmVzdvYnplQ2ltaklvSGdMRTBSYUsxTjlhVjR6OHUxSVFaZW9hRjdoQkk5YUhlRHozNU5nT1pxNWJEZ2o2dktkbGdLQUJsSW01WG02YWE0VWZ3dXJDeDVDNlljSXlUQXZqbWp1N2FXMUJMblRFc284RkpsWC1TSjdsUXhPd2hkams0MFFJcUZXRlBjcmI2aEVaWkMtZVktZkwxRlB4d0Jpb0xQWHc2bmdQSGFEVGhOU185RWFCMQ?oc=5",
+          "publisher": "NewsBreak: Local News & Alerts",
+          "publishedAt": "2026-11-23T20:07:08+00:00"
         },
         {
-          "title": "What could be the reasons why the US government is at risk of shutting down before Christmas? - Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU5HWUpZM1hpSVc4eXktWnBoTy0tMndCczhFQUpILU1KSllKa1RySHdoZ3VuLTYyMFQySXpuaDVjMkRaY3BDTTgwalNJaS1jdFVnSkE3bDVYc2w4cDJOdTVGdGNYTTZrUGhfRjh6eHh6ZU9rbEVQVHFKLWwzUVYzQkZQOEVsOTNTejNpVy1vbDQ4TlhyTWFrc1JxeWtiQQ?oc=5",
-          "publisher": "Vietnam.vn",
-          "publishedAt": "2026-11-21T08:09:33+00:00"
+          "title": "Senate GOP leaders signal openness to cutting off Iran war funding as shutdown inches closer - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtRUDdfTnJma1dTMV9ZNVlTemswSC1JeHZqei1LUnBTVS1FdTlTaU53eTVLN1RUeXFTZHRJUkdsZlFidmF2RVhLaWtLalVGODBJTUllc2R3bFdPYTZ5c21wekt3OTViZEFhSElIUW9QQlp5VVhQbEd1dTVkYWtxVlN6ZVM0VVBCRWVKdzVJLXZYdWQ2OTQzRkliS0dscUlNVVhBWHU0T19Td1NsZ0prZEl6Q3BBQQ?oc=5",
+          "publisher": "The Washington Post",
+          "publishedAt": "2026-11-23T19:00:01+00:00"
         },
         {
-          "title": "Ron Johnson creates a stir on Social Security 'legal Ponzi scheme' - Milwaukee Journal Sentinel",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3FaVnNXWlZYeTdydEdlQTh5UFp2N0JXVzJWMzN3djJwLXZ1c3ItM0l2bG80ZGp6R2Z2MERicEFiVFlYNDd6VUI4SURXNjE3U3B2WFNTR09raEVnUmUxeng5UnhHWTNiZUhKajJOSjRwQmxoT2dvc1hyUVpuY3VBVFE0QVZyMV91UkhUMEtIMFdaQ09FY1lOT1RqRmVDMjVKdkNleDZXMjk5UTlraExDR3RZOXJnUkl6aUdmZnY3enctQU5FM3FRYmJqaExuUQ?oc=5",
-          "publisher": "Milwaukee Journal Sentinel",
-          "publishedAt": "2026-11-20T18:58:00+00:00"
+          "title": "Democrats Plan to End Iran War by December, Risking Government Shutdown - Ratopati",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlJwa29rRU5vNDByM2hOT1BmaW11MEhDRG5yRkJVZFJFU3JhaHZCbW1CUy1VWWVncjZ4WkpSYTVDR3JGRXVVeG1NWU9KOW9CZk9Pb0xMVXlnNkZsQTVhak45djJUay1LbVdfazg0UFhFM2Exd2dXcGlQdDhYMTBXVGpqZjZnSE1TRUZuNGUzcHBJalcyU3V6SWJKUUxPYUdTTUdPMlhR?oc=5",
+          "publisher": "Ratopati",
+          "publishedAt": "2026-11-23T01:51:05+00:00"
         },
         {
-          "title": "Congress struggles to avert US shutdown as Iran war divides lawmakers - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDZZTmpNTGpqLUMwR0JBZUJuaVBuMDAwYVpVanpkNTJDSGpNMEkxdXlSX1JkSDJpaG1SNUlmMnJZTHZ2Y192UmFKSjlGazN5UE9hZEJfcmFwdzVGWFE0QWk3OXBGWEpudkV5bTdiLVEwWjJicDFrTHJWVGVQT2RNMlBYZ3pMMmhQTHhKRnJ1QktWbGhVWWxRb0paRGZvdVNDdlRJNEd1N1lEbG9LOU1mTURPZE9CZlVvUk5j?oc=5",
-          "publisher": "Reuters",
-          "publishedAt": "2026-11-20T18:01:41+00:00"
+          "title": "U.S. Senate inches forward on govt. funding as shutdown deadline looms - The Center Square",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejc2RWxqSV9iclpsTnVjd0s5VWJYcTl0dXVRQmwxRzJTbUpEc2h1OXQ2dHE1UTlJWkVvSG1WVWp6d3pKWENiUHFzeEJrWHBWd1VNTGx4MjlFU3lseGhkdG9hdFJFUEtRZWpXdUlWdmdoMWc1MS1JdFpEVWZlbDhzRVF0Ui1ya1FKUm1pQUVjamQwYWV00gGaAUFVX3lxTE4tWHdUZV9pSjM5Y2ZIVDFic0VKcEItRGJET0lXNnhQS212MFlKVi10SnZzdUxCX3ZzN3YwX0I5M2tYQjlKRWk0cmhkMWNndjd5YklSaVZEaXpjQUpwU0hqX0UxWWFyZUNfcFduUTVobkI1WlJYN2tGLWRVZkFlTjBENXdrbjFBOFNhSm1aTUZ6SWVBS2FtN3NaLVE?oc=5",
+          "publisher": "The Center Square",
+          "publishedAt": "2026-11-22T17:30:00+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4278,37 +4278,37 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
-          "publisher": "FXEmpire",
-          "publishedAt": "2026-11-22T18:08:24+00:00"
+          "title": "Gold Price Today Surges Over 4% as Investors Buy the Dip Ahead of Key US Inflation Data - Aktualita.co",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vTFY2aHlDMk9fRDJra2lWWF9uOW5UOURvS0Z1bXRYMThnV2pneS1URGduMTRfTkxtLWM3NFFTY1ZPeURXMHhpdkF1TWNzWDZLTU41R3lpTlc0b2lPZmlRNFNUdVR4VkdiZFZzMWlJQ183ZkZTTGhBTmdMNA?oc=5",
+          "publisher": "Aktualita.co",
+          "publishedAt": "2026-11-23T15:25:11+00:00"
         },
         {
-          "title": "Will Gold Prices Continue to Fall? 2027 Gold Price Trend Analysis and Forecast - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDNCMkxUTElwOUpwaXg5Znd2aWRQQkN4ZHhhdDZ2TVJWVzdyM2YtcXkxaGgtSVd3b3V0dkR1MmgyWDhBYzJCQXUtQ1BaTTJOMkZPanhfZndDdW5IUzV5Z0RvUkR3NU5FdE8wNG53M042bjZabjlXcEVhTFVOR1Q5Ykhvc2dBM2h6VzUxc18wclpMY3dsZWpWY0RvemZUUHJwRWRPaUN1Q1g5dmF0QkR1dDljNWw?oc=5",
-          "publisher": "TradingKey",
-          "publishedAt": "2026-11-22T17:15:28+00:00"
+          "title": "Gold Prices Face Another Major Test as Fed Rate Hike Fears Trigger a 2022-Style Selloff - Speaks Media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUJEZXFFNmpDbElGNWtwaE52RWdkaWpiYXJSWWtsQld1TnU2SFh1VWEyZWlZYnVHRW1idF9jYkhWbk9pMjNSbGM4Y2J4Z05ScDluc0p5YjJ4c3FWTmYtN1ZsaDUxUE9CdHE4Tl9rN0czLWdyWWswZ3RmVTFmVFdXSUhvZW1rRG9YWTRZS0pmWHIxelhCTTF3Q3ZCQWNDQWdaYnE0WVVEcDFFNmd0SkpxTDZBb3lGVUhlVEE?oc=5",
+          "publisher": "Speaks Media",
+          "publishedAt": "2026-11-23T11:26:25+00:00"
         },
         {
-          "title": "Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkNuYlhtTjA5OHpmN3lJUzB3Q3EzQmlESnJnVnk4dDRrV0tqbWV5OTNpX3hYN1FIX3U4VDhEcl9IZmZzZlVSa19GVzczX2dsNFg5d3hRQUNza3RWekk2MlhudThiaFR1TmF2dTVmTFo4bENINV9HTDBEVDFOV014M1NNNURVRTRjLUI4M0ltTFpSa3FSWDJnZk90cFAzMlZVLW0wUjZ5VkpVVEg3TWtaYkJKODgySjhjaUhNOU9ZT3NtT3J0bm9tNW52d1ZqVXh2MldSZzRVVmV2V0wzSHVmbl9EV0FGeFNDcFA0NFByQy1CNnBOTFVUTFJpS1VNMXN4VXRVZkFzX1_SAY4CQVVfeXFMT3d6b2NLZl9CcGZlakg1ZGRTQmpCVnJWa1pfOXBEVmdnbmxoZkJGS25RNXNIMlkxckpYOVRhNjhhbVdzZEVNM3JmNTZIS1EzcUJUb29heDRxLTE0VW4yNDNrY0Rqb1IyOE9UX3BkcGcteDBvTnZkSXdaT1lDLUlJUWVsZUxlbzdYNnFCU2Y5UkpqMDZjY3hUSkVLZjZLUTA5VlBuLW9CNlQwQmpOMGo5X1hNV1Q3TDF2LTdmZUljUFZwbnNqNHl4bUpJNEpZUnVla0xYV3ZwSUtkaW5NZHBjNkVRWHZIaUtWeG45NFVtSDQtSmFNMWhLUEkzczR6cVh4ZGYzSUhkcmE2NnNaeDRn?oc=5",
-          "publisher": "The Times of India",
-          "publishedAt": "2026-11-22T16:50:00+00:00"
+          "title": "Market Minute: RSM’s U.S. rates outlook for 2027 - The Real Economy Blog",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkVhOTR2MWxDeHZFcnl5ZC1vTFluc1hXZE53UlB5OGpCRUtGazNpSnBqY2RnTmdyUl95ZjhYdlBVQVNTaXJ0MVRHZmlqMURPeXVmdkI0RVFZWE5BQzBqYW9hdmFFdmRZTmlQRE5ZWlBKUzdrVzRUTDZoZDRWX1hSZUxR?oc=5",
+          "publisher": "The Real Economy Blog",
+          "publishedAt": "2026-11-23T11:00:36+00:00"
         },
         {
-          "title": "Bullion May Extend Losses This Week As US Economic Data, Fed Cues Loom: Analysts - NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGphcnU2Y1BQbzhsZnYwVG41cU9wXzhVNllnUHQyQzRRd2FSbi1meXVnVGRIcktOVl9SM3djTzNscFQyZlNCekZoUUxIbmU4MTRhaGdqT05nc0t0dkJJUjBjVl93djA4YzlOREszb2E1ZGNXYUtIWXFfZDhwdmRCdjZuMFEtQXVmd2RGZW1rMk5Wa1FpV2xwWmYtRGVwekVoRmFRVlBLbjlEVkpvR1NmT2tTSDN2UzdsTEgtSmN1UdIBxwFBVV95cUxQaDBTcW80ZkVVQ0lVUDY2a3hVdXFySlliNGo5cm5HQ3lPYmJqWlE3V05xeE41TGU5LTljNmJ4SXczSFRueTBrU1F2SW1rdkpnMnlOcUQ1RjBhR0J0MFZNNTlybHBfOU9FNFNESDRLc21tNk5zUWVrLUpMcVdsVTNaeWdwTVRDNENLWEs0dTRLdk82S1V3bThadm16c1VuYS01QldXQ250dnJ3bzA4OGlnNW1COVB2YnZWN0ZVZWhDMEFWUDZaMGhF?oc=5",
-          "publisher": "NDTV Profit",
-          "publishedAt": "2026-11-22T16:29:47+00:00"
+          "title": "Gold Rebounds From 14-Month Low Ahead Of Key US Inflation Data - Forbes Middle East",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbi1ISklXdWRndlhyLUdJSzQ2WkVOUEtQN3hpN0RqbHJ2NG4zaGNwS3pPSllSMmhNT0JQSUpRZDZZOWlUbkFHM0NHNi1GMk1zR2xsTVg5Nk14Xzh2c3Y0am5UZkNZNzNkUUFhZ2U2V1YyVjNmZXQ1YV8yamZjanNHUzZfNHE4dGthYnh6OXhQQXhQcXpkZGNMRzFJTGhEcHpLR1NUVXBrX3VSVktFeE9LczBR?oc=5",
+          "publisher": "Forbes Middle East",
+          "publishedAt": "2026-11-23T09:30:27+00:00"
         },
         {
-          "title": "Gold price, silver rate predictions: Bullion investors may experience another tough Monday - The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObUw2NlN6b3FTYnZocHpHdm10WUktUVdTUHhPT3NwTVd5ZWlaY2Z2eDJsRWltNHRnaUxjdFVBWk5vQ3RPa19wOHI2SGFNdXFhR1lDWXp6UXJaMlRESF9uSEo2R19fWkhIM21vWWFGSHdNOWRVbHExWFBqaEJrZGRzUjRiZlU3VmFQMXFpM3l3Xy1Xc0N0MmFDQ0g1a0V5WmdqTVVsby1OT0NRR19vSmk4aGlIMDkydDBwcEd0RDZwVDg5WkJlcDVtUDV1ZDFfT2ZTQmxxcXhKbnBYSTA2cURNRVZ1SEt5Tjl1a0hFeW9R0gHzAUFVX3lxTE5QaXczZUlzWndkU2dsbWQ1b251NTNNNjhLdVE4MmdTT1EyN3M1anlCZXBoVkNHN2R6M180WU1iRmhQWWVLeFZoVTI5aE92QzRNZkoyeUFTdUVPajJoVHN0am1jdl8zeEJ0a2FObzJiaUpERmhPcUh1OHdVXzlIdWZNYWVSbE4wWHRxcUZsVlNvNjljUjRQcWhpSHYwVC1NTkpQQXhCYlhvYlFaaEI5b2RVMUlTNFBfNzF5VU5weDJheXF6QzZqZzFUc1h0OFVVVDNiRUF0a0RZc2pycXR4cUo2N2V2Y2g1eUJVenB0U04zRkxhTQ?oc=5",
-          "publisher": "The Economic Times",
-          "publishedAt": "2026-11-22T16:25:02+00:00"
+          "title": "Gold price crash with 31% correction: Why investors should wait for November 25, December 4 and 9 - What’s special? - Livemint",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObTVVQ09hYUtlTjdESktxVC0tUktiQ3NEUy1FUFMybTlmNzRaM1ZnaHpZS3VfMDEwRkVCTmE2aVlocktRVTVxNWlldEk1MS04Vl9sNkdualJRdlBMSHpkek9uMVB5ekM5Q0FDcndMRDdtYzBMcFdWTDlfR1BmV3FQWmZRR2cxTUQycXctWk9wYi1ISkNxcWhrZ2h0WXFnelJaOUUtX3plSk01UklZU0VqTFRvdHJWLXRCMXVxZzJYU0NvVmo5VWJRbVZidzRKeC01Y1A5VFNXM3ZvSzREZ1hPWWsyM0pFOWhtX3BzdGlGOUxNckNMRHdSM0IwQkFHNHVsMnE5TlZjaVXSAY4CQVVfeXFMT0FMVEo0YlQ2TGlhT3VDQjVvd3hyTjFjR25IM09YeUhjQnM4YmotTE9iTHFRODJpN3UyWWljTlkxMUNCQnRIeV9paWJXZzg0V25Zb3NvT0czei1zaUVFUzVJbkozQkRvZVFaSHZqN3otZ1hBOWlfWUYtVGhNTzVSUEtZVWN0OGltNGZ0ZzgzODFkd05Sd1BBdHZXalRha0xtVF9zYmdORnpxYkIyVkxzZjEzeEltNU1DdjJEa0hPQkNyN0RWR1N4Y25SWWJpVHhQU2lSUGxHQW9oNEloOVRHWDNhX3JDUWNnTUQxc3dWbnl5U2M1STRhZ2hKRlVmQXVuSWFDekZHYXMzRV82cFB3?oc=5",
+          "publisher": "Livemint",
+          "publishedAt": "2026-11-23T07:30:38+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4335,10 +4335,22 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Nigeria’s Domestic Borrowing Hits ₦20.39tn as FG Exceeds Annual Target - https://www.nigeriahousingmarket.com/",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcU5qTnJheGM2aXc3ZzN4cm9iT0xRcXN2cERjdkt3VzhpNjV2dVdrWTk5Z2Y3Z3lQZWRUdGJFRl9HVEl4c3diOGFacnN0Y2VwWDFwOUU1WUZhcHlkR2ZnTzRUSmlNZ25tQTY5OWhKaUo3ZE41Ull5ZUw1LWFIWVNNMjJScWVNeXpfU2VqT3RIRF9lQnF2S2wxRg?oc=5",
-          "publisher": "https://www.nigeriahousingmarket.com/",
-          "publishedAt": "2026-11-22T14:00:34+00:00"
+          "title": "An 11.1% REIT Yield Looks Tempting. The Dividend Risk Tells Another Story - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEZ4UWVGRGZtTGFxaUNDek8xTFFTOFg2Qk5kem1GRkRnaVdUMmludDgwSkFfYkhrMU9ITlVwQVNicll3bG5rMnpnM1N5MjFWbm1KckZtSTBROHpHdjlpczFMbVBnTlItLXIzaENKWXItdUk1VTdxMmZBZE5NbWZiLTdLTkJnYno1MkRUQndWY1JYNTJqUjlOWkVxb1VXSmdQekpzLTI2NDBPRTZBYkRhRE5Bc0RpUQ?oc=5",
+          "publisher": "24/7 Wall St.",
+          "publishedAt": "2026-11-23T13:48:00+00:00"
+        },
+        {
+          "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+          "publisher": "Forbes",
+          "publishedAt": "2026-11-23T12:32:00+00:00"
+        },
+        {
+          "title": "CIO Dr. Alyce Su Named 2026 CIO Industry Innovation Awards National Finalist – Family Office - 24-7PressRelease.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2NRdmxaUUhUR2VSa0ZlUTBybEJrLTJoQ1ZzTFlxMTVEZ1A1SFRnZFp1aWRDRXNORFcyUmhOVmx0MGJ1VTN1V29SMkE2QnE1Y0NLUmhIcUlXV3VpVnN1MnRzR2xYeXY4ZjFORzI2NEI4V2wtRFVQQkptcW56dGpqVDBWb2QyWUFUczNLVU96aDd6Y0pPRlVBRmpUbV9MUlBsajFmMjI0YURzLWtyVFdiNDJDWHVYZXJIZHZhMUpCQVU1WjJoZzBtWF9GVXdNYWpJUWpFY1RScVRGb3M?oc=5",
+          "publisher": "24-7PressRelease.com",
+          "publishedAt": "2026-11-23T07:07:52+00:00"
         },
         {
           "title": "Credit Market Turbulence Raises Liquidity and Refinancing Risks for Post Holdings Inc. - The Globe and Mail",
@@ -4351,21 +4363,9 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlI2akNNZmQxQkZtZmpnOFZzYVFyMWZLbFRNaFpxTHNxTTZoWGZRY1JucnppWHdtamJ5WWVGZl90ZkpIOEE4TTNiR3RGX1NuOEtGUWJ4cGNsRDczaWFYUkNUbm1hd180OTB1VkR5WGQ0VTUxcDByUHpEeEZBWlZMYW1ZQ0tTaTlYMUNUdm4xbVB3RTAwNUgxaEdaLXJTbHFoWFZQT2xDeUNYMjJRbjdVTXpkRmJqTmtZdVFQcUc5OXV1QQ?oc=5",
           "publisher": "India Narrative",
           "publishedAt": "2026-11-22T00:30:00+00:00"
-        },
-        {
-          "title": "Will a December Rate Hike Spur Corporate Debt Refinancing? - KuCoin",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3JnUF9DY1R5clpyWmRFZWxDaWpPY0JmcGpvdHF5TUdhMGF0ZGZXdFhsYWozWTNERnh2Nk91ek1sQVBHTmdwV2NNcjJTV1R3WEZselhGVTFMbE5UQ2k0TmU0bnVqcWc0YWc1RGJaMHVWazdZYTYtS3RXNV8wRG1FaWsxNzhZQlpZeXZZdU9XZ3Y2dw?oc=5",
-          "publisher": "KuCoin",
-          "publishedAt": "2026-11-20T08:23:00+00:00"
-        },
-        {
-          "title": "Dynex Capital Inc. R (DYT1.HA) Q2 FY2026 earnings call transcript - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUZzOWx2Nkl2NzJfQnBzSDd2R1VQb2wyVmlRRWg1UjBtMTFCX1NUaGJOQzAzMkl5c2M1QUh4R1NLMHBHX3FTemRlNjNTTW9kS0NOVkkzX2hERk1VQkRxcE01Zjd2ZGprQmN1TENHSlU0c2h2OFRtU0tucEJ6SGp4YjhYdzdVNHBHUi1KYlA0a2NOVk14Rmc?oc=5",
-          "publisher": "Yahoo Finance",
-          "publishedAt": "2026-11-19T20:37:30+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4392,37 +4392,37 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
-          "title": "Foreign Affairs Council: Press conference by High Representative Kaja Kallas - European External Action Service (EEAS)",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3I1NjRXbno5bUZuUjJWWFdCNzNkTUhqaWlMLUV0LXozVlp2UlQ1MVduT0FDQlFNYlBFWk5aMHlzVWZQZDNOVFVhbkNyRnk2WkdZWVF0OW8zcjBWX1ZZUGtfWV8yTGFpNHdCRGVRejF0cEhBSXQ4VlR2QmpNSVRqMURnMWVPODdlc2VYTlFTbFR6dmU5cGFITklrS0ZkNl9vS2NidkMzcFBnWmNndHc?oc=5",
-          "publisher": "European External Action Service (EEAS)",
-          "publishedAt": "2026-11-22T15:53:44+00:00"
+          "title": "EU targets Russian athletes and war veterans in new sanctions push - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekJCZWw3UUpERjNQOFNkZ1NzUERvWG93TGExOUhIcVZiNFkwNXFGbEhSMEZ5YzBEM0RMQlg5cDBXT3lLLVQzUVIwMzcyX2tvVjFnLVBwdlMwME40Tm1GeEctY2tVUDd6cUpLaXo5U2NlOXJuZGJzSjMxNUMxRHI5czdwR1c3djNMVVBOOTlVVnlBSWtJUkJ5VVBYN2R2ZUJ0WlN0bElNMWJmUlh3RXdKMi1R?oc=5",
+          "publisher": "Big News Network.com",
+          "publishedAt": "2026-11-23T22:29:00+00:00"
         },
         {
-          "title": "Trump Prioritizes Ukraine Peace, Postpones Iran Deal Amid Political Pressures - 조선일보",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGctYTFBTWk1d3FOUGpJbUlOMHpreThQWThJRmZ5Sm1qMEF0cTFVcWxyeHFXQ0ZMT2tuQnQ0SURBZ1BIa3dWeDlNWjYxcHlDS3c0c01FRXY5dXR4bWtWX3hQMHNiQTQwUW55TV85ZFVLU21KNGdMX00xeGdSaWhaVWtVN0g?oc=5",
-          "publisher": "조선일보",
-          "publishedAt": "2026-11-22T15:51:13+00:00"
+          "title": "EU Proposes Russia Sanctions on Banks Crypto and Sports - Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYak5vajlZcW9CaUlUUDVoeTRVaXpzeDI1azNub3VTaVVzcUxURmVGV0VmQXZtTVRxMlA0bW9EQzQ4eWV0YXdxeWxWdHZ2VUVoY1R4T3VDS0x6SnpQTVIxdDhmR0Zxb0VLY1BJS2xaWEVRLWEzclE?oc=5",
+          "publisher": "Demokratis.co.id",
+          "publishedAt": "2026-11-23T20:23:00+00:00"
         },
         {
-          "title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "publishedAt": "2026-11-22T04:27:28+00:00"
+          "title": "EU Targets Russian Banks Soldiers and Athletes in Sanctions - Peradaban.id",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NeWJPWG0zQUZ2WEdhU2hLSWJfeVZQWkMzZFNMTkpkSm9QYTBLSFk2WHdzeFhVSFVnRXpUU3NpOXpLOU52ekl6MmIwbHRnTW9nNEtoMk9pTGhjcUJtRUpvdw?oc=5",
+          "publisher": "Peradaban.id",
+          "publishedAt": "2026-11-23T20:13:00+00:00"
         },
         {
-          "title": "Britain’s New Russia Sanctions: Imperfect, but a Signal Ukraine Won’t Be Traded Away - Kyiv Post",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96WWFYWm9nbkNabDlRdWw4R3hqcy0zMHpMUGZsV3hiT1NFRFBXUlJ6cUJGdXo0WlNrS1NLRkZGc0lwWUFYOVNnNHNZYw?oc=5",
-          "publisher": "Kyiv Post",
-          "publishedAt": "2026-11-21T15:05:19+00:00"
+          "title": "EU Targets Russian Banks Soldiers and Athletes With Sanctions - Limapagi",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VTHpLZmpPTk1PR3FWT3RQclpkZ1VEdjd5VXg5WVNtenc1MWtqZjRzcXlRSFI5OGZyVndXQmxuMGV1amZ1S05qWXI3dzJ4SXJzWnhGOWY5Qm9YYmlVTjFjUEdlWnZOT3VBVTk3Wlk5RQ?oc=5",
+          "publisher": "Limapagi",
+          "publishedAt": "2026-11-23T20:08:00+00:00"
         },
         {
-          "title": "US, EU, and Ukraine Discuss Lifting Sanctions and Drafting Peace Agreement at G-20 Summit - 112.ua",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnRVNGlRd2djd1B5S1dPU1RPdzhkNU5kSDEyVDF0RVpTRm1zbXZONS1nNVJJSkstbTl6Vk56WUVGNi0zOEFxa0h5RENvOFYzY2lKTDdud0NRVEd5dWhuSkZ4eUctT3phSkhvbDB1NTU3QlhqM3c5SkhINTVFelhtU0kzSjhVdXZSWC04ZHZJQlRCWUljSkx5djNyWEhxWXVnVzhOMg?oc=5",
-          "publisher": "112.ua",
-          "publishedAt": "2026-11-21T10:30:46+00:00"
+          "title": "EU Targets Russian Banks Soldiers and Athletes in New Sanctions - SuaraGarut.ID",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSejIyX1V6eDRIallwelJBdEdEMm1UY1czZnBOdFJSU1UycUR4ZmNPNWFnc1RJa3ZUSkpEWjhwd3dsRmJGU1huU0NOa2tjVGpjZW56RG5qYW0zX2djclMzeTlB?oc=5",
+          "publisher": "SuaraGarut.ID",
+          "publishedAt": "2026-11-23T19:24:00+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -4449,6 +4449,12 @@
       "reviewedAt": "2026-11-20",
       "news": [
         {
+          "title": "India, Vietnam to lead Asia-Pacific growth in 2027; China slowdown to weigh on regional outlook: S&P Global - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdUZUdFZWMDZnMkFRQjZvNk5WUnQzajAxMjYyWENTVmxyZGNiYk4wZ2NfbFJocUwyQW1CT1pZaXJwNzRpZU5JQ2JLdTlYQjVKNHNVLVhXSEQ2NXJ5MGlfa0x2eUJaS1g5ZmhVMjM1dllnTEtRMVBvdTI5bDk1ZTVERTBiMnNIX2tPcjZ3SXRhOE1LVHp2VU0zRGpGLWlxbFQyb3h4bm9VS1JqRkRteWZzWFByVS16RTB0cGhnOV9nSDNuQ0dVeW9naFJ0emtNZnZRQ1RJclNlRGpZQVdoS2J6SUh6NA?oc=5",
+          "publisher": "Big News Network.com",
+          "publishedAt": "2026-11-23T09:40:00+00:00"
+        },
+        {
           "title": "China Stimulus Debate Intensifies as Weak Domestic Demand Challenges Growth - kalkine.ca",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWZjX0I1MnNDWGJfc3ZWcnByNEV3YTdCX2dNRkU4dWNsWTZxUHhXbXYyYTlwZHl3YXBDbGtwS1V5dzFTSGVYM0RkTUlzTkItU2FaanhSOU8xTXVXTUYwU2pTVHNQM1JVaWtVMnRVS1lhYk5WWk94di02REo4YVd5NVl1R01kN3p5dXFHZnJXOWlPRlNoMFB5TXJta3haVnd4QXlDemRpQ2dXRzNHbjJqQVNLbw?oc=5",
           "publisher": "kalkine.ca",
@@ -4459,27 +4465,9 @@
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNFk2Tlp4WFJIbERuQ2RjbFBXUHEzNzR4cTZlMW4xSVdMRjlSVHdEUkxfT2kzaF9YRUtKN241bXRyMGtDV3Q5MHNSUGs4LUpwaVpUVWlLUQ?oc=5",
           "publisher": "https://economy.ac/",
           "publishedAt": "2026-11-17T06:43:45+00:00"
-        },
-        {
-          "title": "China’s Economy Disappoints With New Stimulus Yet to Kick In - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5",
-          "publisher": "Bloomberg.com",
-          "publishedAt": "2026-11-16T07:31:00+00:00"
-        },
-        {
-          "title": "China's production and consumption slow down in October; investment contraction also deepens - 재경일보",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SaEFkUGNRRk9MVlI1Y1ZsTnVGOVBIZjVSTDlUMmw5U3Vic012a256ejBxeWVMLWZISHRyVXo4ME5LWkJXSzB6SE9mb19IWWQ3MlJjZ3A0YWpZRHEzZXEzRUp3?oc=5",
-          "publisher": "재경일보",
-          "publishedAt": "2026-11-16T07:05:07+00:00"
-        },
-        {
-          "title": "China’s October data miss forecasts as stimulus fails to lift demand - Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmtyNE9iVzhFelNhM0M2WkppQThsTGI2RXdHcTYzUTgtMzAwcXdQbTRDd3FwdGtlTjhZZFFSb0Nxdmd6ZVA0QTlfLTR1M29SMkd5UmNyemF1enFRNmNwT1p4eXN0WXZZaTRkUjNseF9uNDJadk53X2RwQjQ3dXBDZVZ1Q2RrN2xo0gGcAUFVX3lxTE9aSk5kanhCSjhtOENrZk1BME1mN29LWm9mMFRTenk3OGhuaTl3MDdYVzJORGRvNERyMk5EcGkyTDZPZHVMc2Rlb20xMm04YVFpRUJmQVM4N09ZQzNPWFQ5MThzMERNSWF3THRHWGRuLWV4VmVlaEItc0l6anJlU01lTW02N29KTmxQck1fTURtN3pRVDF4TUMzanQ3aA?oc=5",
-          "publisher": "Chosunbiz",
-          "publishedAt": "2026-11-16T04:42:00+00:00"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     }
   ],
@@ -4492,8 +4480,8 @@
       "parser": "fed",
       "description": "Official FOMC meeting calendar.",
       "descriptionZh": "美联储官方议息会议日历。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 23
     },
@@ -4506,8 +4494,8 @@
       "kind": "cpi",
       "description": "Official consumer inflation release schedule.",
       "descriptionZh": "官方CPI发布日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 14
     },
@@ -4520,8 +4508,8 @@
       "kind": "jobs",
       "description": "Official employment report release schedule.",
       "descriptionZh": "官方就业报告发布日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 14
     },
@@ -4533,8 +4521,8 @@
       "parser": "bea",
       "description": "Current-year GDP and PCE release dates.",
       "descriptionZh": "本年度GDP及PCE公布日程。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 4
     },
@@ -4546,8 +4534,8 @@
       "parser": "bea",
       "description": "Next-year GDP and PCE release dates.",
       "descriptionZh": "下一年度GDP及PCE公布日程。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 24
     },
@@ -4559,8 +4547,8 @@
       "parser": "ecb",
       "description": "Policy meeting decision dates, in local European time.",
       "descriptionZh": "欧洲央行决议日期，按当地日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 17
     },
@@ -4572,8 +4560,8 @@
       "parser": "boj",
       "description": "Policy meeting dates, in Japan local time.",
       "descriptionZh": "日本央行会议日程，按日本当地日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 14
     },
@@ -4586,8 +4574,8 @@
       "datePattern": "29\\s+November\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4599,8 +4587,8 @@
       "datePattern": "November\\s+30.{0,30}December\\s+3.{0,8}2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4612,8 +4600,8 @@
       "datePattern": "December\\s+9,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4625,7 +4613,7 @@
       "datePattern": "December\\s+11,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
       "lastVerifiedAt": "2026-11-20",
       "status": "failed",
       "error": "PDF source requires editorial date verification"
@@ -4639,7 +4627,7 @@
       "datePattern": "December\\s+14,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
       "lastVerifiedAt": "2026-11-20",
       "status": "failed",
       "error": "Expected date text not found; editorial review required"
@@ -4653,8 +4641,8 @@
       "datePattern": "December\\s+14.{1,5}15,?\\s+2026",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4666,8 +4654,8 @@
       "datePattern": "3d\\s+day\\s+of\\s+January",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4679,8 +4667,8 @@
       "datePattern": "CES\\s+2027.{0,25}Jan\\.?\\s+6.{1,5}9",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4692,8 +4680,8 @@
       "datePattern": "January\\s+10,?\\s+2027",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4705,8 +4693,8 @@
       "datePattern": "January\\s+11.{1,5}14,?\\s+2027",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4718,8 +4706,8 @@
       "datePattern": "March\\s+15.{1,5}18",
       "description": "Primary source for a curated event; an unavailable or changed date is flagged for review.",
       "descriptionZh": "已整理事件的原始来源；日期无法核实或发生变化时标注待复核。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4731,8 +4719,8 @@
       "datePattern": "November\\s+24,?\\s+2026",
       "description": "Company announcement confirming the scheduled event; the outcome remains unknown.",
       "descriptionZh": "公司公告确认的会议日期，会议结果仍未确定。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4744,8 +4732,8 @@
       "datePattern": "December\\s+2,?\\s+2026",
       "description": "Company announcement confirming the scheduled event; the outcome remains unknown.",
       "descriptionZh": "公司公告确认的会议日期，会议结果仍未确定。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok"
     },
     {
@@ -4757,10 +4745,10 @@
       "bondKind": "nominal",
       "description": "Daily par yields. Observation dates are separate from retrieval dates.",
       "descriptionZh": "国债日度收益率；观测日期与抓取日期分别显示。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
-      "recordCount": 223
+      "recordCount": 224
     },
     {
       "id": "bond-real-2026",
@@ -4771,10 +4759,10 @@
       "bondKind": "real",
       "description": "Daily par yields. Observation dates are separate from retrieval dates.",
       "descriptionZh": "国债日度收益率；观测日期与抓取日期分别显示。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
-      "recordCount": 223
+      "recordCount": 224
     },
     {
       "id": "bond-credit",
@@ -4785,8 +4773,8 @@
       "bondKind": "credit",
       "description": "Monthly staff research series, subject to revision; not a daily credit quote.",
       "descriptionZh": "月度研究序列，可能修订，不是每日信用利差报价。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 646
     },
@@ -4802,8 +4790,8 @@
       "allowedHost": "broadcom.com",
       "description": "Discovers explicitly dated future earnings announcements.",
       "descriptionZh": "发现公司明确公布日期的未来财报公告。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 1
     },
@@ -4816,8 +4804,8 @@
       "url": "https://news.google.com/rss/search?q=Boeing+%28stock+OR+earnings+OR+production+OR+FAA+OR+orders%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 25
     },
@@ -4830,10 +4818,10 @@
       "url": "https://news.google.com/rss/search?q=Autodesk+%28stock+OR+earnings+OR+guidance+OR+Forma+OR+Fusion%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
-      "recordCount": 18
+      "recordCount": 25
     },
     {
       "id": "stock-news-AA",
@@ -4844,10 +4832,10 @@
       "url": "https://news.google.com/rss/search?q=Alcoa+%28stock+OR+earnings+OR+aluminum+OR+alumina+OR+acquisition%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
-      "recordCount": 7
+      "recordCount": 6
     },
     {
       "id": "stock-news-UNH",
@@ -4858,10 +4846,10 @@
       "url": "https://news.google.com/rss/search?q=%28UnitedHealth+OR+UnitedHealthcare+OR+Optum%29+%28stock+OR+earnings+OR+Medicare+OR+medical+costs+OR+DOJ%29+when%3A3d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Company-name search, a strict 72-hour publication window and title/link deduplication. Coverage is not exhaustive.",
       "descriptionZh": "按公司名称检索，严格过滤72小时发布时间并按标题及链接去重；不保证完整覆盖。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
-      "recordCount": 10
+      "recordCount": 14
     },
     {
       "id": "news-trade",
@@ -4872,8 +4860,8 @@
       "url": "https://news.google.com/rss/search?q=US+China+tariffs+export+controls+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4886,8 +4874,8 @@
       "url": "https://news.google.com/rss/search?q=AI+capital+expenditure+earnings+data+centers+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4900,8 +4888,8 @@
       "url": "https://news.google.com/rss/search?q=Middle+East+oil+supply+shipping+ceasefire+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4914,8 +4902,8 @@
       "url": "https://news.google.com/rss/search?q=US+Congress+government+funding+shutdown+budget+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4928,8 +4916,8 @@
       "url": "https://news.google.com/rss/search?q=Federal+Reserve+inflation+interest+rate+outlook+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4942,8 +4930,8 @@
       "url": "https://news.google.com/rss/search?q=Treasury+yields+private+credit+refinancing+risk+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4956,8 +4944,8 @@
       "url": "https://news.google.com/rss/search?q=Ukraine+Russia+peace+negotiations+sanctions+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
       "recordCount": 5
     },
@@ -4970,10 +4958,10 @@
       "url": "https://news.google.com/rss/search?q=China+fiscal+stimulus+consumption+property+policy+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
       "description": "Google News RSS discovery; publisher links are context, never proof of a scheduled event.",
       "descriptionZh": "Google新闻RSS发现渠道；标题只作为背景，不用于确认未来事件日期。",
-      "lastCheckedAt": "2026-11-22T19:33:34Z",
-      "lastVerifiedAt": "2026-11-22T19:33:34Z",
+      "lastCheckedAt": "2026-11-23T23:50:44Z",
+      "lastVerifiedAt": "2026-11-23T23:50:44Z",
       "status": "ok",
-      "recordCount": 5
+      "recordCount": 3
     }
   ],
   "changes": [
@@ -5133,158 +5121,158 @@
       },
       "news": [
         {
-          "title": "Boeing’s 737 MAX Troubles Deepen as 2,500 Jobs Face Cuts and More Layoffs Loom",
-          "publisher": "Aviation A2Z",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcjBpR1NuOFZldDFJZmdxMHdrYmVKbzh2a24xb3F3V1RmTG1zMlFscDFnX09oMzBYejhvYmE2V0VRUDBlRmo0SmtUX2NBaW15WjRJS2Zhb1N3Ylh0RTExOTN1NmdCNVdhMk1hZm8ySHBEVzQ4U3lka1RRSmNFenZHYkxraHBtaWtNeFhsc3VaNDA2SmJ4dHlVMGJTdFZ3MFlwMjktUnBvNDdXbUZ1N2dWTE1FNEp5UGg5V2hOSTFEbw?oc=5",
-          "publishedAt": "2026-11-22T15:30:00Z"
+          "title": "Boeing (NYSE:BA) Stock Price Up 4.2% - Should You Buy?",
+          "publisher": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0R2Z1FpbW1NVndkMzFPa1hGZHp5UzFGeUpFYUxZd1RIXy10X2EtY01FaThCYXJMcC1ickRKOGVER0JpRDctcGpwY083QkVWNDd3eEhudkh2ZUNuWUEzcXNMS3c2UG1KLThkUHd3R1Q0UjNSVGlnMjRkd0llamltbDZXNk0zWnE2V1ZOLW5rNlhpY1pIT3ZHd0VYLU03WHdxanctQ3RuZWZBZk0?oc=5",
+          "publishedAt": "2026-11-23T22:24:58Z"
         },
         {
-          "title": "Boeing 787-9 vs 787-10: Differences in Size, Range & Seating",
+          "title": "Can Strong Aircraft Orders Support Boeing's Commercial Growth?",
+          "publisher": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGJwZTR5dDNSeHcxbTg1MnhsX2pKVHB4eDN1dlhrOWM4VUR3U1dxb1BtUWFub04tUVpWUkJhTTBsNjVyOHhlQk1ZODhlVmN5OG1ybWpnRTBxZFZMbkxWWmNQNXBick5FTzc5dktIQVJwSG1LZXhXTDgxMnFJX3o2TmR5RXRrdWV4bTF3Sl9NZW03MVNTbTZwODJEZkxjQzFCMHVB?oc=5",
+          "publishedAt": "2026-11-23T19:44:23Z"
+        },
+        {
+          "title": "Boeing’s 737 MAX North Line Approved",
           "publisher": "Dj's Aviation",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yc2dOT0Q4RkJJZVhaWllxQ0FlM2kwS2NVeHlETzFLQUE1Z3dHM0QxSDhNSmdZOHpxREcwU3daMmxKYzVlWnlyaEVLZ05KTHRVRmhrRElHQ2d6aHc?oc=5",
-          "publishedAt": "2026-11-22T07:57:44Z"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lc3NQZW1OLXZUR0dYUHVwc01nRW5Na1NZaURyQmxZTHNnUXFUckJabGdJV2lMbmVUUkg3SVZuSFN5elpoSC1pazd1VE0zNld5NzZXdm1VLWRvZkxjV1UwWUg1QUNnXzYwMzhJSQ?oc=5",
+          "publishedAt": "2026-11-23T18:58:37Z"
         },
         {
-          "title": "Boeing does not rule out further layoffs after the December job cuts, amid production problems for 737 MAX aircraft",
-          "publisher": "Informat.ro",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHNOVTREQmtScDJfUC1JSHpxblFTcHF5THFFUC01bmR2UENldFNRdXFuUGFiUlBwa2RqVFZzd0g3RUJuaW5XVHdhTldnQlNqeGJ1cEdnWS1aend4aFVlSUNoUzJaeE13bmprU3FTdzVfQkpzcFlxX0k1dzVNMG9Rb3JkNGdSZWdYaGpvUmZUc2NyTU1qQ3FpX05lb3NIQkViNTgwbg?oc=5",
-          "publishedAt": "2026-11-22T07:44:00Z"
+          "title": "Trump predicts China will purchase additional 250 Boeing planes",
+          "publisher": "The San Joaquin Valley Sun",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMW9XaGpFbXF2SzhLU3JQZmVfYzJ6Q19hNE94dElsOVdXZ1hPbFYzUzJLQjMyRDZvakVhSDVkNmdrTmVQcUk5UFFyeG9hdm1xQ2R1eWNnYWRWR3JtOVFiMUtHT0Z4NUdQTDFucFB5a3B2QWhYdFdaTmVxUkVLQlJsbFdXVDhLYWZFV0ZQTlJkV2E?oc=5",
+          "publishedAt": "2026-11-23T18:49:13Z"
         },
         {
-          "title": "Federal Watchdog Launches New Audit of FAA's Boeing Oversight After Alaska Blowout",
-          "publisher": "Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM09URVJtQlpPVWN2ZHFSVVNaX21pZ2VhbGM4WG5ldXlXNE8zc19iME5XMzdfYW5zRWpvOUdBc3lzRWtUNFFPbFlYNUN4REhOc0NEbTJRS1hxa0pGamM5MDROTGY1TldlZFJteWpWMG04Umdia2RINVdRbDJaVk1IMThqXzRiNVF1QnBYR0dGTjlnc3NaWHlfaFUwOTc4Ync3M3RkTlZ2SVhsUWFFT00yX29n?oc=5",
-          "publishedAt": "2026-11-21T22:42:55Z"
-        },
-        {
-          "title": "FAA Mandates Recurring Safety Tests for Part of the Boeing 737 NG Fleet",
-          "publisher": "KarloBag.eu",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVDaldIeURXcWVVQ2F2SF9sYWhIVDBsMmpkOUpKOUlzRjZCY0kxRGZ5czFoREpxUlg2UlNYVG0zMEdrejh2aU1JaWlJNlUwazI1SDFJM3BmeVVFU2V1RHJKazVJOExXS3c1azRLOWNFSmlfNG5xU1dud2xRSm5XRHZnVFVwOFd2WGE2WGVKaUdRSzQ1MDQ1VFZ1RDJyMDc2dnduQVVmVnBvZUdjdUhtNXZYZDV4RlBk?oc=5",
-          "publishedAt": "2026-11-21T21:40:24Z"
-        },
-        {
-          "title": "The Airlines Set To Replace Their Boeing 777s With New 777-9s Throughout The 2030s",
-          "publisher": "Simple Flying",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakZneV9BMi01S2xmemkwbHVqb0g0bzJUbDlUV01WMXYzZmQzYm56QTBNTW1famJZYmlmdjM0ejBXa1RkNWYxRHVVbmtCd3JBbFN4MmNNUnliZklxWllxTlBEYWo4blhsc3VaM3FSV09pMkpLVVNKbHBkMHB1UExGdC1VM3k2STBm?oc=5",
-          "publishedAt": "2026-11-21T20:00:17Z"
-        },
-        {
-          "title": "Boeing’s 2,500 job cuts come with a troubling unanswered question",
-          "publisher": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW12V1h4QVQ3dFBPWlpUZjJBdk10RmpRVExMUlExN1U2aUl3aHRJdDRuUk9CNmdqYWFwZEtyOEt6MTZnX3k3dm9jNDJPcVphY05aSkpnWnpqYzg2UjdSU215UVN2N3hmTE1yWFp4TGw1aHNGRlYwTU5OWVRtcVFqQzNnMTBtUE1UR1g1bzF0a29EbzdhVERiQVpjcExfdjNnaWc?oc=5",
-          "publishedAt": "2026-11-21T17:37:00Z"
-        },
-        {
-          "title": "The 30 Finished Boeing 777-9s Parked In Washington That No Airline Wants To Fly",
-          "publisher": "Simple Flying",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHhMMlBTT0RKZE54YmExd29RZWlvSUw5bmhGSjh1SU1uLW1CTGhEZDlMdUdtQnlGNC12bTl4aTUyaC1HQlZ1bkI3TFZlYU9XU0o4eWdtZGJZd2FuWTRXLXNsek8tRWdfa3FpenJkNUxPQjRhM1c1dTQtVGdPd1hPbDRrLU9NUHBSUlNfcUYyaWJ1RkhqeTFUQTBR?oc=5",
-          "publishedAt": "2026-11-21T10:16:18Z"
-        },
-        {
-          "title": "Boeing (BA) Stock Looks Reasonable As Shares Fell 32% This Year",
-          "publisher": "Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVlvaHE2dWp3dTFBM0hrbFJsYVN3Z0FGdWxIdERxYm96X0F4a0pnbElNYktVWTdSSnN0LWdzZlhhX3Y1Mmt5WGtMV2RnQXVvZWg3Nmw1VDVuWTZlSS13WHRBSFplb2U2WlVNZWY0X2FIM1A1aV93UVp6QkV5UlctTC1oc3Bkd0s5UUE3V0drNjBqX3d2bWsyYkRsUDJsazJ2LWNMRndRLUozVDdSRWF2N3hieEdnTXpIYXREZ3Etb1lLSlFu0gHKAUFVX3lxTE9PWnBudmtERVlzMWFzRVVNOTFqRTAyS1AxYnVNS1paOTdaeFlTbEYxVFRmcTdUcC0tSW1fbjN6VGlyZHpGdlZtbkJPVV9NQTZ3ZE5YbzVIX1I4ZEdsMzF5RFB0NUVja1o0d2h3UVEtNnFtNDdLWTdvTVdDNGVzcHZXS3FkU25RUTNxNDBlVVZQdkhHa3FFelVMTzFlcE1GTjEzalNVWXZ3ODJXUjEtQVF5RHdqRmp6RGo2azRrWXA2N1RfT2ZCVzVNLWc?oc=5",
-          "publishedAt": "2026-11-21T10:10:23Z"
-        },
-        {
-          "title": "Lufthansa Ordered The Airbus A350-1000 In 2023 & Got It Before The Boeing 777-9 It Ordered In 2013",
-          "publisher": "Simple Flying",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa005UG5vWkZJSG8zRFNhakZCSS16MDZURU9vY2ZUb1UwS0oxbWd4cjBBZXZ4aWdFaFlIMm5GUi1MR1pZTVFzMU1qRHVPajhJSFgwLVNWMndWaTFwSFpOdW5OUTIwcXFoeGxCeXlQMzBxd3hGVmtrMnoweko5NEIxdjhvdFVtSXNyZkEzVkl5YktwNlA2T211RjNvSHl6aFU?oc=5",
-          "publishedAt": "2026-11-21T09:00:17Z"
-        },
-        {
-          "title": "The Manufacturing Decision Boeing Was Forced To Make When It Developed The 737 MAX",
-          "publisher": "Simple Flying",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckk1YWd0anE0VXdkQXBqR19KR1laLUhPNWFJRlJCcDRzUGtfcFlSRHJNZk1SMUxTeVNBU2VUemlndVFRSXkwa2dKOXJWaVFJVUVLMFpRUUlRclFUNjRYVkswVzA4ZEpZOTV3VVVYa2VlV2l1ZDB1VUROeGRPQWtVdklMSU1oT3FmSFNoT2V3MzFRMDBwVUtSTkpISQ?oc=5",
-          "publishedAt": "2026-11-21T06:00:17Z"
-        },
-        {
-          "title": "US Transportation Department watchdog to audit FAA oversight of Boeing",
-          "publisher": "Mezha.net",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTh5MkxWZThTUVkwSWo1NERtekRPZl9XWU1Vd0hiN3VOejhieFQ2Zl9FZmVvR1RZU245azhoMlI2SXh0aUVxNl9zdGpLYjJRYzZ6QUJNaUg4VmNaSDdJcTIwVkd1NGdnMEZ5TlRFUEZGNlJkRjdPV19LMGY5bFBkcnFwM29nVUpwOU1mTmNlNHE?oc=5",
-          "publishedAt": "2026-11-20T23:34:05Z"
-        },
-        {
-          "title": "Transportation Department watchdog to audit FAA oversight of Boeing and other plane makers",
-          "publisher": "MLQ.ai",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUNaWmR6cXVpajlNZkt1TG5vX3hEQk5IV2czMXRWMnM3Yjg1QmNxd3pCN21jckJfMkdDWDFzRjRRcUlSLWkyY01vQ3lGbklINndiUGtORzliQTk0ZnhpWkxNU3dwRGZ4bGpPblE3OGVMZjhCUU96QWhuT1kyMjlmYVVuR1hGakVMWG9yMER3SVJjSzIyd3lTVHpUVkJ4aXNMaDdmS0JkUEt0OG1Rb0c0Uw?oc=5",
-          "publishedAt": "2026-11-20T23:16:42Z"
-        },
-        {
-          "title": "Boeing Stock Price Forecast. Should You Buy BA?",
-          "publisher": "StockInvest.us",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ldkd4X1dDUGhtQ1FQN1VLM3VWSlUyaFpiQzJQaWRhTjhqMS1mVlRBN0RlTV9yajdlUXNNbE1JUEVwZWs4N3c?oc=5",
-          "publishedAt": "2026-11-20T22:45:54Z"
-        },
-        {
-          "title": "U.S. Transportation watchdog to audit FAA oversight of Boeing suppliers and manufacturing",
-          "publisher": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWZEdUJZWmJESjE3SXM5YlRyVkljUWNleXNJSGI4Y0Y1QlBicDNIQXZvWjdheVJTallPQUlqUDl2OXkyZGpVZUhwTU5ZMTZPcVNrVmNxbUNuTm5sYjhXRkxJSTI2UmlhdFBZWjFCMm9GRHpjRjhXQU9BS1BJRzZxR0VYOFJkLXVPTzM5ZUlxWThMWHQ2RVE?oc=5",
-          "publishedAt": "2026-11-20T22:41:33Z"
-        },
-        {
-          "title": "US Transportation Dept watchdog to audit FAA oversight of Boeing",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUl6Q2Z0SjRfajM3dVJoOHgtUVcxTG5CbDRnYkxZS3kxVm5SNFF3MmlMUnE4WnRFczVhT2Y5QzExLXFVWDRPRFFQT082Q0RHSGwxRHhGZE9aX0hCaWtNSEw1RFN1cFVTdTVKdjV6ZmFjaVQ4QW95VjdFcFdNd1duR1Q4VWo3Sld2RHlaM0tyRS1UVTU4UFdKTU5iVDdLQXVsekJTd1JnTHZjeU5iZC0tUzE5S0M5Q2ZWNzVYdE53?oc=5",
-          "publishedAt": "2026-11-20T22:26:34Z"
-        },
-        {
-          "title": "Boeing engineers face layoffs weeks after securing new labor deal",
+          "title": "Trump expects China to buy 250 more Boeing jets, but earlier deal remains unfinished",
           "publisher": "Air Data News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTjFaa19iVlVwb1NXMUJrdGh3SE9fR1JMajI0aTI1cUZ6a1J5YlM4OU5iVkZweE9ZUk9HTVRsRk9mX19FX0RGMnZmOEp4VkxCeEFYUjN5Ym13SUxsRHY4dzhlTGwtZzRvWkI4SnB4WUxNLXZYY25YYlhuV2dMeEIxNEU1YzZjTmFCU2RJaVJ1Z3ZBdGhPWVlWeVB3?oc=5",
-          "publishedAt": "2026-11-20T21:39:52Z"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzZqbzFQNm5vdko2RElPY1ZxWnpqd3UwakVUS09GTENLaTRlRnluQXZESjZBYmFqZ0NTLUN3TWZnRHcyam51WjVSNDFOdVVYNHktSUQ2SnJTNEoxZkpaQWg2LUM3NkRlQ0MtRXNJVF9tRW1UQTBZMGxJXzZwd1Vtc2J6NERabU9SVGNFbWdoVzBPVDlkZ21pWFRTTjJxVDc3QnBUeGhUVGdKamdDeEoxekZ3?oc=5",
+          "publishedAt": "2026-11-23T18:42:52Z"
         },
         {
-          "title": "Boeing Stock (NYSE:BA) Slips, The Stingray is Heading to Carriers",
-          "publisher": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ21kVHFibmNkZTNLeHNKMjVsdUFldy1CdHJTNzc3dnJaVWNHOE40MGZrUzlMVkhZcGgxcU12VXozQktUTVVwNEpGaThic214elp0TmNYQXpjcTJPeEJvcTNmYU5vSk1vZTJDWl9FVWhsUXJFcVhnYVJyU0ZwMkJTVXA4NzkxYk84a1l1VDFKUTVGMmlDOEE?oc=5",
-          "publishedAt": "2026-11-20T18:37:24Z"
-        },
-        {
-          "title": "Boeing leaves open possibility of more layoffs amid stalled production plans",
-          "publisher": "NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlBkVzNMVVJ0QmU2aEdzSklGNkNUeG13SVJTYWg4Y2pLSXJGY1NLU3o2SkQyam1XNEgzNHh1YklyQkFuNUk3cjR4Tldqb2lobEFvRTVpUW5SeUpjS2Y2Qjdkc1ZlNUlVMkprVmF3VUx2el80eE83Zjh3amVlRmR6LUVnd1FHRk5aUmpKQVNMaG5KNjB0dngtcHkwanhueEJIUXhjd1J0X2xQVkp1aE1GZlBvQm9BX2ZkcXlDeVhn?oc=5",
-          "publishedAt": "2026-11-20T18:16:59Z"
-        },
-        {
-          "title": "Boeing Could Cut More Jobs Amid Delayed 737 Max Production Ramp",
-          "publisher": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEFWX2ZuM2h5RDVOMHpFYWJRWTltYnQ4VjZJZG5md0N4Q1pWUUxTMk90YVBZM0tVVElHTHBJVGtlcl9LdGtZNVUzVmt6WXVBU2ZMbnVCaVoxS0I1VTB3TERVS0l1eWRKZ1ZRaTlnWGRnbTB0R0Rpb0R3alZvT3pydHRwUGNWTlR2QXE4Y3hSZUJXUGJPcDgtamsxNlVzaURacmVYUE44WWpOVFpxLUVYVXNsZnFOM3M?oc=5",
-          "publishedAt": "2026-11-20T16:26:27Z"
-        },
-        {
-          "title": "FAA Orders Repeat Flight-Control Tests on Select Boeing 737NGs",
-          "publisher": "Airways Magazine",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OU2VvbndZdHJlZHh5UzhSM1h0WkdITk5BYlItb3JMNldXYl80MXpWTHBiMzJIUjRWT2JLaHY1U1lOVnpMT1dWdG91cGhlR2tSV2Z4aldraFZBUWF4a0l2YjVIZjZ5bm5tcTRHMG1DTlRFMXdpZVFsYjg3cTZGQQ?oc=5",
-          "publishedAt": "2026-11-20T15:49:47Z"
-        },
-        {
-          "title": "How The Airbus A321neo, 72% Of The A320neo Family Backlog, Shrinks The Boeing 737 MAX 8 Rivalry To Medium-Demand Routes",
-          "publisher": "Simple Flying",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2RMRElOY2xQaVd2Vm1xQ1dwSGZSMl9pVk02VFV0dU1GWjFUbmo4bFd0Zk9zRXdxU29kVXJMYnZ5QVBhVW5QSVRVcEUwVk1xMHJMLUFHRUNHVTJ5OUl6Q1BjUkdWeWV2NDBrWVJFQzE2eVZNRkY0dVBFWjliVTBFMmZNOE5ORXBfc1AySVFhSmd1NmQ1VUllMFBaNWRiaGRkSnoySl8zRS1SQXhvQWgzRWN0dFpHY3M?oc=5",
-          "publishedAt": "2026-11-20T15:00:19Z"
-        },
-        {
-          "title": "FAA Orders Repeated Flight-Control Tests on Boeing 737NG Jets Over Loss-of-Control Risk",
+          "title": "Trump Says China May Buy 250 More Boeing Jets, But Firm Orders Remain Unclear",
           "publisher": "AeroXplorer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0ROZ2pnaU00eVM2aUc4V084MGRIYmVoTGVncTRiVzZkeVZPb014SVVGZThEZXlzS0phTVk4U1VHMF9JTzBnbW82Rm1XbFZ5WmJxdDJnZ1FXNUdpWFJMLVA2R1Y5ZUlGMV8tZ3ZicmJLTjFJZzh5WkRadE5WWkVXUEowVHFmMHdrb1E5bmdmbkNNUTJIOXFranozYWJWZlZVQk05a0t4UlZCcnAzZEtYUjh0TTBSanFl?oc=5",
-          "publishedAt": "2026-11-20T08:34:07Z"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSW51ME0wekcyUGU5cDFBMWd4aGFNNWtodmdoVGxJRU81QndibTB1YnBTYkJJMnNBblJPTWtWdUQxOThTUG5TWm5vY3o5anRvem5KcEVRQVFOcG5Wc2JTMVJGRk4wOS1HUDZxdTBERmVLY3BRZ29XcldLVk1yUW8tUFpWdEtBVTdOYjdvZFctZlRRVTlENVkxWFFMcDZSNGtydG1IdG90TVJja0QyUlJnX01Ddw?oc=5",
+          "publishedAt": "2026-11-23T18:41:48Z"
         },
         {
-          "title": "Can Boeing (NYSE:BA) Keep Its Jet Delivery Ramp Going Into Year-End?",
-          "publisher": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzNLNmltaWRJa0RrbF9EcVdld1prcVVtM3I3LXNfXzJ2SmNCRkxqV2RpMXc4WlZ1ZGNGVDFuMGEybnlUd3NuX3g0Nl81WmRuVDhxVTJPTWJRVHVPeDRNR29ucWdsR1p5VmgtNGkyTmdlSXFpV19BN1hMNExMbms5bFlCVk5lTUlBRFZFRVR5RUlHV3dJUWxGM3ljYWhMMGRFYkQtLThQVUNyY0E1VUZF?oc=5",
-          "publishedAt": "2026-11-20T06:10:00Z"
+          "title": "Boeing Stock (NYSE:BA) Jumps Despite New Layoff Potential",
+          "publisher": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjdsQnFLcEpNVE1Wb29rU29hMUsxZ29zYXFKN3dvbzNkTWVaVTNPMl95V1VZY2EwVV9oUjllUVY2UTN1bllpdHpGelI4eld4ekRsRmI0Z0prQUJpeENyYjBVWDZVVERROU5kWkpqMzhieHh1SVhNbDJlYUxZWG9ZcFI3eGh5TUc3TDlucQ?oc=5",
+          "publishedAt": "2026-11-23T18:40:18Z"
         },
         {
-          "title": "Exclusive: Boeing's Parker says building new fighter jets is a \"huge responsibility\"",
-          "publisher": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzhrTjdleFA4QTFqSGhKZThGSjhNQ01wUXlRVG5yN1ZaaW9YU2dGSlhBcGt3Y1NPcmRUSjJmMTRDS1Y5TzV5MXgyMzlvOHpjdXVNaDFUSG94Q0c5RWdkbUU5ZVFOZ3RZeFZmel82WTVtYkM5UVFqRkg2TFpMNzRWTTN2ejI?oc=5",
-          "publishedAt": "2026-11-20T05:27:57Z"
+          "title": "Why Boeing Stock Popped Today",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFFlU3JkdW1kMWNCcFlYbDh6UDRPbDhVQUFLbWNlLTdZVkpyVjc0WlMxOE5sTk1fMkFlS0NnTG42LU9CdEtjNTkyYXd6NWFTZk1teTY4elRGZ0tEaGJKZUx1cnRIREY4TUN5alYzMC04UndMSldqNzBLa3E2RXdLNnQ4ZDc3MWxTU0VXSzBwWFd3YTZEQm9veGgyNVRjVnpHNnVySUVJUXp3N0NaWU9rOVJuM01JNGM?oc=5",
+          "publishedAt": "2026-11-23T18:35:35Z"
+        },
+        {
+          "title": "Boeing rises more than 4% on the stock market after Trump projects the possible sale of another 250 aircraft to China",
+          "publisher": "Demócrata",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnZQdVVDZk4xUXVSM2hPQzdoaXU4OWJPTm4xX1R0NExVSW96WlNaNzczOGMwN2lDOE41c1A1YlV1YXBMRDFpOGhwNU9FMWRYVjU3Ym1URkxLNmNtMzFlNzBUenFRb3hObjZSMTE4SHRDUGNVSFZ3aWpCZlJaMjhTMmwtamx3TUZGZEplM1lURnlyQ0FuN0pQN2hyNFJTUmZrdURzV2pYdDNKUmVheC1QTWJieGQtSS1JZkJVNlc1OXhUYTF0ZXV0M1ItRXA5ZHhuR3RKZVpxM1RGLVFzS2lzazE4VGU1bUxKWVhpX0F30gHuAUFVX3lxTE5OdlB1VUNmTjFRdVIzaE9DN2hpdTg5Yk9ObjFfVHQ0TFVJb3paU1o3NzM4YzA3aUM4TjVzUDViVXVhcExEMWk4aHA1T0UxZFhWNTdibVRGTEs2Y20zMWU3MFR6cVFveE5uNlIxMThIdENQY1VIVndpakJmUloyOFMybC1qbHdNRkZkSmUzWVRGeXJDQW43SlA3aHI0UlNSZmt1RHNXalh0M0pSZWF4LVBNYmJ4ZC1JLUlmQlU2VzU5eFRhMXRldXQzUi1FcDlkeG5HdEplWnEzVEYtUXNLaXNrMThUZTVtTEpZWGlfQXc?oc=5",
+          "publishedAt": "2026-11-23T18:26:32Z"
+        },
+        {
+          "title": "Trump thinks China will buy another 250 Boeing airplanes By Reuters",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVW1yclRrSktNUVBoVmFNRmNhb08teHBsbHlNOGw1RDVscUd0amtOMnR2bldiT0pSZzZXdFdlajdiWEhueS1FeFNMcXY5U19vUFVjWU5XbGRUWERSemZKOWNzd0hYV05aSk1fZ1Bsa08wSktKQng0Zll4ajRiRnNqejhuNW9KOV9la0VNX0VZMXhrMnZDWWduVUNtc2JGb1BMaE9JbG1ReFpXY0RQc21DdWVsYw?oc=5",
+          "publishedAt": "2026-11-23T18:12:12Z"
+        },
+        {
+          "title": "Six months after securing China's 200-plane pledge, Trump fails to land firm Boeing orders as Philippine deal and Africa's aviation market offer contrast",
+          "publisher": "Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEhleVlWU3ZIZUYydzAzZ0t4NlZJakpMS3F4TFQ5NFNiNm12QUJmM3R5Ukw4R080eG5WX0kzVFRfSk4wSUdOX3pZaWQ0V3oxNTlkU1dqVFBDX0tyZGxRQWkzMkloMGJhRVhuYXZZclRJMzBZWEFoOU5yeVkyU0JvVDRDN0VzTGx4Xy1Ed0huS2ZsdjNEeEZVdWFOUWdtRVJNMFEtU0M3a1h6Sk1NMDNlUHFlX2dWUHJjeVhWRWtvSGZWSEs5UkFpZXpBOGwwRG5XV1VxUw?oc=5",
+          "publishedAt": "2026-11-23T18:00:44Z"
+        },
+        {
+          "title": "The Boeing Company (BA) Stock Price, News, Quote & History",
+          "publisher": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WQTVuMWVQSGpUcnQ0dmREbGwzUmRfWXQ0YzVWT3BWZUlLdFloT0JGM2o3aWppdXZVR2QzUi0yY1BNSEtPSmRiaV9aQmtTRXBBR3hqbFI0b1hyYmpsUFdF?oc=5",
+          "publishedAt": "2026-11-23T17:19:29Z"
+        },
+        {
+          "title": "Trump signals 250 more Boeing jet sales to China; firm orders remain unclear (BA:NYSE)",
+          "publisher": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbm0zNV9wSC0yeTBIUngySS1BeUtYV2NDOHNEeHFWOTQ0eHBnVVdvYW9NNzl4YmtNZ0JCZTJxWkxvOEtPVU1uSzhidlNlOUhGdGpDN0Q4LVp4bFBjQTZUQ09xNGg3MDBFN25qRHpVU2p6RzVmLWR4QV9ZSlVZREF3RVgycUI2TFoxZkh3ZjhmNlJRbHAyckNHM0dsUEppTGRRN2xtc01sTzhfcVF3RWxCajNHbw?oc=5",
+          "publishedAt": "2026-11-23T17:16:01Z"
+        },
+        {
+          "title": "Boeing clears key regulatory hurdle as its 737 North Line comes to life",
+          "publisher": "The Air Current",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSjdodjd6ZWh3VUg0RXhhM19rZU5wZHFJbWRIM1JnSWVWNzh1TS1TOFhDaTdrbG4wZThzRDJWRk5vVGE2c05ZMGstUjdiRUExc0lMVVB0SmJmNVdmWGo5YnllcTJPeEZMNUNhc2xsQ00tbFpwX1hVZThraXpHVDNPdk42X2FKemVHX0d2R3JJV1Nad3ZMdFM4WGlUN043Zw?oc=5",
+          "publishedAt": "2026-11-23T16:47:08Z"
+        },
+        {
+          "title": "FAA Orders Inspections of 1987 Boeing 737 Aircraft",
+          "publisher": "bsinews.id",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wVnVsQjlyWnJLQ040cGpwTFRzZUR5bm03YTQ4eGloUGRZMWNsVVAxM3o2SDdUeTFFdnNPODNJLXo1R3RZRnYxMThmczFSYzhkQzhwZWk5MF8yRkJVU29UNW1GNA?oc=5",
+          "publishedAt": "2026-11-23T16:33:02Z"
+        },
+        {
+          "title": "FAA Orders Inspections of 1987 Boeing 737 Jets",
+          "publisher": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwbVlrelVFZjV4VTBEazFYZVRSWXo0SkhlVExJQ0xRMlowOU1FcGtEXzRucUhfYkhaX2lEVFhDVjBSS2JhcmpTRkdGaW5ZUkdKUGQyaDdXVFVnR20wOW95dzVLV2M?oc=5",
+          "publishedAt": "2026-11-23T16:31:45Z"
+        },
+        {
+          "title": "FAA Orders Inspections of 1987 Boeing 737 NG Jets",
+          "publisher": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YenBWdjVRSlBPUHU3Q0VvdXgxcm1sOHRmS3k0cm5vRWEzNUtRcjZFZFpUZ0hjQmFqdmRIMERFd05Va1BuRWVkMW9OY3Rtb3laQktpSjNJUjduT0ZHaGpudUpMLXo?oc=5",
+          "publishedAt": "2026-11-23T16:30:12Z"
+        },
+        {
+          "title": "Boeing Faces FAA Inspections as Stock Trails Aerospace Peers",
+          "publisher": "SuaraGarut.ID",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JZFNpZE5GUURfVExMTTJCVGdkMlg4bzZPWXVXZnlQLVI1bmo1SXZZTmZMQlpFcGZXdVl1WnUwMF9Mbk8ydnZNZ19VTzRSZ05Jb3FlbGFVMTBLRm1uWFBVR0licXhjTjhTdTducThQRG9vV28?oc=5",
+          "publishedAt": "2026-11-23T16:27:42Z"
+        },
+        {
+          "title": "China’s Boeing opportunity could expand by 250 jets as Trump signals fresh aircraft demand",
+          "publisher": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1Y3VXd5YV9BNWswRmFzMGNVMnVsYjZ2ZzVRSlRqODc0XzlQMWxKYVpkSnFrRlpqbzVRaVprUWM2N1dNYW5IWTJGQW9XTWFxclZ2RF9ZR2wxLXlRcHFrcTBjaXE4bGdoY25MUlRBSDU2OXhGdlBwZmpoSEp1SDJfUDZpQy1xT050ODlPRVNLcm5zb3VTc0luUW5SWE0xSmstaE45NThkX2Ffc3Z0RFJkWXBtZTlZMFFYN1hzZjB1bnZQakpDdGN6Vy13?oc=5",
+          "publishedAt": "2026-11-23T16:01:00Z"
+        },
+        {
+          "title": "Boeing stock: FAA checks cover 1,987 737 NG jets",
+          "publisher": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1VXLXd4WFNpalhhcUxEMmVjRzFnaFFEYnBiZmZsMTMtcjBSeVk2bnItdG51NERiM2FvcnNDTU52cjVoTUFSbFNZR000cF81Qmo0RDN0bHFuekxvREltYXF2ekVwMjZIVGNLd2VrUUtCMmZfSk9RQ01DbkthMDdpVTF0U01ncTMwQkpXUzFXcDNJNmRkOUZ2WnpDVjIxVmdJdFo3WHlMTHRxWEdENDBv?oc=5",
+          "publishedAt": "2026-11-23T15:08:37Z"
+        },
+        {
+          "title": "Boeing Director Buys 500000 Dollars in Stock as Shares Fall",
+          "publisher": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzTGEzb3J5QUEybENZbHB2M0tsaW40UnY5TTVXM3kxcV9JcEJkVXFDdEJqS0dWZ3VYMzY5eFVnakw0WE5BemdVdHZNVlUtaVA2dGM2NlVmeElNQ0JUcmtSOEUyazZZQkRrblE?oc=5",
+          "publishedAt": "2026-11-23T14:49:42Z"
+        },
+        {
+          "title": "‘Nothing came through’: China keeps Boeing orders in reserve during Trump trip",
+          "publisher": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUXphNGVfNXNoRFhuOGFqS2J2YXpXY3pkR0hSaXRKTlM3Q21tMDdZcF9EckJ1QzV5M3FlaFhVR24wUUpOMVdaVi1IRHR1MEFwaTB6UG8yZ0xhdnFUTFFDVGYwSlkyUGRwNjhseXpUTTY0YjZ5dUR5VXJ4UmJQWU9xWk9ucHlnamZETHVPSUhhcWxaVS1tb1FXUS0xclcxYlNQNFpWWktaZklXYUhjTkQ5cTQxVklMNnZKandYcjkta3NYVEdVMXVLMEx4aWFZNDhH?oc=5",
+          "publishedAt": "2026-11-23T14:00:11Z"
+        },
+        {
+          "title": "Archer Aviation's Real Bet Is Boeing's Drone Maker",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWhVeGJSNFZaWEI5UmhreWdCa0RsdE5LeW1fWHFNS0FCclF3WWlxN0V2QTRtM3JCbG5YY1pGV2dTU0otNTNnMTJGSERYUDFFWHluU0tnTGtrUGdnM3ltdC00cVh6YkpvY0VNT285eDRtbm5hVl9CSDRpT3VBYlBreF9NbEhUNDlTcG5WVE9fWXJrYVZkZTJSbGNhRW93X00?oc=5",
+          "publishedAt": "2026-11-23T13:20:58Z"
+        },
+        {
+          "title": "The Boeing 737 NG Fuel Saver That Was First Introduced As A Retrofit, But Became A Factory Option On Later Builds",
+          "publisher": "Simple Flying",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDdYQ3c4Ym9MZ3JaM1ljR0lDaUkwODdObDkyOUM2MEdxN09HSFI0NzA2aE82WTN5QVZhSFFKN1dacC04cDYxaXdMVW1feUN6aElGV1A0VmwwejVwM1RxdjJlSzA1amUzV0FaNm4yVG4xQWNCS19IaFFWZVFpUU9TdGN0Tl9FMTdnZGFoR1BSWFJjZEtESHd2andreU4zUnIzeG42NDNvLWt0RXpkM1h2aTVVRnZQaEdzZzVvM0IxSVpsMkJiTEw2LTRBekczbGdib256bg?oc=5",
+          "publishedAt": "2026-11-23T12:00:19Z"
+        },
+        {
+          "title": "Boeing stock faces mandatory FAA checks for 737 jets",
+          "publisher": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXZFUnZ1WTJHQlBPZnFqWS16dmtUV1RTS2VlOHpfR2czQURNSzdfN0lPOGJXUUhqMzdxb0k2aXdRQk1kejZZbDBnVmg1cVRWdF84VDdwdi0ySGZJZXlZOFBRZld0cGxtLV91YnJqWHlpRFFXcS1oc1hHMGNhRXFuOThMTzVVRXM0N3BnRDQ1cTM2OGtSbUFCZUtVa2JBN2pYMjRScXRrYkdvUFpWTm9lLUpGdFBMdw?oc=5",
+          "publishedAt": "2026-11-23T11:52:07Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
-      "newsAttemptedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
+      "newsAttemptedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -5333,22 +5321,88 @@
       },
       "news": [
         {
-          "title": "Autodesk, Neilsoft partner to set up BIM and Digital Twin Centre of Excellence in Pune",
-          "publisher": "Prop News Time",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzMxbzFQTnFtZ3Y5QkpkY3hJaDVMVFhFU01OZjJqWm5RUE9kOHg2ZGVUZ19NMUFrai1XOWthZHdEUDBuWW9FS1c0MDFQX1ZfeDB0UmlCMlVJVzF5T2VGRDJ1T3VQVEUtRG53NDB6VVNoMzdIdXE0VEZKeHJPem9pQUliX2ZfWWZHV0VaTTBLSUItdXRpby0wb19fbXJsMjd6Wk1Bc3NSdHdRcW5PaV9Sdy1kbEJkWjlBTFVfb0g4NEdocmVqbDJfTGt6WWFpbS1PYmtB?oc=5",
-          "publishedAt": "2026-11-22T11:46:36Z"
+          "title": "Autodesk stock rises over 4% as investors anticipate upcoming earnings report",
+          "publisher": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazVmTDdVRndQMExuOFBzM2lsZkM3Q3pVeUhhY2NqQW5iS3NIX2FqZjNJV3ptZUFSSkhYTkxzVGZ6Mlc5WkpQZHRLV2xLbkVRY3JTZHFvb3l5VzE2YTNURnphT2FBNjhLYzJzN1lKSWtWdVNKUFV5d241UGZzOG9WUDdrSHFvSHBiZUVuZQ?oc=5",
+          "publishedAt": "2026-11-23T20:01:30Z"
+        },
+        {
+          "title": "Autodesk (ADSK) Q2 2025 Earnings Report - Results, Call & Slides",
+          "publisher": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qam0tbmhTTW9fR0JqdnVxeWtRWExmMEZ3RHJPNVVFWjF4TmpVVE5XbTh0UWV6V3ItWnR5T1NuQ3ZqejJ5emhhNEduLUM0NDBvckFBVzJyMFdOT1Q1RUpNMW1PQTVrb1dnbktTa3lKSkM?oc=5",
+          "publishedAt": "2026-11-23T13:58:48Z"
+        },
+        {
+          "title": "Autodesk (ADSK) Q3 2023 Earnings Report - Results, Call & Slides",
+          "publisher": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhcUQwR2JTTVI2WGkwSTQtYUE3aWkyczRoUFhzdjIyTEFEZDBoZHhVQzV6LVQ5cWI0bnUtTW1tQUxoTTdGVW4zSlF3R213TEZnSFkySE9IWVJZR2d5RDdnemVyRzB1QUtKbmRoMGJMaWM?oc=5",
+          "publishedAt": "2026-11-23T13:38:06Z"
+        },
+        {
+          "title": "Autodesk (NASDAQ:ADSK) Stock Rating Reaffirmed as Neutral by Cantor Fitzgerald",
+          "publisher": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2tobnZxVGlYY0dpR3dNVDRnRTcwbjlpNXU4cXhqZ1FkMGZLcDhhX3FsZDk1clBFQnF0ekZnc2QtRkFZNS1HVHNVZGVhVUotVldWWUh0R0hfN0FUakVNTXBlYll3T2dvZmdqVzN5R210QUZ4cDlManY4X3BENHVhMzI1bzE1cnQtRnB2S2tYdXhBclpjeFJNcmFIUnZNdTBldXJfUmhHUTlualFaTDNTRjBEQlZOeDRsR1VyLU9Ga29mRXlLWFNLRVNidmpUUDNocDlaWg?oc=5",
+          "publishedAt": "2026-11-23T13:23:32Z"
+        },
+        {
+          "title": "Piper Sandler reiterates Autodesk stock rating on growth outlook By Investing.com",
+          "publisher": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONUliYlVTT0NsZFJkXzlrbk9VdFFRdUs1LWRNSl9UNVNJdTJ5ckJYbXh3T2FxM045ZkpwLVNJay04a2ltSW1nZXYyYjBPRmJYVlg4X2Q1VWg5b0FZUDZHaGYzSjd0YkpGWXNCTktDQm12bU14THJuUkMxZXAxblpMSDMxTjBVQnUyMGh3WU9Yd1llS21IeEV6YzNHeVBiOXZCXzF5YnFIcW9CeHBYTUdJUUFndG5HeUpUNndEak44SGxiaDQ?oc=5",
+          "publishedAt": "2026-11-23T12:19:47Z"
+        },
+        {
+          "title": "Cantor Fitzgerald maintains Autodesk stock rating at Neutral",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDR2NHI5T3NKYmw4WktvdFlxM1l1d1VYWDdJd0t3UHphRlY5dmc2cS1DQ0ZiNnphRHA4TlZWOUpwWS10allHNG1ja21YRGNMRnREWmxfLWVMUWlsS2hTdl9Ia3E3UzRYcmo3b01qbVhYU2gtTkZ2R1dCbVpSZTlLS3kzM25tVi1OYlU1czBzVDlxdTNRSm03N2FDZENhVW5ucExreG5CTmMwcGw2dURycFNxWkRBS1I1REVjcQ?oc=5",
+          "publishedAt": "2026-11-23T12:06:08Z"
         },
         {
           "title": "Addressing the Manufacturing Skills Gap through Digitalization",
           "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWEhla3Q1UWxBNUpYdUY4VVVIM1RzbXhRWlFaSDVhS3BEeUpTSC10cmpCZlg3VUdLX1Y5ZWwwdW52Ulk3WnM1N21SRHBiQ3VxeDlPT1plVjgwOUtRYmtKZ1VkNmZ5aTJWa3FLZmxjdThudC1HMFFNSXhxcmhoZUdUdWZnTUdWOHNIUmZzSWlDcWlxX3R1Y3Y5aXppZ0VsVnhXSE0yd19KZ1RDYVRudVVXb18wcndFaEJhRDlQSXpkbHdjYjhTR1NETURWSzM5eGdqdmRWSHVlNlN0Q0R4MFRRd0tidGhxRDJhMWMxVDhMbElwRm0yMFQyWG8xQzNCWlQ5ZmVEM2VjenpoSTd2TDR6RFJ2aDdKSjVETDVZNDZtdVhjTVhMQ2E3WFBlV2t0UEJMLVczSnZPTHhBdXk3R1Q4SWxLdUY?oc=5",
-          "publishedAt": "2026-11-22T05:07:12Z"
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNZllycEZHT2tUSmJWeVgzeWRieVJCU3Fndkk5SDBZV0JNc2dKZnF2bGZ4aDhlVUxPVk04YkVNeGo2Y3FRY21aWVZad29TNHlwR3c5ekxOaE5aUVdGRW5HMHB3TFJGUGlvUV80c3JjakN4LWp6SVlRM1ROZzdmQkJIenhLUkRHYzh1RDZBWkZOdEVQRG5RRFZxSnFhQUsyYmFTNFlCdXNrbmxMMDhVY1FXbFdVSEU4NEdJZFhqT1VxVFZMWlIwTkYxTEpTY0hfX0dXdXQ2MjFrMGF4cEhtWWVxN09QSFJSd0MwUFA4Y1JUbEx4eGY3UWJNVFZnQVlKdDlpMDdnQlJ2eGRVTDZfMlpCSFZQZ3dXdjRDTjR2dU1FV0RFMG02NkxDZFBvcGlqSXRVMi0telpYU0R6V1RYUzVqM1VaWWhVbFVKQlQ3eElUTDZ6VlE2V09PUktuTEM5Y0ppOWhwaF9xRzA4RmttWGFmeTJfNXQ2c2huYjk0UUk0Tk9obzFLUUJSYUQtNHVwdmVDNEZJ?oc=5",
+          "publishedAt": "2026-11-23T04:04:52Z"
         },
         {
-          "title": "Autodesk and Neilsoft join forces to set up AECO Centre of Excellence in Pune",
-          "publisher": "Indian Chemical News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2kwUkEwTlZBRENsRElUdlR2dFpPRm05ZS1rOGdlRDZsZzE3VDVFYWJtTmVMYlpQYTlRWGlqVXB0RERicjFRRjhqcV9oSWtPVjlVc0k5cGVxalFwZTVlTTRfa0Z2aDZFNFI5NHVLRE1sZ0NIM05VamJoSlA5MUotZS1fN0JpNFc3MW51eTBFaHd1Y29yOXM0TjFBRHhpaTNndW04S3F1ZzBCM013Yl92NDZ5VF9YenVQejRNZ2NUa3FzWlp20gHLAUFVX3lxTE5haXVIdGlfTl9hWXZJR05aX3hKSUtzRDZKUWpZUUFmUHV0cUNfUVBzc005S1ZPY1pJSmxQSlNrdWFIeXBrS0lxNVpMTEg2d2dNNURMVlBIbzlOaUtmQ2hVU205YlVJT3RQOXdlUGZWdDBjc2FfemtmYUtCWDZrQm5FWXl4eVZrd0lmZHQ3WklCQ2dSNUtZSVFEM3NId2JnazFpV1F6ay1KeTFfb09CampyQkpaNTBON3BpZklmR1Noa1hhT0htWEgzRFhr?oc=5",
-          "publishedAt": "2026-11-22T02:45:22Z"
+          "title": "Earnings to watch: Autodesk reports Q3 results tomorrow",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJWREhtbFRpTk5RVURRZFpyVk43YllXV19ObE5nLWZBUFdqMkd5cDVoLXR4SkczZXJYbVRpMGdlWHM0T1c3eVFKUm1rLTI3SWtrM2pXQ0JnZ3JFb3ctenV2ZTBiQVE5bktOZVpBUGtqZmNSb1RmbWs1d0xxWURmZ3AwY25JZ3NCbnpDNFpjdU9MU1lnTEV6XzVrOFFxVUVrZ0Q5U0NXZFhmcnZqbU93R3V2T0pmQQ?oc=5",
+          "publishedAt": "2026-11-23T03:01:00Z"
+        },
+        {
+          "title": "Autodesk (ADSK) Q2 2024 Earnings Report - Results, Call & Slides",
+          "publisher": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53dGVYODFjTElqN1FMVm1tSUwyWkIxTU5IS19PSVUzck4xRjJZdFVMSTJsT3ZLR2std3lCVjhNdUlxazl0a3E0VERWZjlsZWVSV0NpdXZJZlh6MnVRWTBwZjhjaE1zTXlReExvUzFHLVU?oc=5",
+          "publishedAt": "2026-11-23T01:14:08Z"
+        },
+        {
+          "title": "AUTODESK Q3 2027 Earnings Preview: Recent $ADSK Insider Trading, Hedge Fund Activity, and More",
+          "publisher": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzdFdGdQQ1lDWEJGXzdGUk1jYzlFNnR5TUJvZjFERDBxaHhTMTEwdnRWWFZjNVRkekFwU1RtV3VRYzZrN1NtMDZLTkgxY29wNzNVOVpPNGwzMEFQLVJTVlE0LWYzeUpjU2xLdHdyazhTNFhIeVpsSm5Jd0xXWE1FOVFzXzFwcXlJNlM2aDFEUXROWHpRYmVMaGFhUDNpd3BfazJSLUUtYmYzNFhFUExIUjdGQjlhSUE3MGduY2puc3lacTJGaVhKUnlKVjJNZFVQ?oc=5",
+          "publishedAt": "2026-11-22T21:06:00Z"
+        },
+        {
+          "title": "Autodesk, Inc. (ADSK) stock price, news, quote and history",
+          "publisher": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BeEE4dkhmVHRyMlNTNXFaczBlMzNudVptUVdTUnp3eVFkVy1yekxxM1JEUnpuekxheWU2cjFBdktxTm5wX0hXQnJULXkyOW55Rnc?oc=5",
+          "publishedAt": "2026-11-22T19:06:32Z"
+        },
+        {
+          "title": "Autodesk, Inc. (ADSK) Stock Price, News, Quote & History",
+          "publisher": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jLVZBWGtEU1p1WjJsNFdTRUZ0SkFwSmdrZjRPaDQxTmtCSjE3R0dvbG1ENEQ1Z3VUVDFTc3E0Y3hxcm1JVE1rNHFPTzBLVDMzVVE?oc=5",
+          "publishedAt": "2026-11-22T14:47:03Z"
+        },
+        {
+          "title": "Autodesk, Neilsoft partner to set up BIM and Digital Twin Centre of Excellence in Pune",
+          "publisher": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzMxbzFQTnFtZ3Y5QkpkY3hJaDVMVFhFU01OZjJqWm5RUE9kOHg2ZGVUZ19NMUFrai1XOWthZHdEUDBuWW9FS1c0MDFQX1ZfeDB0UmlCMlVJVzF5T2VGRDJ1T3VQVEUtRG53NDB6VVNoMzdIdXE0VEZKeHJPem9pQUliX2ZfWWZHV0VaTTBLSUItdXRpby0wb19fbXJsMjd6Wk1Bc3NSdHdRcW5PaV9Sdy1kbEJkWjlBTFVfb0g4NEdocmVqbDJfTGt6WWFpbS1PYmtB?oc=5",
+          "publishedAt": "2026-11-22T11:45:48Z"
+        },
+        {
+          "title": "Shift to Next-Generation Construction: From Connected Processes to Predictive Decision Making",
+          "publisher": "Autodesk",
+          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNLURJdENRQjN5UTMteGdFbjZTZTd2UXlvdzJGSW90bElDMzBOZ0pvbVJRYU8wMGVyQ3VSalJPMUx1OFdHMFB5enllbHJmYlZIeVdpb3E4b3N0c294Q3VnWDI0S3dwWUpvXzFBRmtaaDhCTVYxOWJWTk1mNWpZYnpUT1ZBVHd6NU1WYVkyWXJDd3RzUFB0SlVnajc0OV81dUMyejg1RjNMazhDdmhobUtjLV9VcXBVUHZnMFpKSnBQQUdVd2JCcjdiNjY4NTV5cmplaUJkQXdmMC1CRGd5b1BuMTk2eTdVbkpYZXhWWFJ0RF83QzNtNHFqNnlJSjY0YzdUcUk5Zy1mR0J1ZFRkc2dHNFNNREpPdXFtU3QzNFdQai1FaUhkRHdfQV91eDVwbFFvSFdzWHptWVJZei11bjk2VjI0T3NaSEVsYklGTHBMX3djYlg2WF93ZWxLcUk5eW9jTGFyeTA0enZsU3hzdmN4dzBHQmdvbGNMbEV2emhiTk5JcVdJc0hSdDVhT3g2QnNYakxZcmQwSTFQcXVEM3h2a1Z4eXltSFJGaW9hOXBZNA?oc=5",
+          "publishedAt": "2026-11-22T02:13:40Z"
         },
         {
           "title": "Mastrex and Autodesk integrate software to simp...",
@@ -5357,10 +5411,22 @@
           "publishedAt": "2026-11-22T02:01:28Z"
         },
         {
+          "title": "Mastrex Announces Collaboration With Autodesk To Bring Autodesk Fusion And Netfabb Software Compatibility Across Mastrex MX Series Printers",
+          "publisher": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaUl4UWcyU3NIZDg5cXpJaHJQMGpmbTRIYlZDS1JHWFlTVkNaZXVaMm1Rc1I3NEJYNktDNkx3eS1LUk1ST3NBRFNxSUJvWHZtZHpMZ19oNXk1Z21VejVwM25hSWMwLTEwTV9SbS1fZy1QZlZUd056TkNXclJteXdpWG1Za3BxMy03M2xXZE9FMG93RkRhLVY4OU83cXJ2WjVEVEYzRmt4VGNmVjJidDRqaU14SGpicmNYcG5oRTZDRXYwOWR3VVVmNTdUQUFLWVcwSThOOHV2ZTZmbnNMZHBGazRrV0VDdVZx?oc=5",
+          "publishedAt": "2026-11-22T00:58:00Z"
+        },
+        {
           "title": "Mastrex and Autodesk Make Metal 3D Printing More Accessible",
-          "publisher": "The Daily Tribune News",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOTBSSUV3QlRPWFdYdWRrd1ZadVU0QURNbGVia2JnWnJmNnc2LTRmTWRDcVVyYzVhLVFIS2R3dVFDdXNXYVg0ZDZwTEc1Uzc2a2VGbFktUFBRUV9XN2J1c01vclQ5QjlEa1dBT2tweTFqQVFHanFnYmt1N2x4N05yY25fMzAtM0JmdVZMeXJVM3VmOC1VUm9jNXViMmZEMHJuN0ZmV25sNGNqMFhEUzNZcVJqUXpFa3BEaDRzZi1UdDVqMUtvYzBJWEN2Sk1Oc3o5TUhnelBiMFJOQVFXUW9SN0dJajQ5QkN3X0VlVWYyMm96dTRONWp1aTNOaHYyLUU?oc=5",
-          "publishedAt": "2026-11-22T00:58:28Z"
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2RQX0RtOVpUZjdHdkpQWHUxRmdiRG5ETE9PWkpWbHItMVNKbTZqdThBQ3MtS2dRcFVmWE9Kel9oS1RDQmZ4LXdFRG1fZ2tUME1kcVU4cW1ITUJkcFlGaTFqNVVHUnR0anlNY3QyNUNwSElMNXlXMTI5cTVCRDliX2hVc19lX1UzV3hPT1BkeHFDb1pQUmxvMWtjdw?oc=5",
+          "publishedAt": "2026-11-22T00:58:00Z"
+        },
+        {
+          "title": "Autodesk Inc (ADSK) Stock Price Today: $244.48",
+          "publisher": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpN0F0dVRLaU9NeHc0RTQ4aFF2Y0pjVGs5b0taWHNLcDMxS3FsVTF1Sm1paElWMzF5TUpMZk1Vc2M4QTFjdU1IWXJ3M2czR1hLSV9XM1Q4dTVNUQ?oc=5",
+          "publishedAt": "2026-11-22T00:40:21Z"
         },
         {
           "title": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune",
@@ -5369,10 +5435,16 @@
           "publishedAt": "2026-11-21T23:00:06Z"
         },
         {
-          "title": "Autodesk (ADSK) Brings Cloud Building Code Checks Into Forma Workflows",
-          "publisher": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmZGOTRrNjJOeV8xaWdza1BRVk5zeG9taFV5LUxFOWRvNVhJNjRYSmZEZDlBelk1VEFLV3ZGRmJJV0RKOXBiZzBDQU5GX1dBOG05aFJGZFh6aGRDUFduc3RmMG5sMjVCaVRTRHR5WGl2cGUtRkFsTmJJMHQ2OFNXQmpoczJXUUpjSUtwbXJkNHlLMExNbmtyTGtFa3o?oc=5",
-          "publishedAt": "2026-11-21T08:14:44Z"
+          "title": "Autodesk and Neilsoft join forces to set up AECO Centre of Excellence in Pune",
+          "publisher": "Indian Chemical News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWl1SHRpX05fYVl2SUdOWl94SklLc0Q2SlFqWVFBZlB1dHFDX1FQc3NNOUtWT2NaSUpsUEpTa3VhSHlwa0tJcTVaTExINndnTTVETFZQSG85TmlLZkNoVVNtOWJVSU90UDl3ZVBmVnQwY3NhX3prZmFLQlg2a0JuRVl5eHlWa3dJZmR0N1pJQkNnUjVLWUlRRDNzSHdiZ2sxaVdRemstSnkxX29PQmpqckJKWjUwTjdwaWZJZkdTaGtYYU9IbVhIM0RYa9IBywFBVV95cUxOYWl1SHRpX05fYVl2SUdOWl94SklLc0Q2SlFqWVFBZlB1dHFDX1FQc3NNOUtWT2NaSUpsUEpTa3VhSHlwa0tJcTVaTExINndnTTVETFZQSG85TmlLZkNoVVNtOWJVSU90UDl3ZVBmVnQwY3NhX3prZmFLQlg2a0JuRVl5eHlWa3dJZmR0N1pJQkNnUjVLWUlRRDNzSHdiZ2sxaVdRemstSnkxX29PQmpqckJKWjUwTjdwaWZJZkdTaGtYYU9IbVhIM0RYaw?oc=5",
+          "publishedAt": "2026-11-21T13:00:00Z"
+        },
+        {
+          "title": "Dr. Vibe: How I Learned to Stop Worrying and Start Loving Autodesk Platform Services",
+          "publisher": "Autodesk",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTU9NWlAyUlVodHVFcDV6M0pwU211d0VsaXNrZ1d2Y19Ua0xMT0VtWWRqVUZrTE12UlFkNGI0UVg4TTZ3dnV5MnJCMnlQN195VVQ0bzBXNzVwMlM4Vkc3YVNWMTZYNk5aVFRjS19IZWVwNVE1MDBGSDJsSzNjMnVLMWNFV3pzVFFYS2lLY0NTVFU5R2hzcjdDSXN1VDQzTjVkQUJ4b0tIVDVWZTdabVRrM1dDS1M2d0M2QjFKa2ZjRHh3ZnV4YWlZN1BzVzRzNXMxUkJCMGIzc3AwZ2VhMGtyeDBzcnE4ZnpGRGVUc2xUaHdGMUY0SjdFVjdwNnBFWFFBOGNWWkFpR01TUkFXVm9fVXR5VVFtbzFiRkR5NmI1MkY5Z1pYQ2RPc3dB?oc=5",
+          "publishedAt": "2026-11-21T11:10:59Z"
         },
         {
           "title": "Autodesk (ADSK) Gains A New Forma Integration, Is The 34% Upside Still There?",
@@ -5387,62 +5459,20 @@
           "publishedAt": "2026-11-21T06:06:40Z"
         },
         {
+          "title": "Autodesk Set to Report Q3 Earnings: What's in Store for the Stock?",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0ZoemJtbEVoekFDMUoyX2VpSk9JMnJ6bVliY1FxTlZRUGoxcy1Pdm1ZM3d6b3RZWm1MSEwwWHRnZnd2Q091QkRLbEFpV1FpX2VVUHR0MWZaYlN6d1dUQThtUktzeWlaUkkzMWhFSFVqSVlNMkI0ZTFaSlY1SXQ1dzh3MHVScWZXQ2pwRHl4N0c1QzFGZkN3T1piNS1Oa0dOczN4NUJoSG4xQVcxcVJzd3pGMmFkM20wOWZicmxDMG9uNGRJWS0wZXhIOEVtRW1PQ3dTTHRvdlhmUnNYTHh1bmhn?oc=5",
+          "publishedAt": "2026-11-21T05:19:41Z"
+        },
+        {
           "title": "When BIM and GIS Stay Connected: Esri and Autodesk's Path to True Cloud Interoperability",
           "publisher": "Autodesk",
           "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQLXU1S01Hd2lvczlYWmpBeXYyT2d6Z1l1QjFQZTF3X2Q1MWxrb0lwSzZCWXQxOHduMnV4dkZkNmk1Z1BlZk4ySjhuN3NkYW15S3NXdlhOWTk1TExPSFo4Y0hQbDJMRG8yS0M5QnE0UFFIRTZEVmRienFxSHBVMnctOXFpbmw1bHZuWlpNRWE5TVI2Z3NhUndUd2E1Nl9oOUJJN05hemluaktqV2VkWlVlRW5iQ0I4OTJyLXBOdThEaTBZZTNSbFBxTWcxbGp6YllCSlF0UXdzZVNEWnU4akF3cV9RdTBxU18wMkx4M1NIZEF4b3g5djFRZGtELUwyMVUtSjY2NFhMb2xaSlktc3RPOENzRUVtdEtNMEZUV2NKaG50V3c?oc=5",
           "publishedAt": "2026-11-21T03:46:27Z"
-        },
-        {
-          "title": "From Inventor Design to Machined Part: Building a Real Digital Thread with Autodesk Fusion CAM",
-          "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOcGYwTU13ZDN3X0xUaFBEaWhwaFhpVmJNb0VOQThjWlFwY0hjTXZOczdiU0tmMW5JcFNvS1dHODFCWms3ZWdPd3hSVGlobTBmQTlFQW0yZzdYWjNScGVyc0V6anByN0t5LXdmQXk1SUlES2NnQ1hCVm1aT2RWSDZpclNYYnRNbk1jSFhGaHBWZ3R0R2hRNWxEREVLU1REb0htakhmZnBwZWhhUHRjQXZIY01pX3FGQ1pNbHgtTlBRaHhrSWlZY1BMcm9sdWswUjJOc2d2VUpWaDRtb1ZjTlFhclAyVGhxbUNWZTBSYTFtTGtmZGt5c3ZucnltWGZad2Q1dlBVUGtMeFNZeVhpbmFMN19KNXdBVzFtLWFsdVlGdWlGSG9mMEs2SGZJUF9lSFAzeTMyR1ktRmw0LXVHNFpwc0Q2cEwxaUxSMUJJczNHUG8yVE5FNmVaV3NERkpCQUllNkNXX0paQ3pqdWhxSHZmWERhOTNfd0NBQU14dXZISFdPbTByenFxeGQydlZoaWpEYmk4Qk00c2V4NDJDNUhmQktaNDMyRTZBVHg3dU5tS2MzcVZiNWlJ?oc=5",
-          "publishedAt": "2026-11-21T02:26:41Z"
-        },
-        {
-          "title": "Dr. Vibe: How I Learned to Stop Worrying and Start Loving Autodesk Platform Services",
-          "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUlAwNzlwRnkzbDlacEYzR3JrR296TWhmNF85dHkwcHhEMnRVc3ViTWY0Qm5PaFhVc1ZiR2JTUXZNQ2tOM0t1eDByTFExWGlZcFVGdmZDajU1OXg2SXh4Sm4tMEpCYnRFVk1WRktFaXFtUHBiWnRTdnI3MUpLV0x2N0tmTFZWekZDNGk4dzkzRFZlSDNzdnRQSjhaSVFlaDhqTGFrTlM2cTN2NEN4U0htRW5tSGI0Rll5TUFyM1ZuR2xReU53VTZoVEhObElYNHI2Qk91OGprRDV5b2JJVjZEQWs1OEpjXy1tR0hoV01McDNGVzBQMjJIa19jdWE4SFhhRzhybGdsMmVyZU1IRml1eVlUUDFBX1owdm4wbUtn?oc=5",
-          "publishedAt": "2026-11-20T21:27:40Z"
-        },
-        {
-          "title": "Autodesk Fusion gives engineering teams four seats for the price of three",
-          "publisher": "TechRadar",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUHlYN1RLZS1ZMWFGVUdSeWI2ZzA5UUxDejUwb1NjQ1FXWEdDWmlBNmpyX2pkeHBkRVdMb1I4SnBBeDROSXpLT2ExZ2E2YVRTOEloaWhfWEwtampSVXFPZmJYWmRVdktabk9RWkQtUG1pOE9SMVNPUlp1NC1FbWVMeGZVb0xvSnZIZlcxUmlEOWM5Zm5LRjFiSVJyUmQyLUdfVTNZQjNPTDZpRWxzUEktVkdlT3Zxc3FqOVRMS0JsbmI5aF9rYnRYeUt0eGstVk5YazZ5eEdGMlFQZG1acWNn?oc=5",
-          "publishedAt": "2026-11-20T19:01:14Z"
-        },
-        {
-          "title": "Laser Power Optimisation: Tackling Thermal Gradients in Metal LPBF with Autodesk ATU, Fusion and Netfabb",
-          "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRHdhOGE3Q1pSOURPa25ld1pCaFJ0RW5ub01FWnpldGdUS2tfRWs3SkkyemVUc25zZEdkQmRDa3gzdm1MU2haYkRYZms3WG9yOWVQelhpajl6VWNTNkliWnZRX21nbERZX0pERzFxb3Y4T2s0bXJDNUUtYVFTeFAtUURNd0JJeEtUa1FrYlNEWUgzcUNCQ0wyTmtzMDN2clR3RV9SejRoMXNYM2hjd2hNQ3J2QWczZTR4SUZ6ZzFOek5Yd3lUTVU0X3JOeU1rb3IzUE44eDlxRUNaRHg2bHl4N3NLMjN5dWpL?oc=5",
-          "publishedAt": "2026-11-20T17:42:03Z"
-        },
-        {
-          "title": "Autodesk Set to Report Q3 Earnings: What's in Store for the Stock?",
-          "publisher": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR1hvRFJBeDRZMUJMUjk1YmhKcDJQRUJFY2FfRnBmdzlvTmUyVTNaeUNkV0hhSWxrMl9JU1FvVFdiU0lsME1ZVXRiMkZvdVFSYXd5WlpqT1hxRUpmRFdQVERvc2c4N1MydWw5QUtLM2hCVkh0anRFQU1KcGJ6SlZRNnBlX1ZpMFEwR0FtTEJ0WVhZdVNMMkhYb1JMblY?oc=5",
-          "publishedAt": "2026-11-20T14:46:00Z"
-        },
-        {
-          "title": "Turning Data into a Strategic Advantage in AEC",
-          "publisher": "Autodesk",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjdSb3lacjl6eldudk9xNWMtTVYtMzIzdUs5QjllU1Q4RENDQ045STJvcXM4RVp1OVJFbkNvOWdrWUY1aGpzZm10a2d2TGlLU1dPV2szaWlkRTJsUzNMaERhcHMxZzA0cFpBelF1cmVVa2hoLTRXdXRQYVFfb29QNzhxdExHbml0RzFSeWIxYmcyZmVNa0pCSmp2WFJiRFVDVzFjT2thVVc?oc=5",
-          "publishedAt": "2026-11-20T14:37:29Z"
-        },
-        {
-          "title": "Here’s How Much You Would Have Made Owning Autodesk Stock In The Last 15 Years",
-          "publisher": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0Y2UUs3VmhyV2U2VS1fdFlzRDREUllxRldqVnE2MDRYUWVEOXBrTS10YnlZQzdEOHJmd21pTFQ0cXhBQ09GS1M4ZEFLUjJWNFFWSVlMcGMxQ2FPR0pyNGZiT0JiSm40RGJXQkstRVNFTVhiOXY5dzN0Rk45alE2SVc5bDlUOVhTZVdyb0lEdm5BamV4SjhFakRERzNpUHo0ZVZNM0JFZTNIUVdlWlQxNGZEbHZGaXM?oc=5",
-          "publishedAt": "2026-11-20T14:16:55Z"
-        },
-        {
-          "title": "What Are Wall Street Analysts' Target Price for Autodesk Stock?",
-          "publisher": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR19kWW0zdEhOODFZZF9CV3RmV3pUVmR5b2RVRXdsdVJjckRPNW1MSVRBYjVydjFGWHU2cThvQVFUN3pPSjVmbC13eXBsOUU5azdjdmx0WFYwS3QxNngyWjNWcEtiSFhKR2wzQ3lWMHIxZEpZVGNmbkJsemJONTlxZkI1MEViRGZxejR6NjBpV1lVU09nbXlKZ0tzT2s3MjQ?oc=5",
-          "publishedAt": "2026-11-20T11:23:58Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
-      "newsAttemptedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
+      "newsAttemptedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -5485,50 +5515,44 @@
       },
       "news": [
         {
+          "title": "Alcoa Massena continues investment in Alcoa Park",
+          "publisher": "nny360.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmlscDZIcHZRRkY0Q3pxamhiSlYxbzVsUFI4cy1BWHdCdUVYQm5reDA3OUIyQjZUaFd6YUE3UXZtaEZnRHFjcG54LWswMnpZZ3dUbjFqcXdDSTdiNWZkTXNmU0hhcnFja19hUHNEQ2xlTFUwTFJfZksxVm0zbmVqWjNlMmgxV0pxbmdhSlhBbmFERTZtd1Ixb21UU0VJeExQSmRudHdwZEktYzVEcm5OblFBZFMwdkJCcllHNzJZS3dEZHhqd0NMcUY1MHdFU0pm?oc=5",
+          "publishedAt": "2026-11-23T19:24:43Z"
+        },
+        {
+          "title": "Alcoa's Q3 Results Strengthen The Case For Upside (NYSE:AA)",
+          "publisher": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMEk5X2VQS1lpSzBKM2RoVXpyWGhZaUNYa0tZN0dfUEFTN3ptcS1WanZCNVRXOVdTMW5aSWUxYW5rcnZfREN3UFVxSFhpMUdjTWY2aXVxOEtiQjNIZm9pUjIzSVNNbG0yd3l4MEM2cUlxVVRISlp3ZWg3VG5nMy1rQWpvcFV2V2dqTWFBNnRRSjJISW8?oc=5",
+          "publishedAt": "2026-11-23T08:26:46Z"
+        },
+        {
+          "title": "Alcoa Corporation (ASX:AAI): Third-Quarter Cash Flow and Aluminium Output Shape 2026 Update",
+          "publisher": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3pSRkV3eWhtcGlVMUd1MEZkQ1JRZG9PQmZfUlRqNGRlYUtaLXktaTU5UTE4czJCU3lYN011NURSX1JiWU93aDZfeXRKaXZQNk9KU2g2b1JPMWI0bzVHaUxGYWRWWE52bXF2V2VjOU0wWjZjTDUybmtESEU4czZMZHA3ZDYtM20tWnByUEY5bGlXZl82MV9CZlhRTnk5UWVxNm5IamxWQWxOamtzdWszSHRLWVlNdUxWWXZIS21uRmJjREwzR3FkdWZ2QQ?oc=5",
+          "publishedAt": "2026-11-23T05:18:00Z"
+        },
+        {
+          "title": "ASX 200 Aluminium Major Alcoa (ASX:AAI) Eyes a Clearer Worsley Path",
+          "publisher": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWg0TnZ6emxNVGJMMjNFZUNPX2kyLWF0cURTS0NqOXp5LTlMVWpuWEdiUUpuV2MwdFNkNWhBeUVTdFZHcndfSEhraDA1dnk4T3A1SFpScUVnMGwxZHRvWjdTTG1heEhzdmpNeGRHWkhrMEtLMks3bXFSY1dNMVE0azJ6Q1BHckFFYU1jUTBjVE94YVVRLTZUUnliUGUwV2cwcWw2TUcwNFB5a1BNc0k2a0VxQkRsRUE?oc=5",
+          "publishedAt": "2026-11-23T00:12:00Z"
+        },
+        {
+          "title": "Alcoa Corporation (AA) Options Chain",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU29pdmd6MmxiNUlkZWpNYk5aN2R0aWhBYWluQWgzV0tlak1SX0NVeUsxUjIyTXo0bFVKMUltVEN6aHN4cmc0RzFBYjV3VlNLLVFnRGJuS2xvTEFCNkQ2NFhZY0NkZnZzd1M4TDA3VE9NY2ZlejRjMTFYbmlfSklSdVdQbEl6Q253Rk9z?oc=5",
+          "publishedAt": "2026-11-22T22:28:23Z"
+        },
+        {
           "title": "Bitcoin Miner NYDIG Eyes Alcoa's Idle New York Site",
           "publisher": "CoinMarketCap",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFBKWGlSREcyMmVUbUdqSmVFS0lBWFZXN0J6emJLekQ5NFNlVW1HX0hTRmVSQl9GTWhNOUdoRVpDRmk5cFFSRElCUlNQdWQ2dWZ2UVBWbWd5a0h0bDhOQTFiMGl4OFF5a2pIVzkwaTBFU0xyX0JXWktaSldKRnQ0Ql8yQnJIZkdMd2NZcjU4RVRWX2dzUFVj?oc=5",
           "publishedAt": "2026-11-21T16:16:28Z"
-        },
-        {
-          "title": "Is Alcoa (NYSE:AA) Well Placed For What Comes Next?",
-          "publisher": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1pTcmlZcWduSTg2SzhsdG9jVHVWLWpTajVNbXBFejJWMXlHS0JnamxsRk5seWFscF8tcnUtM2s2TmVSZWdyY3J3ejRsN0VIMmRQYlFqcWFtYmVteF96TVl1ZEl1NnZkTEVWQ015UjdKV3hXWmt4ekNXN3ZZY0F3SG5XaEFWUWt0Y0xTUFA3N2I1d3pFQzJTYmZoX3lNa3FN?oc=5",
-          "publishedAt": "2026-11-20T21:50:00Z"
-        },
-        {
-          "title": "Alcoa (NYSE:AA) Hits New 12-Month Low - What's Next?",
-          "publisher": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXc0b3o5SDhjY2hPZ3dpNFA3Q0VhZ2pUd0l2S3dGZW55LUxnM1JYc2R3ZlV6UUZZTHgzR2JNSE1DTjdFZ2U4LTlVSU9QTFNCMzJiNUM0VS1QdllkVjY5SkktT2xIODAyTGsyQlc1VkQwdnZNSjI5b2x6OVp2ajJkSDFOMTlSQ1VvTU5sVUQ4V0NpdWVKMjhmVEJaNTVaRkhVVjBiaGp0anJFdw?oc=5",
-          "publishedAt": "2026-11-20T15:03:37Z"
-        },
-        {
-          "title": "Alcoa stock hits 52-week low at 34.77 USD",
-          "publisher": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUp2bEpOSVhsb2JqeW5KQ19xdlJUZ1VmQV81YlZJMFYzcWwybHFSblFReWlDbVBRUnNBRnJKUlEyZ2NoX2lPbEVyQTBaeHNiQnd1Wk41R2NYTUtPaFBSbVV2ZzJfWk1uSHlaT2J3bzRGdFBZSG1qWVpIQkd0Y2JZODB2OHJwRHNSanNiSEJfN0NGZmViRjAyeTVhNE0?oc=5",
-          "publishedAt": "2026-11-20T14:39:54Z"
-        },
-        {
-          "title": "Alcoa Shares Make New Low, As Sell-Off Erases Last Year’s Gains",
-          "publisher": "TheBull.com.au",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVk5HSFJ2REJKbjZqZGgyUk9Nc2QxZ01iM01nNDdMZjVDSlBuOWp1REg5Nk5Td28yUW1yMUJsZV9wT0ZSbS1JX3JUWHNPSzh4cVhDb2IwWGU2U3FidmFibEw1aWVKeTlBejNUdHBhWEdCMjlkdDZ0Um1fRk5uRGE2dThJVGM0SG9oUDF4WXAyYmhMcklY?oc=5",
-          "publishedAt": "2026-11-20T08:01:34Z"
-        },
-        {
-          "title": "How Are Thin Aluminum Stockpiles Shaping Alcoa (NYSE:AA) This Season?",
-          "publisher": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSG9XeWJyOGhmdlFNVEVvOHFUcnR5RWtuaGN1TF9WanQxMVhDTFlUZHZNeldSWnVCaC0wREtSeU5iWExvYlRlQ1dhYUlhaGQwZmZLMDhwd0YtZHVxZS0zTDlxbDBqcnN0ZFVNLUR6U1RmbHo2ZlBCbVdlVzJlblZjR2tZSjFlU3luN2pMLXFZUnFZdUdEZ3psYVpYOHVVUlprRmM1QlVGaW1iRXF4bkM3QzlSdkcyZFRx?oc=5",
-          "publishedAt": "2026-11-20T06:11:00Z"
-        },
-        {
-          "title": "Alcoa (AA) Q1 2026 Earnings Call Transcript",
-          "publisher": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55MTlxa3hZOVBNcHRoeDdpcFVrb0ZqZVJXOXd0WVJZM3NLN0ZYVlFHQk5fV2E5Q2x2eVZiV1l6OXotUjRibFppTGF4LWtYM3JBVjEzNERYZ1VsT1RuR3RVTg?oc=5",
-          "publishedAt": "2026-11-19T20:55:50Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
-      "newsAttemptedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
+      "newsAttemptedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     },
     {
@@ -5553,10 +5577,70 @@
       },
       "news": [
         {
-          "title": "UnitedHealth Beats Q1 2026 and Raises Guidance - Is UNH Stock a Buy After Jumping 8%?",
-          "publisher": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVh0WFN6TXVzUmhmdTNvWGdpOXJxdmFLUml1V09vZi1zSHZTMDduOUhZUXdWc2h1d3U5QnJUZDl4aHJqZXplcndqZnlIYmlvb0x0eVdSaHFEN1FrcENkV0s3N3BYM0g2NndDUmtJeVZnZnlOcDh6NXJXLVB0ZE1UVjZYLXBXRUt1WXAxQ1FMY1YwbmVpMWhkaV8wb2swaGs2VFVKekkySHVyT2hKYzNrcnJ2X3UwZEE?oc=5",
-          "publishedAt": "2026-11-22T03:37:00Z"
+          "title": "Not Good: Medicare Proposes $107 Billion in Bonus Cuts. That’s a Big Risk for UnitedHealth and Humana",
+          "publisher": "TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTdCakZzck1sb21reTBidzN3b211NUkybU5PZW1VQk5IbFkwNk5QNTdCUHhzMFVLYmJ5dTl3STY1Q19jWEFKcWhjLURVYWs5bXRqeS1vTDhOeWlDci1OMEtLNmJxVmNtOVFRY3BxNDZyQ1ZOVkhvTFcyeGxidGFxaFptbzh6dTBRR3BBTmNlQ3U0anlVc056bVkybVZrb3ppSHcyUW1HdEhoc3ZjQXRlZlZDUkhIMGVvVGJidFFjWHo0UQ?oc=5",
+          "publishedAt": "2026-11-23T21:53:17Z"
+        },
+        {
+          "title": "UnitedHealth verliert fast 20 Prozent: Was der Kursrutsch für Medicare-Advantage-Mitglieder bedeutet",
+          "publisher": "Medical Daily",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkdTVnFBLW9CMmI3VVp0UXhjbmR4Qk1wSUhITVNoUGQ1MjFBcVl6RFJhRWJPTXRaQ3BGaDdVSXc0TlJWUk9aTUVnSDl5bDdjOGduYkpzYVVXem43enA5SDJ2dHo5MVFXQ2Qta2dXRWZIeWJNOTMzZlNhQlVYbWs3VGNxMXRXUjN6?oc=5",
+          "publishedAt": "2026-11-23T21:36:57Z"
+        },
+        {
+          "title": "UnitedHealthcare sues CMS over star ratings",
+          "publisher": "Healthcare Finance News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnRJeHZOQ1V5MlQwb19UQVJYZk56dzc0TTlBZi16ZHdoV09WeFNkcHpzVjF2eUpVeXRGNGk0VTNlMHVKRnVLbG1TeEREcnlvM3lMN1p2MEJIcDdZN01uRHQ0QlJKMFZ2RS1hT3lrNE1SWlNQSTc1bHV1TUk3MW1aLUxkRTlmSkFwdmFGY0ZwSQ?oc=5",
+          "publishedAt": "2026-11-23T15:48:44Z"
+        },
+        {
+          "title": "UnitedHealth, Humana, and CVS stocks are falling on proposed Medicare Advantage ratings rule",
+          "publisher": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVNlUWtoLXpkZnczZkIzUks0TmNNVHpkLTFNMmd3VUxrTE9jcWd1REwwWHBHWl9hbHdiWEdyY0p1TGxzWnM0WDhpdzV5ZnVZd19aakR5ei1HZ2ZmbEs1aUZLdVFMeEFWVWxIOWR1Y1FnYWk1ZW1CWEVKOVdsRjJ3VUwtVTBJUQ?oc=5",
+          "publishedAt": "2026-11-23T14:15:31Z"
+        },
+        {
+          "title": "UnitedHealth Group stock wins TD Cowen's 2027 top pick status",
+          "publisher": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDFRV1N1bllsc2pIQzJxRzZsYnVaUGg4VklQUlNCbDRwUHZwNl9XazJQaTdrVUlXeC1RTWtublR1UTRDRjZ2TVVtMTM2U2pkY0pMa1hDa1lLaG5valhrY1pYNWlTa2Zxc3E5eERhX2NQdkwyRjkxR0xEV1FZaUEtVHE0Z1lMZ2piczdsVV9QN0ZUSHlXc1ZheVdjdnIxOHBRejJQVXBqbGd6QzlFR0FtSzRZZ1JCRUd0VnZrUjIzLXprdw?oc=5",
+          "publishedAt": "2026-11-23T13:37:20Z"
+        },
+        {
+          "title": "Why is UnitedHealth stock sliding today?",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZLVFdjYWZ6cVBCMVR1aDJXQU5MS25rUG14Y0pXNHMxbU1nS0lhQ28tX1BhOGlkT1VEdUg5LVVMOXRQSnhXek04UUNpaVJhYUp0YWs5M2NuMmxoWExER3RaYjJaWTZVOHhYQk1zQzRhYUszd2J6M21QM2JFOTlTeEdMR0lCTzY4OWJmNng2U3BHbGNTdm9NWDRac0E2UzJoTHUw?oc=5",
+          "publishedAt": "2026-11-23T13:17:12Z"
+        },
+        {
+          "title": "UnitedHealth Falls 1.9 Percent on November 23",
+          "publisher": "Demokratis.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91TVJFZEtCekJ0UV9zS2J0ZmgxeEdZUlpYMnJrdnFnT1o1MUNPTHJWdDA2c0VfU2R3YVRHWFRQblhJQ1ZrZHpBYXlKeTBTX2J0X3NyWlJWRUNnZ2M4U2pwd19EUmVUanQ1enc?oc=5",
+          "publishedAt": "2026-11-23T13:01:19Z"
+        },
+        {
+          "title": "UnitedHealth Faces Regulatory Pressure Despite Analyst Upgrade",
+          "publisher": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdGpZa0VZNUNlZGg2RlptaWFzaVlqTVA2NGlXdUZsRGMwU3RFRksxQk1HWTFVeUdQc0JOT1otV21COFZIZjZob1V4cHlVSzM3amQwbmE2TnA4VTdTTUQtZm5oRzFSY2s0eGFTZFJBSQ?oc=5",
+          "publishedAt": "2026-11-23T12:27:18Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Coca-Cola, UnitedHealth, Palo Alto Networks, Natural Resource Partners and Bank of the James Financial",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUNwdHJSMkpjbjIzY0pLVFFlMUlKNHJ1aGFNQ2dUVnpkaWV5TDRhcmtUTUZScEpJQm5lb3JYdzFvWHZoSkJZUldaejJLQm9kVTAxWGtOOEprVXlDM3hycGZUcGJyeW5EZVpKajRVeHdGUTBqUDFLRDNiSWJsZk9VNjNKd2JUV0tqRWpDazNXTHo3cHBwZmdNd0tGYk1QaXNM?oc=5",
+          "publishedAt": "2026-11-23T11:51:00Z"
+        },
+        {
+          "title": "UnitedHealth Group stock at EUR 303.50, down 3.77% premarket",
+          "publisher": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlRpYWpPVTBERjNKMFhSVzF1MEpwZXFhYjJhNG5vZVZEY21PZ042MUoyUWFmYVRheWt1M1RBMGpfbUp1dEZscXYzclRTay1GUGhXNDc5Wnp0cURiMnBpXzkzWTNRR09MVFVEekhORnZZWXhTbWdqVUREVW8wc3E3WmcydkhOYlVTX1JhWnBVTmdyZ2Q4N0FNZFVFdGFWTWxKT0NNNzJKUG81MWE0Yl95bERBMVlBQ0E?oc=5",
+          "publishedAt": "2026-11-23T07:44:55Z"
+        },
+        {
+          "title": "UnitedHealth (NYSE:UNH) Sues US Government Over 2027 Medicare Advantage Star Ratings",
+          "publisher": "kalkine.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxCM2tOWmctLTBLSjIwMmVnSHRlY254RUFHeFRxcE9ycnlwbFRyVDgyZ3FJNEN3RWxPb1RfZEVrV2VzeFRCZjJIZzRHa1p5dEZxbXd6eUhiTE1ZTlRkTnZlLS1zWE56X3pVN2V5ZlRMS0U4TWVHaUF4VHE0N1ppT1Y2dTNuNXljdE1Zbjl5R1NodHJaenpQdHowNzR0ZzhLeEN4b2NVVTN6SnZvcWZwM21KaEdISVY5ZHRB?oc=5",
+          "publishedAt": "2026-11-22T17:39:00Z"
         },
         {
           "title": "TD Cowen Just Upgraded UnitedHealth Stock. Here’s Why.",
@@ -5571,61 +5655,20 @@
           "publishedAt": "2026-11-21T04:21:00Z"
         },
         {
-          "title": "UnitedHealth Sues CMS Over Medicare Advantage Star Ratings as Stock Jumps 4.6%",
-          "publisher": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rQ0ZHNnAyN1BVQXgzM2laSktlNnF2aUlUd1B1aHdzOHBpako2SlhQNEYzNVhub3k2d3hReml5ajMtS2d2R0tuR1ZwaUFPTjV1MzFjbmJpazRybUsxcHRZckF5WXpUZkw0REV0b0s5Z2NVeVk1c1E?oc=5",
-          "publishedAt": "2026-11-20T19:35:00Z"
-        },
-        {
-          "title": "UnitedHealth sues US government over lowered Medicare Advantage star ratings",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkkzc3lmejhhOURUWFN1c2pwbHBrZXJYMlNmNUt3Nk5aYUpwVUJYRkVnMmZISXR4S1hfRkY4TUZpejNfcjQ3MExMem5pS0ZCQkhEajI2dmFKWjVBM1dXQzQxVlVYbU5wdDVZTmhjRjM3dXB3MlJvSXJGVlczb1lhS3lDaW9GbkxjbWpKVEFVWXBCUC1pcmlWZzA2ODl1V0taSUVLZFhGVTFBWE5XYkpJejFwRGtJOElDdzhuVkgtT3NmNVpqS2dSLQ?oc=5",
-          "publishedAt": "2026-11-20T16:28:12Z"
-        },
-        {
-          "title": "UnitedHealth stock pops on Buy rating, price target raise from TD Cowen",
-          "publisher": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzlZSnA1cDNMQkZ1Z0VVTm1VcW03czFXUHhxbnRueGtkemFDUmpXTHh2SXppY3h6OU1LdVFBelNuUnhFN1pWeHU1c19WVUpNQjI2TUdvMjRvYzFuWkNGWUVkOExlZkRfRGZjVVBNZ0tJM2lSNFRBSHZ3R255YzlyazBDSjNZcUUtYWFZMXlGWlZpRVd5RVltQ0dxazFTb0U5bHotWFlpMFBKOHRIUWJCWkw4eFQ5VnRkZGhpdlFYOE1iam1GaE1n?oc=5",
-          "publishedAt": "2026-11-20T15:30:03Z"
-        },
-        {
-          "title": "UnitedHealth Group (UNH) Draws Breakup Bill From Elizabeth Warren",
-          "publisher": "Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckZIRDd0V2sxaVFFeWNIS01CRU9VMk5wcVBQaDF2RGtPSVNRWURPVzVxOGc2MU03WnhrTHc2aEc2RzRudEs2UjhYMUNnTXBDS1V3SXMxRW5aVlRralViNDdWLWRqMEl0YzVXaUdnMHdGWTNuUWdfU0w3a0NNSjM5YTNyNEpGeF9KbzZNNWd3bGF6RTA2VVFOUmU3cm9xa2FEeVcwMlB4UjFFTnR2SWVXMTNmTlU2cndsLWRtUG9EenQzQU9tMW9IRFVBZnIycjFWMHfSAdcBQVVfeXFMTkdrVDNfSHNmZGJnQ0tCQ0EyQ2h2MU0xeDJfRjhWSnYyUkF5OHdTaGNEYmdzRXJKUnVLeGJ4NWVQUHNWaGZlUVEyVVN5RzlHdkw0UnJ3ZGltMzJWNWlMT0FfZ1I1MHRGWXR4SXMxZFI2X3h6OHQ0b3lNMXZkOTRMSkxjX2g5Q05uaE8zY1k2b3hoQi1hdmZrelAwdF9vY1d1aXU5aGl3bjNOeDhTTUJyWGtvRUNSam1mZjM3ZExLRlBNdTV3TDlWVldyZk1ocmRRNlJBTGVoQ2s?oc=5",
-          "publishedAt": "2026-11-20T15:11:57Z"
-        },
-        {
-          "title": "Can UnitedHealth Group Stock Rally 50% After This Dip?",
-          "publisher": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlJ4WVZRYnV3Mlp0b1d0R1hYNnZyMXFxX3F0ald6bEttVGc3aTNPRXRrMFdlUjZjcGVySzc0N2NQenEySE5lLXpSeEQ2TkhKdElXdS1zbTZYZXJ2blFPZWhzS25tdnBUX0JlcThzS0NpX19rUUJFdDJVSjROcXVjQUNvd0NNNVk0TkNfRGc5M29rSl90VGdQQjNERDVfRmhEZ0F2UmhZTGp2cUUwekZRYzV3?oc=5",
-          "publishedAt": "2026-11-20T08:26:25Z"
-        },
-        {
-          "title": "UnitedHealth UNH Stock Dives 20% as Breakup Pressure and Medicare Audit Threats Hit the Healthcare Insurers",
-          "publisher": "FXLeaders",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSllwbDlDc1lkdkxMbk9RSlRtZmx4Tm93bkRMRFotZDdWdUJ5RkZGNC1DYzBEWmM0b2FrVm11RjJLT3JQYktCeE5qaF9meVFEUW9QREdTSGwyS3ZVSE56Ymwxb1VPVEhDXy15S0N1ZkZBa2thYzBiRGkzV1N4WVRmc1F3ZTNobHo1NE54eW5Gd01iRlV6SFJvM1lCX3FFQ0o4RFB3cmdwZ3M4RWQ2WU5PRkxUZ213cllld3RwQTFoZWFDUzhRRkxDbGk5azFZYVktOFBHSnU2LVRPZ3hFMjluMVJGWQ?oc=5",
-          "publishedAt": "2026-11-20T06:22:43Z"
-        },
-        {
-          "title": "UnitedHealth Stock (UNH) Falls 5.6% as Health Insurers Slide (Nov 19)",
-          "publisher": "Gotrade",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3ZwS1NkdzhucHZ4WEpGeHNyeWx0c0FQdW5CRFdRMHNGWkZ3cUdUS2dnVnRGcl9QRjJwd3dXVzRUMEltVExmUW5wNTR3ZzJoTXdUdGpHZ2o5ZkQ4NjBmVVlPaEoxRHFlMWZTLU1uS3hlX3pMVmNTTnVrS1d3Y0UydENCdVA2bUE?oc=5",
-          "publishedAt": "2026-11-20T03:45:00Z"
+          "title": "UnitedHealth Sues Over 2027 Medicare Advantage Star Ratings, Becoming at Least the 15th Plan to Challenge CMS",
+          "publisher": "Medical Daily",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3hLUlo3Yll4ZVhrcHlZekUtN0hLV3hxX2VDc2g4aDF1dGd4b0h4TTNFUE1pTmpHeWRJYXNXRlB1c1pkblRQOEE3Y3NYZjZXN0NGbUhrcXplVjBLcG5hZFhpMFUtalRnQ3dkUV9RTGZZdE4wdkN1X0hCQmpCcUVvQWlXTW1FQTFNWG1XRkplZENDUTE4anYxbVBB?oc=5",
+          "publishedAt": "2026-11-21T03:54:03Z"
         }
       ],
-      "newsCheckedAt": "2026-11-22T19:33:34Z",
-      "newsAttemptedAt": "2026-11-22T19:33:34Z",
+      "newsCheckedAt": "2026-11-23T23:50:44Z",
+      "newsAttemptedAt": "2026-11-23T23:50:44Z",
       "newsStatus": "ok"
     }
   ],
   "bonds": {
     "nominal": {
       "observations": [
-        {
-          "date": "2026-07-20",
-          "yield2": 4.21,
-          "yield10": 4.6
-        },
         {
           "date": "2026-07-21",
           "yield2": 4.26,
@@ -6055,20 +6098,21 @@
           "date": "2026-11-20",
           "yield2": 4.63,
           "yield10": 4.92
+        },
+        {
+          "date": "2026-11-23",
+          "yield2": 4.63,
+          "yield10": 4.92
         }
       ],
       "status": "ok",
-      "attemptedAt": "2026-11-22T19:33:34Z",
-      "lastSuccessAt": "2026-11-22T19:33:34Z",
+      "attemptedAt": "2026-11-23T23:50:44Z",
+      "lastSuccessAt": "2026-11-23T23:50:44Z",
       "frequency": "daily",
       "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
     },
     "real": {
       "observations": [
-        {
-          "date": "2026-07-20",
-          "real10": 2.35
-        },
         {
           "date": "2026-07-21",
           "real10": 2.37
@@ -6412,11 +6456,15 @@
         {
           "date": "2026-11-20",
           "real10": 2.77
+        },
+        {
+          "date": "2026-11-23",
+          "real10": 2.79
         }
       ],
       "status": "ok",
-      "attemptedAt": "2026-11-22T19:33:34Z",
-      "lastSuccessAt": "2026-11-22T19:33:34Z",
+      "attemptedAt": "2026-11-23T23:50:44Z",
+      "lastSuccessAt": "2026-11-23T23:50:44Z",
       "frequency": "daily",
       "sourceUrl": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value=2026"
     },
@@ -6516,8 +6564,8 @@
         }
       ],
       "status": "ok",
-      "attemptedAt": "2026-11-22T19:33:34Z",
-      "lastSuccessAt": "2026-11-22T19:33:34Z",
+      "attemptedAt": "2026-11-23T23:50:44Z",
+      "lastSuccessAt": "2026-11-23T23:50:44Z",
       "frequency": "monthly",
       "sourceUrl": "https://www.federalreserve.gov/econres/notes/feds-notes/updating-the-recession-risk-and-the-excess-bond-premium-20161006.html"
     }
